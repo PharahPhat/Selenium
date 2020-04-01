@@ -1,0 +1,97 @@
+[
+  {
+    "ClientID": "KMS_00004",
+    "ClientFirstName": "Linh",
+    "ClientMiddleInitial": "K",
+    "ClientLastName": "Phan",
+    "ClientSSN": "123450004",
+    "ClientMedicalRecordNumber": "549573288762",
+    "ClientCustomID": "412169296403539960840000",
+    "ClientOtherID": "187706700307957167550000",
+    "ClientSuffix": "Sr",
+    "Action": "A",
+    "ProviderQualifier": "SandataID",
+    "ProviderID": "ProviderID_001",
+    "CaseManager": "",
+    "ClientCaseManagerEmail": "",
+    "ClientCoordinatorEmail": "",
+    "ClientLanguage": "",
+    "ClientGender": "M",
+    "ClientBirthDate": "1990-01-02",
+    "ClientMaritalStatus": "M",
+    "ClientEmail": "resttest.04@sandata.com",
+    "ClientPriority": "",
+    "ClientTimeZone": "US/Eastern",
+    "ClientEligibility": [
+      {
+        "PayerID": "CTDSS",
+        "PayerProgram": "CTCDS",
+        "PayerService": "T1019",
+        "PayerRegion": "NA",
+        "ClientEligibilityDateBegin": "2019-03-09",
+        "ClientEligibilityDateEnd": "2019-05-08",
+        "ClientStartOfCareDate": "2019-03-10",
+        "ClientEndOfCareDate": "2019-05-08",
+        "ClientPrimaryDiagnosisCode": "M54.2",
+        "ClientSecondaryDiagnosisCode": "M54.1",
+        "ClientStatus": "02",
+        "ClientStatusDate": "2019-03-09",
+        "Modifier1": "A1",
+        "Modifier2": "A2",
+        "Modifier3": "A3",
+        "Modifier4": "A4"
+      }
+    ],
+    "ClientDesignees":[
+      {
+        "ClientDesigneeFirstName": "dsfdasdfad",
+        "ClientDesigneeLastName": "dssadfa",
+        "ClientDesigneeEmail": "adsfasdfasdf@kms.com.vn",
+        "ClientDesigneeStatus": "02",
+        "ClientDesigneeStartDate": "2019-10-10",
+        "ClientDesigneeEndDate": "2019-10-10"
+      }
+    ],
+    "ClientContact": [
+      {
+        "ClientContactType": "Other",
+        "ClientContactFirstName": "Jane",
+        "ClientContactLastName": "Done",
+        "ClientContactPhoneType": "Business",
+        "ClientContactPhone": "7185551211",
+        "ClientContactEmailAddress": "contact.01@sandata.com",
+        "ClientContactAddressLine1": "998 Little Place Drive",
+        "ClientContactAddressLine2": "991 Little Place Drive",
+        "ClientContactCity": "Manhattan",
+        "ClientContactState": "NY",
+        "ClientContactZip": "10017"
+      }
+    ],
+    "ClientAddress": [
+      {
+        "ClientAddressType": "Home",
+        "ClientAddressLine1": "777 East 7th Street",
+        "ClientAddressLine2": "111 East 7th Street",
+        "ClientCounty": "HA",
+        "ClientCity": "New York",
+        "ClientState": "NY",
+        "ClientZip": "11235"
+      },
+      {
+        "ClientAddressType": "Home",
+        "ClientAddressLine1": "777 East 7th Street",
+        "ClientAddressLine2": "111 East 7th Street",
+        "ClientCounty": "HA",
+        "ClientCity": "New York",
+        "ClientState": "NY",
+        "ClientZip": "11235"
+      }
+    ],
+    "ClientPhone": [
+      {
+        "ClientPhoneType": "Home",
+        "ClientPhone": "7185551212"
+      }
+    ]
+  }
+]

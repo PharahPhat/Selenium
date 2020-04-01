@@ -1,0 +1,12 @@
+/target/
+.idea/
+.idea/compiler.xml
+~$*.xls[x]
+Automation_Report.html
+test-output
+test-output/
+.settings
+*.iml
+.classpath
+.project
+/bin/

@@ -1,0 +1,60 @@
+[
+	{
+	"BusinessEntityID": "10013",
+	"BusinessEntityMedicaidIdentifier": "7654321",
+	"VisitOtherID":"8015267",
+	"SequenceID":"410072567",
+	"StaffOtherID":"455671782",
+	"PatientOtherID":"178148175",
+	"PatientMedicaidID":"385121182161",
+	"VisitCancelledIndicator":false,
+	"Payer":"ODA",
+	"PayerID":"77667",
+	"PayerProgram":"PP",
+	"ProcedureCode":"S5125",
+	"GroupVisitIndicator":"true",
+	"GroupVisitCode": "12378",
+	"TimeZone":"US/Eastern",
+	"AdjInDateTime":"2019-01-17T01:00:00Z",
+	"AdjOutDateTime":"2019-01-17T10:00:00Z",
+	"BillVisit":true,
+	"HoursToBill":120,
+	"VisitMemo":"45435435",
+	"MemberVerifiedTimes":true,
+	"MemberVerifiedService":true,
+	"MemberSignatureAvailable":true,
+	"MemberVoiceRecording":false,
+	"Calls":[
+		{
+		"CallExternalID":"10005445",
+		"CallDateTime":"2019-01-17T01:00:00Z",
+		"CallAssignment":"Call In",
+		"CallType":"Mobile",
+		"GroupVisitCode":"12378",
+		"ProcedureCode":"S5125",
+		"PatientIdentifierOnCall":"02225",
+		"MobileLogin":"qweqewq",
+		"CallLatitude":"86.2",
+		"CallLongitude":"160.2",
+		"TelephonyPIN":"2252",
+		"OriginatingPhoneNumber":"1234567890"
+		}
+	],
+	"VisitException":[
+		{
+		"ExceptionID":"25",
+		"ExceptionAcknowledged":"true"
+		}
+	],
+	"VisitChanges":[
+		{
+		"SequenceID":"410072567",
+		"ChangeMadeByEmail":"5fddfgg@gmail.com",
+		"ChangeDateTime":"2019-01-17T00:00:00Z",
+		"ReasonCode":"1235",
+		"ChangeReasonMemo":"3435435437",
+		"ResolutionCode":"A"
+		}
+	]
+	}
+]

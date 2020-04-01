@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Automation Smoke Test">
+	<test name="Regression Test Suite Smoke Test" thread-count="1"
+		  parallel="classes">
+		<groups>
+			<run>
+				<include name="Smoke"/>
+				<exclude name="Bug" />
+			</run>
+		</groups>
+		<packages>
+            <package name="SmokeTests.AltEVV_Generic" />
+			<package name="SmokeTests.AltEVV_Molina" />
+            <package name="SmokeTests.AltEVV_Ohio_V1" />
+            <package name="SmokeTests.AltEVV_Ohio_V2" />
+            <package name="SmokeTests.OpenEVV" />
+            <package name="SmokeTests.DSV.Molina" />
+		</packages>
+	</test>
+    <listeners>
+        <listener
+                class-name="Utills_ExtentReport_Log4j.ExtentReporterNG" />
+    </listeners>
+</suite>

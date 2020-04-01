@@ -1,0 +1,14 @@
+[
+  {
+    "BusinessEntityID": "10010",
+    "BusinessEntityMedicaidIdentifier": "0010010",
+    "StaffOtherID": "11523992",
+    "SequenceID": "105211992",
+    "StaffID" : "255254996",
+    "StaffSSN": "190524972",
+    "StaffLastName": "Chau",
+    "StaffFirstName": "LiemC",
+    "StaffEmail": "lc02singh@email.com",
+    "StaffPosition": "LPN"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+  	"ProviderIdentification": {
+      "ProviderID": "243851796",
+      "ProviderQualifier": "SandataID"
+    },
+    "VisitOtherID": "100023",
+    "SequenceID": 189900023,
+    "EmployeeIdentifier": "1160008",
+    "ClientIdentifier": "226160005",
+    "ClientID": "226160005",
+    "VisitCancelledIndicator": false,
+    "PayerID": "MEDHHS",
+    "PayerProgram": "19",
+    "ProcedureCode": "G0151",
+    "VisitTimeZone": "US/Eastern",
+    "ScheduleStartTime": "2018-12-23T09:02:26Z",
+    "ScheduleEndTime": "2018-12-23T11:02:26Z",
+    "BillVisit": true,
+    "HoursToBill": 10,
+    "HoursToPay": 10,
+    "Memo": "This is a MEMO!",
+    "ClientVerifiedTimes": true,
+    "ClientVerifiedTasks": true,
+    "ClientVerifiedService": false,
+    "ClientSignatureAvailable": true,
+    "ClientVoiceRecording": true,
+    "Calls": [
+      {
+        "CallExternalID": "67732222",
+        "CallDateTime": "2018-12-23T11:02:26Z",
+        "CallAssignment": "Time In",
+        "CallType": "Other",
+        "ProcedureCode": "G0156",
+        "ClientIdentifierOnCall": "98733222",
+        "MobileLogin": "98733222",
+        "CallLatitude": 40.34455,
+        "CallLongitude": -21.99383,
+        "Location": "123",
+        "TelephonyPIN": 9989999,
+        "OriginatingPhoneNumber": "2125551212",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      },
+      {
+        "CallExternalID": "67732222",
+        "CallDateTime": "2018-12-23T11:02:26Z",
+        "CallAssignment": "Time Out",
+        "CallType": "Other",
+        "ProcedureCode": "G0156",
+        "ClientIdentifierOnCall": "98733222",
+        "MobileLogin": "98733222",
+        "CallLatitude": 40.34455,
+        "CallLongitude": -21.99383,
+        "Location": "123",
+        "TelephonyPIN": 9989999,
+        "OriginatingPhoneNumber": "2125551212",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "VisitExceptionAcknowledgement": [
+      {
+        "ExceptionID": "15",
+        "ExceptionAcknowledged": false
+      }
+    ],
+    "VisitChanges": [
+      {
+        "SequenceID": "189900023",
+        "ChangeMadeBy": "svam0000@test.com",
+        "ChangeDateTime": "2018-12-11T11:45:00Z",
+        "GroupCode": "9223",
+        "ReasonCode": "9223",
+        "ChangeReasonMemo": "Change Reason Memo 9223",
+        "ResolutionCode": "A"
+      }
+    ],
+    "ErrorCode": null,
+    "ErrorMessage": null
+  }
+]

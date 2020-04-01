@@ -1,0 +1,52 @@
+[
+{
+  "accountInterfaceConfigurationSK": null,
+  "account": null,
+  "interfaceId": null,
+  "interfaceDirectionQualifier": "EXPORT",
+  "accountInterfaceName": "EVV_DWH",
+  "accountInterfaceConfigurationSchedule": "*+*+0/1+?+*+*",
+  "messageQueueTypeCode": "RabbitMQ",
+  "messageQueueInformation": {
+    "queueName": "EVV_DWH_EXPORT-DEV-Queue",
+    "exchangeName": "EVV_DWH_EXPORT-DEV-Exchange",
+    "routingKey": "EVV_DWH_EXPORT-DEV-RoutingKey",
+    "requestTimeout": "60000",
+    "maxPendingCycle": "3"
+  },
+  "interfaceDataExchangeFormat": "csv",
+  "interfaceDataExchangeInformation": {
+    "fileNamePattern": "State_EVV_DWExtract_<segment>_<datetime>.txt",
+    "timestamp": "MMddyy_HH_mm_ss",
+    "writeHeader": "true",
+    "delimiter": "|",
+    "quote": "\"",
+    "recordSeparator": "\r\n",
+    "quoteMode": "ALL",
+    "pgpPublicKey":null
+  },
+  "interfaceDataExchangeType": "SFTP",
+  "accountInterfaceEndpointInformation": {
+    "port": "22",
+    "host": "nhdevftp.sandata.com",
+    "username": "talend",
+    "password": "FZ4gd-Qd",
+    "folder": "DevOhioInterfaces/DevSwarmExportDataWarehouse"
+  },
+  "recordCreatedBy": "Configure-Etl-Job API",
+  "recordUpdatedBy": "Configure-Etl-Job API",
+  "accountInterfaceActiveFlag": true,
+  "accountInterfaceDirectory": "target/evv-dwh-export/",
+  "accountInterfaceParamInformation": {
+    "exportMode": "1",
+    "startDate": "2018-11-01T00:00:00Z",
+    "endDate": "2018-11-01T04:35:00Z",
+    "backDays": null,
+    "groupKey": "93",
+    "contract": "State",
+    "username": "",
+    "spv": "_ALL",
+    "account": ""
+  }
+}
+]

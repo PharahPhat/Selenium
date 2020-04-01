@@ -1,0 +1,33 @@
+[
+  {
+    "Account": "14420",
+    "EmployeePIN": "777000895",
+    "EmployeeLastName": "Mittal",
+    "EmployeeFirstName": "Mayank",
+    "EmployeeMiddleInitial": "N",
+    "Department": "QA",
+    "EmployeeAPI":"1234",
+    "EmployeeType": "T",
+    "Discipline": "RN",
+    "EmployeeEmailAddress": "mayank.mittal@mailinator.com",
+    "EmployeeAddress1": "123 Okhla Bird Lane",
+    "EmployeeAddress2": "2GL",
+    "EmployeeCity": "Washington",
+    "EmployeeState": "NY",
+    "EmployeeZipCode": "11247",
+    "EmployeePhone": "2125551090",
+    "EmployeeAltPhone": "3475551810",
+    "EmployeeAltPhone2": "7185551787",
+    "EmployeeID": "99999",
+    "EmployeeIDCustom1": "1234567890",
+    "EmployeeIDCustom2": "9123456789",
+    "EmployeeSocialSecurity": "493821012",
+    "PayRate": "99.99",
+    "EmployeeHireDate": "06282018",
+    "EmployeeEndDate": "06282030",
+    "EmployeeBirthDate": "05031988",
+    "EmployeeGender": "M",
+    "EmployeePrimaryLocation": "Washington",
+    "Status": ""
+  }
+]

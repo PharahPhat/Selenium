@@ -1,0 +1,26 @@
+[
+  {
+    "ProviderQualifier": "Other",
+    "ProviderID": "MolinaKmsAuto",
+    "ProviderName": "MolinaKmsAuto",
+    "PayerID": "ODM",
+    "ProviderDoingBusinessAs": "MolinaKmsAuto",
+    "AddressLine1": "Molina Kms Auto add1",
+    "AddressLine2": "Molina Kms Auto add2",
+    "AddressCity": "1",
+    "AddressState": "AL",
+    "AddressZip": "23413",
+    "County": "1",
+    "AgencyPhone": "0434343434",
+    "AgencyEmail": "kmsauto@egmail.com",
+    "PrimaryContactLastName": "1",
+    "PrimaryContactFirstName": "1",
+    "ProviderFax": "1333333333",
+    "ProviderNPI": "1",
+    "ProviderAPI": "1",
+    "TaxID": "123233333",
+    "ProviderRequireAuth": "0",
+    "SuspensionDate": "",
+    "TerminationDate": ""
+  }
+]

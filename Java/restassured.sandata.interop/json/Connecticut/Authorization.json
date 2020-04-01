@@ -1,0 +1,38 @@
+[
+  {
+    "PayerID": "Zitest",
+    "PayerProgram": "Testabc",
+    "ClientQualifier": "ClientSSN",
+    "ClientIdentifier": "67526",
+    "EmployeeID": "276136657",
+    "EmployeePINQualifier": "EmployeeCustomID",
+    "ProviderQualifier": "SandataID",
+    "ProviderID": "3020504",
+    "AuthorizationReferenceNumber": "4534523423235",
+    "AuthorizationServiceID": "1015",
+    "AuthorizationBillingType": "Test101",
+    "Modifier1": null,
+    "Modifier2": null,
+    "Modifier3": null,
+    "Modifier4": null,
+    "AuthorizationAmountType": "H",
+    "AuthorizationMaximum": "123",
+    "Units": "12",
+    "AuthorizationStartDate": "2019-03-11",
+    "AuthorizationEndDate": "2019-03-11",
+    "AuthorizationShared": "Y",
+    "AuthorizationComments": null,
+    "AuthorizationLimitType": "W",
+    "AuthorizationStatus": "A",
+    "ClientDiagnosisCode": "E10.45",
+    "AuthorizationLimits": [
+      {
+        "AuthorizationLimit": "123",
+        "AuthorizationWeekStart": "Sun",
+        "AuthorizationLimitDayOfWeek": null,
+        "AuthorizationLimitStartTime": "0600",
+        "AuthorizationLimitEndTime": "1100"
+      }
+    ]
+  }
+]

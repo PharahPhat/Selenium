@@ -1,0 +1,61 @@
+[{
+  "accountInterfaceConfigurationSK": null,
+  "account": null,
+  "interfaceId": null,
+  "interfaceDirectionQualifier": "EXPORT",
+  "accountInterfaceName": "EVV_DWH",
+  "accountInterfaceConfigurationSchedule": "*+*+0/1+?+*+*",
+  "messageQueueTypeCode": "RabbitMQ",
+  "messageQueueInformation": {
+    "queueName": "EVV_DWH_EXPORT-DEV-Queue",
+    "exchangeName": "EVV_DWH_EXPORT-DEV-Exchange",
+    "routingKey": "EVV_DWH_EXPORT-DEV-RoutingKey",
+    "requestTimeout": "60000",
+    "maxPendingCycle": "3"
+  },
+  "interfaceDataExchangeFormat": "CSV",
+  "interfaceDataExchangeInformation": {
+    "fileNamePattern": "<PayerID>_EVV_DWExtract_<segment>_<datetime>.txt",
+    "timestamp": "MMddyy_HH_mm_ss",
+    "writeHeader": "true",
+    "delimiter": "|",
+    "quote": "\"",
+    "recordSeparator": "\r\n",
+    "quoteMode": "ALL",
+    "pgpPublicKeyPath": null,
+    "payerId": "ODM",
+    "controlFileExtension": "DAT",
+    "specVersion": "maine",
+    "fileExtension": ".csv"
+  },
+  "interfaceDataExchangeType": "SFTP",
+  "accountInterfaceEndpointInformation": {
+    "port": "22",
+    "host": "nhdevftp.sandata.com",
+    "username": "talend",
+    "password": "FZ4gd-Qd",
+    "folder": "DevOhioInterfaces/DevSwarmExportDataWarehouse"
+  },
+  "recordCreatedBy": "Configure-Etl-Job API",
+  "recordUpdatedBy": "Configure-Etl-Job API",
+  "accountInterfaceActiveFlag": true,
+  "accountInterfaceDirectory": "target/evv-dwh-export/",
+  "accountInterfaceParamInformation": {
+    "exportMode": "1",
+    "startDate": "2018-10-01T00:00:00",
+    "endDate": "2018-10-30T00:00:00",
+    "backDays": null,
+    "groupKey": "93",
+    "providerMode": "F",
+    "payerMode": "F",
+    "clientMode": "F",
+    "scheduleMode": "F",
+    "employeeMode": "F",
+    "contract": "_ALL",
+    "username": "",
+    "spv": "_ALL",
+    "account": "10011",
+    "payerId": "ODM"
+  }
+}
+]

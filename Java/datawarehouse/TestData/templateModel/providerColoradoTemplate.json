@@ -1,0 +1,29 @@
+[
+  {
+    "ProviderQualifier": "MedicaidID",
+    "ProviderID": "PRO2D00050011",
+    "ProviderName": "name5001",
+    "PayerID": "COHCPF",
+    "ProviderDoingBusinessAs": "",
+    "AddressLine1": "PO BOX 781",
+    "AddressLine2": "PO BOX 782",
+    "AddressCity": "NY",
+    "AddressState": "NH",
+    "AddressZip": "03820",
+    "County": "STRAFFORD",
+    "AgencyPhone": "6034227309",
+    "AgencyEmail": "phatnguyenz25001@email.com",
+    "PrimaryContactLastName": "Phattt",
+    "PrimaryContactFirstName": "Nguyennnn",
+    "ProviderFax": "6034307686",
+    "ProviderNPI": "1073633378",
+    "ProviderAPI": "035465",
+    "ProviderMedicaidID":"AAA11",
+    "TaxID": "820505172",
+    "ProviderTaxonomy": null,
+    "SSN":"023456781",
+    "ProviderRequireAuth": null,
+    "ProviderDateBegin":null,
+    "ProviderDateEnd" : "2019-01-01"
+  }
+]

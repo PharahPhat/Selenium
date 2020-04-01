@@ -1,0 +1,93 @@
+[
+  {
+    "ClientID": "55267687",
+    "ClientFirstName": "John",
+    "ClientMiddleInitial": "D",
+    "ClientLastName": "Doe",
+    "ClientSSN": "888456789",
+    "ClientMedicalRecordNumber": null,
+    "ClientCustomID": "356456789",
+    "ClientOtherID": "HBT1864",
+    "ClientSuffix": null,
+    "Action": "A",
+    "ProviderQualifier": "SandataID",
+    "ProviderID": "123456",
+    "CaseManager": null,
+    "ClientCaseManagerEmail": null,
+    "ClientCoordinatorEmail": null,
+    "ClientLanguage": null,
+    "ClientGender": "M",
+    "ClientBirthDate": "1990-01-02",
+    "ClientMaritalStatus": "M",
+    "ClientEmail": "test@sandata.com",
+    "ClientPriority": null,
+    "ClientTimeZone": "US/Eastern",
+    "ClientDesigneeFirstName": null,
+    "ClientDesigneeLastName": null,
+    "ClientDesigneeEmail": null,
+    "ClientDesigneeStatus": "04",
+    "ClientDesigneeStartDate": null,
+    "ClientDesigneeEndDate": null,
+    "ClientEligibility": [{
+      "PayerID": "1890017",
+      "PayerProgram": "program",
+      "PayerService": "T1001",
+      "PayerRegion": "NA",
+      "ClientEligibilityDateBegin": "2017-12-12",
+      "ClientEligibilityDateEnd": "2018-12-12",
+      "ClientStartOfCareDate": "2017-12-12",
+      "ClientEndOfCareDate": "2018-12-12",
+      "ClientPrimaryDiagnosisCode": "M54.2",
+      "ClientSecondaryDiagnosisCode ": null,
+      "ClientStatus": "02",
+      "ClientStatusDate": "2018-01-01",
+      "Modifier1": "A1",
+      "Modifier2": "A2",
+      "Modifier3": "A3",
+      "Modifier4": "A4"
+    }
+    ],
+    "ClientContact": [{
+      "ClientContactType": "Other",
+      "ClientContactFirstName": "Jane",
+      "ClientContactLastName": "Done",
+      "ClientContactPhoneType": null,
+      "ClientContactPhone": null,
+      "ClientContactEmailAddress": "jane@sandata.com",
+      "ClientContactAddressLine1": "998 Little Place Drive",
+      "ClientContactAddressLine2": null,
+      "ClientContactCity": "Manhattan",
+      "ClientContactState": "NY",
+      "ClientContactZip": "10017"
+    }
+    ],
+    "ClientAddress": [{
+      "ClientAddressType": "Home",
+      "ClientAddressLine1": "777 East 7th Street",
+      "ClientAddressLine2": null,
+      "ClientCity": "New York",
+      "ClientCounty": "HA",
+      "ClientState": "NY",
+      "ClientZip": "11235"
+    }
+    ],
+    "ClientPhone": [{
+      "ClientPhoneType": "Home",
+      "ClientPhone": "7185551212"
+    }, {
+      "ClientPhoneType": "Business",
+      "ClientPhone": "7185551214"
+    }
+    ],
+    "ClientWorkerXref": [{
+      "Account": "9999999999",
+      "VendorCode": "12V",
+      "EmployeePIN": "999999999",
+      "ClientID": "1111111111",
+      "Service": "T1001",
+      "XRefStartDate": "2018-01-01",
+      "XRefEndDate": "2019-12-31"
+    }
+    ]
+  }
+]

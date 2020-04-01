@@ -1,0 +1,70 @@
+[
+  {
+    "PayerID": "ODM",
+    "ProcedureCode": "S5125",
+    "MemberSignatureAvailable": "true",
+    "HoursToBill": "0",
+    "VisitException": [
+      {
+        "ExceptionAcknowledged": "true",
+        "ExceptionID": "25"
+      }
+    ],
+    "MemberVerifiedTimes": "true",
+    "VisitChanges": [
+      {
+        "ChangeReasonMemo": "MCNJWHUHZW",
+        "ChangeDateTime": "2018-07-30T07:32:25Z",
+        "ChangeMadeByEmail": "MQFDNOFKGS@sandata.com",
+        "ReasonCode": "5830",
+        "ResolutionCode": "A",
+        "SequenceID": "690881370990702"
+      }
+    ],
+    "VisitCancelledIndicator": "true",
+    "PatientOtherID": null,
+    "Payer": "ODM",
+    "PayerProgram": "Ohio Home Care Waiver",
+    "BusinessEntityID": "10010",
+    "MemberVerifiedService": "true",
+    "Calls": [
+      {
+        "CallAssignment": "Call In",
+        "TelephonyPIN": "TAGNLWZFV",
+        "CallLongitude": "122",
+        "ProcedureCode": "S5125",
+        "CallType": "Manual",
+        "PatientIdentifierOnCall": "HK1Q2HFCCZ",
+        "MobileLogin": "JKMY35FB0A4I8CWRHR5TXUF0G7CC8805YO5F2Q3DLOG",
+        "CallExternalID": "0488170685380",
+        "CallLatitude": "16",
+        "OriginatingPhoneNumber": "1317719321",
+        "CallDateTime": "2018-07-30T03:32:25Z"
+      },
+      {
+        "CallAssignment": "Call Out",
+        "TelephonyPIN": "TAGNLWZFV",
+        "CallLongitude": "122",
+        "ProcedureCode": "S5125",
+        "CallType": "Manual",
+        "PatientIdentifierOnCall": "HK1Q2HFCCZ",
+        "MobileLogin": "JKMY35FB0A4I8CWRHR5TXUF0G7CC8805YO5F2Q3DLOG",
+        "CallExternalID": "0488170685380",
+        "CallLatitude": "16",
+        "OriginatingPhoneNumber": "1317719321",
+        "CallDateTime": "2018-07-30T04:32:25Z"
+      }
+    ],
+    "AdjOutDateTime": "2018-07-30T07:31:25Z",
+    "PatientMedicaidID": "657003535125",
+    "AdjInDateTime": "2018-07-29T23:32:25Z",
+    "BusinessEntityMedicaidIdentifier": "7654321",
+    "TimeZone": "US\/Eastern",
+    "MemberVoiceRecording": "true",
+    "VisitOtherID": "A8NSZEFYZMA3",
+    "StaffOtherID": "001076",
+    "VisitMemo": "UK5JBZK2SCOSFMNUWY1AOM8315K91KR2TK47UOUV59CSZF2",
+    "BillVisit": "true",
+    "SequenceID": "411040372303"
+  }
+]

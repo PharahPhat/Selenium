@@ -1,0 +1,3 @@
+"BusinessEntityMedicaidIdentifier"|"RequestType"|"BatchID"|"TransactionID"|"Payer"|"ICN"|"DLN"|"ProviderQualifier"|"ProviderID"|"PatientQualifier"|"PatientID"|"ServiceStartDate"|"ServiceEndDate"|"ProcedureCode"|"Units"|"UnitsRule"|"Modifier1"|"Modifier2"|"Modifier3"|"Modifier4"|"MatchingRule"
+"3134984"|"Model2"|"575680063287"|"54471871252"|"ODM"|"5448811242"|"71"|"MedicaidID"|"3134984"|"MedicaidID"|"433432323223"|"2019-04-02"|"2019-04-02"|"G0156"|"2"|"AddUnits"|""|""|""|""|"EqualOrGreaterThan"
+"3134984"|"Model3"|"575680063287"|"54478271253"|"ODM"|"5448821243"|"70"|"MedicaidID"|"3134984"|"MedicaidID"|"433432323223"|"2019-04-01"|"2019-04-01"|"G0299"|"2"|"AddUnits"|""|""|""|""|"EqualOrGreaterThan"

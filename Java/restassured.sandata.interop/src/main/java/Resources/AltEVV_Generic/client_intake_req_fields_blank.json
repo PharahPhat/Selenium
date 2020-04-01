@@ -1,0 +1,106 @@
+[
+{
+  "ProviderIdentification": {
+    "ProviderID": "",
+    "ProviderQualifier": ""
+  },
+"ClientCustomID": "448599",
+"ClientFirstName": "",
+"ClientID": "",
+"ClientIdentifier": "",
+"ClientLastName": "",
+"ClientMedicaidID": "551808771234",
+"ClientMiddleInitial": "T",
+"ClientOtherID": "66447990",
+"ClientQualifier": "",
+"ClientSSN": "916655656",
+"ClientTimezone": "",
+"ErrorCode": "string",
+"ErrorMessage": "string",
+"PayerName": "test",
+"ProviderID": "",
+"ProviderQualifier": "",
+"SequenceID": "",
+"ClientPhone": [
+{
+"ClientPhoneNumber": "9066565688",
+"ClientPhoneType": "Home"
+}
+
+],
+"Client_Payer_Information": [
+{
+ "PayerID": "ODA",
+ "PayerProgram": "PP",
+ "ProcedureCode": "S5125"
+"ClientPayerID": "",
+"ClientEligibilityDateBegin": "",
+"ClientEligibilityDateEnd": "",
+"ClientStatus": ""
+}
+],
+"ClientAddress": [
+{
+"ClientAddressIsPrimary": "",
+"ClientAddressLine1": "",
+"ClientAddressLine2": "1 E 2nd St",
+"ClientAddressType": "",
+"ClientCity": "",
+"ClientCounty": "string",
+"ClientLatitude": null,
+"ClientLongitude": null,
+"ClientState": "",
+"ClientZip": ""
+},
+{
+"ClientAddressIsPrimary": "",
+"ClientAddressLine1": "",
+"ClientAddressLine2": "1 E 2nd St",
+"ClientAddressType": "",
+"ClientCity": "",
+"ClientCounty": "string",
+"ClientLatitude": null,
+"ClientLongitude": null,
+"ClientState": "",
+"ClientZip": ""
+}
+],
+"ClientResponsibleParty": [
+{
+"ClientContactAddressLine1": "808 Broadway",
+"ClientContactAddressLine2": "Affinia Manhattan Hotel",
+"ClientContactCity": "SanJose",
+"ClientContactEmailAddress": "jk@gmail.com",
+"ClientContactLastName": "sen",
+"ClientContactPhone": "9128128128",
+"ClientContactPhoneType": "Business",
+"ClientContactState": "NY",
+"ClientContactType": "Family",
+"ClientContactZip": "92812",
+"ClientContactFirstName": "peter"
+}
+],
+"ClientPayerInformation": [{
+        "PayerID": "ODA",
+         "PayerProgram": "PP",
+         "ProcedureCode": "S5125"
+        "ClientPayerID": "TC95821ClientPayerID",
+
+        "ClientEligibilityDateBegin": "2018-12-09",
+        "ClientEligibilityDateEnd": "2018-12-10",
+
+        "ClientStatus": "02"
+      },
+      {
+        "PayerID": "ODA",
+         "PayerProgram": "PP",
+         "ProcedureCode": "S5125"
+        "ClientPayerID": "TC95821ClientPayerID",
+        "ClientEligibilityDateBegin": "2018-12-09",
+        "ClientEligibilityDateEnd": "2018-12-10",
+
+        "ClientStatus": "02"
+      }
+]
+}
+]

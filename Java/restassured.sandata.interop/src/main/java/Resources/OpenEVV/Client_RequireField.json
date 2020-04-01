@@ -1,0 +1,75 @@
+[
+  {
+    "Account": "14420",
+    "ClientID": "21031",
+    "ClientLastName": "Justhave afun with the boys",
+    "ClientFirstName": "Justhave afun with the boys",
+    "ClientMiddleName": null,
+    "ClientSSN": null,
+    "ClientMedicaidID": null,
+    "RecipientIDCustom1": null,
+    "RecipientIDCustom2": "Cust2",
+    "CaseManager": null,
+    "Coordinator": null,
+    "ClientMedicalRecordNumber": null,
+    "ARNumber": null,
+    "ClientGender": null,
+    "ClientBirthDate": null,
+    "ClientMaritalStatus": null,
+    "ClientLanguage": null,
+    "DischargeDate": null,
+    "ClientTimeZone": "US/Eastern",
+    "ClientPriority": null,
+    "Team": null,
+    "Branch": null,
+    "Borough": null,
+    "Area": null,
+    "Weekend": null,
+    "PayerID": "987654",
+    "ClientAdTypeID": null,
+    "ProgramCode": null,
+    "Service": null,
+    "ClientPrimaryDiagnosisCode": "z0a.a319",
+    "BillRate": null,
+    "CaseNumber": null,
+    "CaseSequence": null,
+    "MobileDevice": "Y",
+    "Status": null,
+    "ClientAddressLine1": "Rdsadsadsadsadsadsa",
+    "ClientAddressLine2": null,
+    "ClientCity": "Rdsadsadsadsadsadsa",
+    "ClientState": "NY",
+    "ClientZip": "11230-0890",
+    "ClientAddressType": null,
+    "ClientEmailAddress":null,
+   
+       "ContactPhoneNumber": "2345678901",
+    "ClientAddress": [
+      {
+        "Account": "14420",
+        "ClientID": "21031",
+        "AddressType": "Other",
+        "ClientAddressLine1": "Rdsadsadsadsadsadsa",
+        "ClientAddressLine2": null,
+        "ClientCity": "Brooklyn",
+        "ClientState": "NY",
+        "ClientZip": "11235",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "ClientPhone": [
+      {
+        "Account": "14420",
+        "ClientID": "21031",
+	"ClientPhoneType": "Mobile",
+        "ClientPhone": 2345678901,
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "ErrorCode": null,
+    "ErrorMessage": null
+  }
+]
+ 

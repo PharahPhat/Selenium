@@ -1,0 +1,76 @@
+[
+  {
+    "ClientAddress": [
+      {
+        "ClientAddressIsPrimary": true,
+        "ClientAddressLine1": "Test data address line 1",
+        "ClientAddressLine2": "Test data address line 2 ",
+        "ClientAddressType": "Home",
+        "ClientCity": "Miniapolis",
+        "ClientCounty": "USA",
+        "ClientAddressLatitude": -5,
+        "ClientAddressLongitude": 18,
+        "ClientState": "NY",
+        "ClientZip": "11312"
+      },
+      {
+        "ClientAddressIsPrimary": false,
+        "ClientAddressLine1": "qa123",
+        "ClientAddressLine2": "trete44343",
+        "ClientAddressType": "Business",
+        "ClientCity": "Noida",
+        "ClientCounty": "USA",
+        "ClientAddressLatitude": 5,
+        "ClientAddressLongitude": 18,
+        "ClientState": "NY",
+        "ClientZip": "11312"
+      }
+    ],
+    "ClientCustomID": "1221000030",
+    "ClientFirstName": "Marr",
+    "ClientID": null,
+    "ClientIdentifier": "164010030",
+    "ClientLastName": "SyznRRR",
+    "ClientMedicaidID": "226160030",
+    "ClientMiddleInitial": "M",
+    "ClientOtherID": "22700030",
+    "ClientPayerInformation": [
+      {
+        "PayerID": "MEDHHS",
+	    "PayerProgram": "40",
+	    "ProcedureCode": "G0152"
+      }
+    ],
+    "ClientPhone": [
+      {
+        "ClientPhone": "8877889922",
+        "ClientPhoneType": "Home",
+        "ErrorCode": "2",
+        "ErrorMessage": "ErroestQA"
+      }
+    ],
+    "ClientQualifier": "ClientCustomID",
+    "ClientResponsibleParty": [
+      {
+        "ClientContactAddressLine1": "ClientContactAdd1 Client",
+        "ClientContactAddressLine2": "ClientContactAdd client",
+        "ClientContactCity": "York",
+        "ClientContactEmailAddress": "test35482@mailinator.com",
+        "ClientContactLastName": "Martinez",
+        "ClientContactPhone": "9988778821",
+        "ClientContactPhoneType": "Mobile",
+        "ClientContactState": "NY",
+        "ClientContactType": "Other",
+        "ClientContactZip": "16021",
+        "ClientContactFirstName": "Jennifer"
+      }
+    ],
+    "ClientSSN": "176700030",
+    "ClientTimezone": "US/Eastern",
+    "ProviderIdentification": {
+      "ProviderID": "243851796",
+      "ProviderQualifier": "MedicaidID"
+    },
+    "SequenceID": "20201070110052"
+  }
+]

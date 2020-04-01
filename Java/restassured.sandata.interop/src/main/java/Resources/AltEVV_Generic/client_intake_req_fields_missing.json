@@ -1,0 +1,48 @@
+[
+{
+"ClientCustomID": "448599",
+"ClientMedicaidID": "551808771234",
+"ClientMiddleInitial": "T",
+"ClientOtherID": "66447990",
+"ClientSSN": "916655656",
+"ErrorCode": "string",
+"ErrorMessage": "string",
+"PayerName": "test",
+"ClientPhone": [
+{
+"ClientPhoneNumber": "9066565688",
+"ClientPhoneType": "Home"
+}
+
+],
+"Client_Payer_Information": [
+{
+"ClientPayerID": "",
+"ClientEligibilityDateBegin": "",
+"ClientEligibilityDateEnd": "",
+"ClientStatus": ""
+}
+],
+"ClientAddress": [
+{
+"ClientAddressLine2": "1 E 2nd St",
+"ClientCounty": "string"
+}
+],
+"ClientResponsibleParty": [
+{
+"ClientContactAddressLine1": "808 Broadway",
+"ClientContactAddressLine2": "Affinia Manhattan Hotel",
+"ClientContactCity": "SanJose",
+"ClientContactEmailAddress": "jk@gmail.com",
+"ClientContactLastName": "sen",
+"ClientContactPhone": "9128128128",
+"ClientContactPhoneType": "Business",
+"ClientContactState": "NY",
+"ClientContactType": "Family",
+"ClientContactZip": "92812",
+"ClientContactFirstName": "peter"
+}
+]
+}
+]

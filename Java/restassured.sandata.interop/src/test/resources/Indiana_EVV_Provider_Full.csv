@@ -1,0 +1,3 @@
+"ProviderID"|"ProviderQualifier"|"ProviderName"|"PayerID"|"ProviderDoingBusinessAs"|"AddressLine1"|"AddressLine2"|"AddressCity"|"AddressState"|"AddressZip"|"County"|"AgencyPhone"|"AgencyEmail"|"PrimaryContactLastName"|"PrimaryContactFirstName"|"ProviderFax"|"ProviderNPI"|"ProviderAPI"|"ProviderMedicaidID"|"SSN"|"TaxID"|"ProviderTaxonomy"|"ProviderRequireAuth"|"ProviderDateBegin"|"ProviderDateEnd"
+
+"10000001990"|"NPI"|"VELMA L. (HX) LEWIS"|"INFSSA"|"ravi_sandata@yopmail.com"|"7704 BOTTOM LANE"|"Ravi address"|"New york"|"IN"|"119720000"|"test"|"0641337710"|"ravitester@svamtest.com"|"Kumar LEWIS"|"ravi L."|"1234567890"|"1234"|""|""|""|"102418042"|""|""|"1993-06-07"|"2299-12-31"

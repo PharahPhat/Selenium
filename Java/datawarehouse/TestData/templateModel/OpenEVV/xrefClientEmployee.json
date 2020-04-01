@@ -1,0 +1,12 @@
+[
+  {
+    "Account": "14420",
+    "EmployeePIN": "999988884",
+    "ClientID": "21075",
+    "Service": "3030Z",
+    "XRefStartDate": "08122018",
+    "XRefEndDate": "07102019",
+    "ClientIDQualifier": "ClientID",
+    "EmployeeQualifier": "EmployeePIN"
+  }
+]

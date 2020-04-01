@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="allSuites" verbose="1">
+    <parameter name="testType" value="api"></parameter>
+    <test name="All" verbose="1">
+        <classes>
+            <class name="dwh.connecticut.Auto_SEVV_DWH_TC_0003_Export_Files_Connecticut"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18745_CLIENT_SCHEDULE_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18740_VISIT_CLAIMST_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18739_VISIT_EXCP_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18738_VISIT_TASKS_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18736_CLIENT_PHONE_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18735_VISIT_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18734_CLIENT_ADDR_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18733_PROVIDER_LOC_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18732_VISIT_CALLS_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18727_VISIT_CHANGES_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18726_EMP_DISC_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18722_EMP_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18724_CLIENT_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.connecticut.Auto_SEVV_TC_18725_PROVIDER_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <parameter name="testType" value="api"></parameter>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,83 @@
+[
+  {
+    "VisitExceptionAcknowledgement": [
+      {
+        "ExceptionAcknowledged": false,
+        "ExceptionID": "15"
+      }
+    ],
+    "PayerID": "PAODP",
+    "EmployeeQualifier": "EmployeeCustomID",
+    "ProcedureCode": "G0155",
+    "HoursToBill": 10,
+    "ProviderIdentification": {
+      "ProviderID": "012345684",
+      "ProviderQualifier": "MedicaidID"
+    },
+    "VisitChanges": [
+      {
+        "ChangeReasonMemo": "Change Reason Memo 9223",
+        "ChangeMadeBy": "kms@test.com",
+        "ChangeDateTime": "2019-09-06T03:29:49Z",
+        "GroupCode": "94567",
+        "ReasonCode": "70",
+        "ResolutionCode": "A",
+        "SequenceID": "2019090602344989"
+      }
+    ],
+    "VisitCancelledIndicator": false,
+    "ScheduleEndTime": "2019-09-06T02:54:49Z",
+    "ClientVerifiedService": "true",
+    "ClientIDQualifier": "ClientCustomID",
+    "ClientVoiceRecording": true,
+    "EmployeeIdentifier": "180010",
+    "PayerProgram": "ODP",
+    "ClientVerifiedTasks": true,
+    "ScheduleStartTime": "2019-09-06T02:34:49Z",
+    "Calls": [
+      {
+        "TelephonyPIN": 9989999,
+        "CallLongitude": -21.99383,
+        "ProcedureCode": "G0155",
+        "CallType": "Other",
+        "MobileLogin": "98733222",
+        "CallLatitude": 40.34455,
+        "OriginatingPhoneNumber": "2125551212",
+        "CallDateTime": "2019-09-06T02:44:49Z",
+        "ClientIdentifierOnCall": "98733222",
+        "CallAssignment": "Time In",
+        "CallExternalID": "54531257",
+        "ErrorCode": null,
+        "ErrorMessage": null,
+        "Location": "123"
+      },
+      {
+        "TelephonyPIN": 9989999,
+        "CallLongitude": -21.99383,
+        "ProcedureCode": "G0155",
+        "CallType": "Other",
+        "MobileLogin": "98733222",
+        "CallLatitude": 40.34455,
+        "OriginatingPhoneNumber": "2125551212",
+        "CallDateTime": "2019-09-06T02:49:49Z",
+        "ClientIdentifierOnCall": "98733222",
+        "CallAssignment": "Time Out",
+        "CallExternalID": "42222237",
+        "ErrorCode": null,
+        "ErrorMessage": null,
+        "Location": "123"
+      }
+    ],
+    "HoursToPay": 10,
+    "ClientVerifiedTimes": true,
+    "VisitTimeZone": "US/Eastern",
+    "ClientSignatureAvailable": true,
+    "ClientID": "527556878",
+    "VisitOtherID": "C7PJXRW5ELOZCWYSJZOZWTTWKQXCCH6XXS8D4NM48WO255V4KK",
+    "ErrorCode": null,
+    "ErrorMessage": null,
+    "BillVisit": true,
+    "Memo": "This is a memo!",
+    "SequenceID": "2019090602344989"
+  }
+]

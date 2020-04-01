@@ -1,0 +1,27 @@
+{
+  "EVV_Request": [
+    {
+      "BusinessEntityMedicaidIdentifier": "01026780",
+      "RequestType": "Model3",
+      "BatchID": "79271927392751",
+      "TransactionID": "95992042",
+      "Payer": "ODM",
+      "ICN": "999973482423",
+      "DLN": "04",
+      "ProviderQualifier": "MedicaidID",
+      "ProviderID": "01026780",
+      "PatientQualifier": "MedicaidID",
+      "PatientID": "123612836182",
+      "ServiceStartDate": "2019-04-01",
+      "ServiceEndDate": "2019-04-01",
+      "ProcedureCode": "G0156",
+      "Units": "04",
+      "UnitsRule": "AddTime",
+      "Modifier1": null,
+      "Modifier2": null,
+      "Modifier3": null,
+      "Modifier4": null,
+      "MatchingRule": "ExcludeUnits"
+    }
+  ]
+}

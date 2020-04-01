@@ -1,0 +1,3 @@
+Name,Required,Type,Description,Precondition,Value,POST Status,Error Message in POST,GET Status,Error Message in GET,INBOX Status
+$.EmployeePIN,,int[0:8],OpenEVV-Employee: Verify Employee is updated after sending the same EmployeePIN,,,SUCCESS,,,,yes
+$.EmployeeID,,int[0:8],OpenEVV-Employee: Verify Employee is updated after sending the same EmployeeID,,,SUCCESS,,,,yes

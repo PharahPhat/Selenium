@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="InterOp-Payer-Automation">
+	<groups><run><exclude name="fixing"/></run></groups>
+	<test name="Regression Test Suite OpenEVV Schedule"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="openevv.Connecticut.Schedule" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite OpenEVV Client" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="openevv.Connecticut.Client" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite OpenEVV Employee"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="openevv.Connecticut.Employee" />
+		</packages>
+	</test>
+
+
+	<test name="Regression Test Suite OpenEVV Member" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="openevv.PA.Member" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite OpenEVV XREF" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="openevv.Connecticut.xref" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite OpenEVV Auth" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="openevv.PA.Authorization" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite OpenEVV Provider"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="openevv.PA.Provider" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite AltEVVGeneric Client"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="AltEVV_generic.restassured.sandata.Indiana.Client" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite AltEVVGeneric Employee"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="AltEVV_generic.restassured.sandata.Indiana.Employee" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite AltEVVGeneric Visit"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="AltEVV_generic.restassured.sandata.Indiana.Visit" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite AltEVVMolina Client"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="AltEVV_Molina.restassured.sandata.Client" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite AltEVVMolina Employee"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="AltEVV_Molina.restassured.sandata.Employee" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite AltEVVMolina Visit"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="AltEVV_Molina.restassured.sandata.Visit" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite AltEVVColorado Client"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="AltEVV_generic.restassured.sandata.Colorado.Client" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite AltEVVColorado Employee"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="AltEVV_generic.restassured.sandata.Colorado.Employee" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite Ohio Client_V1" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="Ohio_V1.Patient" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite Ohio Employee_V1" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="Ohio_V1.Staff" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite Ohio Visit" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="Ohio_V1.Visit" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite Ohio Client_V2" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="Ohio_V2.Patient" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite Ohio Visit_V1" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="Ohio_V1.Visit" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite Ohio Visit_V2" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="Ohio_V2.Visit" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite Ohio Claim" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="Ohio.sandata.restclaim" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite Ohio BatchClaim"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="Ohio.sandata.batchclaim" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite DSV Ohio_Provider"
+		  thread-count="1" parallel="classes">
+		<packages>
+			<package name="DSV.Ohio.provider" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite DSV Molina_Auth" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="DSV.Molina.Auth" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite DSV Molina_Member" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="DSV.Molina.Member" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite DSV Molina_EndToEnd"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="DSV.Molina.EndToEnd" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite DSV Molina_Provider"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="DSV.Molina.Provider" />
+		</packages>
+	</test>
+
+	<!--Obsoleted-->
+	<!--<test name="Regression Test Suite DSV Indiana_member" thread-count="5"
+		  parallel="classes">
+		<packages>
+			<package name="DSV.Indiana.member" />
+		</packages>
+	</test>-->
+
+	<test name="Regression Test Suite DSV Indiana_provider"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="DSV.Indiana.provider" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite Production Production"
+		  thread-count="5" parallel="classes">
+		<packages>
+			<package name="Production" />
+		</packages>
+	</test>
+
+	<test name="Regression Test Suite Health Url" thread-count="1"
+		  parallel="classes">
+		<packages>
+			<package name="Sandata_healthcheck_URL" />
+		</packages>
+	</test>
+
+	<listeners>
+<!--		<listener class-name="config.influx.db.ExecutionListener" />-->
+		<!--<listener class-name="config.influx.db.RetryListener" />-->
+		<listener
+			class-name="Utills_ExtentReport_Log4j.ExtentReporterNG" />
+	</listeners>
+</suite>

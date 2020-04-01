@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="allSuites" verbose="1">
+    <parameter name="testType" value="api"></parameter>
+    <test name="All" verbose="1">
+        <classes>
+            <class name="dwh.indiana.Auto_SEVV_DWH_TC_0007_Export_Files_Indiana"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40673_EMP_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40674_CLIENT_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40675_PROVIDER_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40676_EMP_DISC_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40677_VISIT_CHANGES_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40678_VISIT_CALLS_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40679_PROVIDER_LOC_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40680_CLIENT_ADDR_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40681_VISIT_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40682_CLIENT_PHONE_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40683_VISIT_TASKS_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40684_VISIT_EXCP_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40685_VISIT_CLAIMST_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.indiana.Auto_SEVV_TC_40686_CLIENT_SCHEDULE_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <parameter name="testType" value="api"></parameter>
+        </classes>
+    </test>
+
+</suite>

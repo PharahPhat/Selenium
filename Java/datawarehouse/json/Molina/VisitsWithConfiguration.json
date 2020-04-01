@@ -1,0 +1,93 @@
+[
+  {
+    "ProviderIdentification": {
+      "ProviderID": "Molina28000",
+      "ProviderQualifier": "Other"
+    },
+    "VisitOtherID": "100100",
+    "SequenceID": 12,
+    "EmployeeQualifier": "EmployeeSSN",
+    "EmployeeIdentifier": "162456868",
+    "ClientIdentifier": "01066666101",
+    "ClientQualifier": "ClientCustomID",
+    "VisitCancelledIndicator": false,
+    "PayerID": "MEDHHS",
+    "PayerProgram": "Program",
+    "ProcedureCode": "1019Z",
+    "VisitTimeZone": "US/Eastern",
+    "ScheduleStartTime": "2019-01-11T16:02:26Z",
+    "ScheduleEndTime": "2019-01-11T17:02:26Z",
+    "AdjInDateTime": "2019-01-11T16:10:26Z",
+    "AdjOutDateTime": "2019-01-11T17:10:26Z",
+    "BillVisit": true,
+    "HoursToBill": 10,
+    "HoursToPay": 10,
+    "Memo": "This is a memo!",
+    "ClientVerifiedTimes": true,
+    "ClientVerifiedTasks": true,
+    "ClientVerifiedService": true,
+    "ClientSignatureAvailable": true,
+    "ClientVoiceRecording": true,
+    "Calls": [
+      {
+        "CallExternalID": "67732221",
+        "CallDateTime": "2019-01-11T16:02:26Z",
+        "CallAssignment": "Time In",
+        "CallType": "Other",
+        "ProcedureCode": "T1000",
+        "ClientIdentifierOnCall": "98733222",
+        "MobileLogin": "98733222",
+        "CallLatitude": 40.34455,
+        "CallLongitude": -21.99383,
+        "Location": "123",
+        "TelephonyPIN": 9989999,
+        "OriginatingPhoneNumber": "2125551212",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      },
+      {
+        "CallExternalID": "67732222",
+        "CallDateTime": "2019-01-11T17:10:26Z",
+        "CallAssignment": "Time Out",
+        "CallType": "Other",
+        "ProcedureCode": "T1000",
+        "ClientIdentifierOnCall": "98733222",
+        "MobileLogin": "98733222",
+        "CallLatitude": 40.34455,
+        "CallLongitude": -21.99383,
+        "Location": "123",
+        "TelephonyPIN": 9989999,
+        "OriginatingPhoneNumber": "2125551212",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "VisitExceptionAcknowledgement": [
+      {
+        "ExceptionID": "4",
+        "ExceptionAcknowledged": true
+      },
+      {
+        "ExceptionID": "10",
+        "ExceptionAcknowledged": false
+      },
+      {
+        "ExceptionID": "34",
+        "ExceptionAcknowledged": false
+      }
+    ],
+    "VisitChanges": [
+      {
+        "SequenceID": "12",
+        "ChangeMadeBy": "svam223@test.com",
+        "ChangeDateTime": "2019-01-11T16:45:00Z",
+        "GroupCode": "02",
+        "ReasonCode": "02",
+        "ChangeReasonMemo": "Change Reason Memo 9223",
+        "ResolutionCode": "A"
+      }
+    ],
+    "ErrorCode": null,
+    "ErrorMessage": null
+  }
+]

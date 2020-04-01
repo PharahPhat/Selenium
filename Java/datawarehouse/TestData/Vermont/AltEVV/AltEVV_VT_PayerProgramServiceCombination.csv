@@ -1,0 +1,12 @@
+Account,Payer,Program,HCPCS,Rev Code,Mod1,Mod2,Mod3,Mod4,Description,Status,GetStatus,ErrorMessage,isCheckedDatabase
+,DVHA,CFC,T12017,,,,,,Invalid Service for CFC program,SUCCESS,SUCCESS,-553,
+,DVHA,CFC,T1020,,,,,,Invalid Service for CFC program,SUCCESS,SUCCESS,-553,
+,DVHA,TBI,GDAC89,,,,,,Invalid service for TBI program,SUCCESS,SUCCESS,-553,
+,DVHA,CFC,HM95,,,,,,Homemaker,SUCCESS,SUCCESS,0,yes
+,DVHA,CFC,RC73, , , , , ,CPCS Personal Care,SUCCESS,SUCCESS,0,
+,DVHA,CFC,PC72, , , , , ,TBI Respite Care,SUCCESS,SUCCESS,0,
+,DVHA,CFC,CC73, ,HI,U8, , ,Life Skills Aide Services,SUCCESS,SUCCESS,0,
+,DVHA,CFC,MN71,71,30, , , ,Moderate Needs,SUCCESS,SUCCESS,0,
+,DVHA,TBI,T1020, ,HI,U8, , ,Life Skills Aide Services,SUCCESS,SUCCESS,0,
+,DVHA,TBI,T12017,HI,, , , ,Life Skills Aide Services,SUCCESS,SUCCESS,0,yes
+,DVHA,CFC,GDAC89,89, , , , ,Group Directed Attendant Care,SUCCESS,SUCCESS,0,

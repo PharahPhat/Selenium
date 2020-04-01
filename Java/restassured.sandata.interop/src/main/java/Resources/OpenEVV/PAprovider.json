@@ -1,0 +1,26 @@
+[
+  {
+    "ProviderQualifier": "Other",
+    "ProviderID": "FMP000002264329",
+    "ProviderName": "LIVING INNOVATIONS SUPPORT SER",
+    "PayerID": "PADHS",
+    "ProviderDoingBusinessAs": "Provider",
+    "AddressLine1": "PO BOX 781",
+    "AddressLine2": "PO BOX 890 TEXAS",
+    "AddressCity": "GREENLAND",
+    "AddressState": "NH",
+    "AddressZip": "03820",
+    "AgencyPhone": "6034227308",
+    "AgencyEmail": "cpufahl@live.com",
+    "PrimaryContactLastName": "LIVING INNOVATIONS SUPPORT SER",
+    "PrimaryContactFirstName": "LIVING INNOVATIONS SUPPORT SER",
+    "ProviderFax": "6034307682",
+    "ProviderNPI": "1073633376",
+    "TaxID": "020505172",
+    "ProviderDateBegin":"2019-10-23",
+    "TerminationDate":"2020-10-23",
+    "SuspensionDate":"",
+    "ProviderTaxonomy":"1234asdf",
+    "ProviderRequireAuth": "0"
+  }
+]

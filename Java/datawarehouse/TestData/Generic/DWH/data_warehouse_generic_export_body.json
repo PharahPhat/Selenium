@@ -1,0 +1,36 @@
+{
+    "interfaceDataExchangeInformation": {
+        "delimiter": "|",
+        "payerId": "COHCPF",
+        "setHeader": true,
+        "fileExtension": ".dsv",
+        "controlFileExtension": ".dsv",
+        "specVersion": "generic",
+        "specNumber": "7.1",
+        "withLastFailedExport": false,
+        "quoteNullValue": true,
+        "multiDesignees": true
+    },
+    "accountInterfaceEndpointInformation": {
+	    "resolve_vault_path_maine_sftp": "sftp-kv/maine_exp_dwh",
+    	"folder_path": "/DevOhioInterfaces/DevSwarmExportDataWarehouse/CO_QA",
+        "pgp_public_key": ""
+    },
+    "accountInterfaceParamInformation": {
+        "startDate": "2019-11-30T00:00:00Z",
+        "endDate": "2019-12-01T23:00:00Z",
+        "exportMode": "3",
+        "backDays": null,
+        "groupKey": "260",
+        "account": "70004",
+        "providerMode": "V",
+        "payerMode": "V",
+        "clientMode": "V",
+        "visitMode": "V",
+        "scheduleMode": "V",
+        "employeeMode": "V",
+        "contract": "_ALL",
+        "username": "",
+        "spv": "_ALL"
+    }
+}

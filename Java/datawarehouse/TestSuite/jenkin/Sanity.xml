@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="All Sanity" verbose="1">
+    <groups>
+        <run>
+            <exclude name="onlyDev"/>
+            <exclude name="skipped"/>
+            <exclude name="ignore"/>
+        </run>
+    </groups>
+    <test name="SEVV-21934">
+        <parameter name="DefaultENVID" value="CO"/>
+        <packages>
+            <package name="altevv.generic.visit.Auto_SEVV_TC_40300_AltEVV_IntakeVisit_ValidationFields"/>
+        </packages>
+    </test>
+    <test name="SEVV-10138">
+        <parameter name="DefaultENVID" value="WI"/>
+        <packages>
+            <package name="openevvbatch.member.wisconsin"/>
+        </packages>
+    </test>
+    <test name="SEVV-6444">
+        <parameter name="DefaultENVID" value="WI_AMP"></parameter>
+        <classes>
+            <class name="openevvbatch.auth.Auto_SEVV_14449_TC_20397_Field_Validation_Import_Base_OpenEVV_Auth"></class>
+        </classes>
+    </test>
+    <test name="SEVV-6441">
+        <parameter name="DefaultENVID" value="WI"/>
+        <classes>
+            <class name="openevvbatch.provider.Auto_SEVV_Field_Validation"/>
+            <class name="openevvbatch.provider.wisconsin.Auto_SEVV_6441_TC_22082_WI_E2E_Flow_Import_Base_Provider"/>
+        </classes>
+    </test>
+    <test name="SEVV-6959">
+        <parameter name="DefaultENVID" value="AZ"></parameter>
+        <packages>
+            <package name="altevv.generic.client"></package>
+        </packages>
+        <classes>
+            <class name="altevv.generic.client.Auto_SEVV_TC_20218_AltClientValidateFields"></class>
+        </classes>
+    </test>
+    <test name="SEVV-6445">
+        <parameter name="DefaultENVID" value="WI"></parameter>
+        <classes>
+            <class name="altevv.generic.client.Auto_SEVV_TC_20218_AltClientValidateFields"></class>
+            <class name="altevv.generic.client.Auto_SEVV_6445_TC_23326_AltEVVClient_Send_multi_value_segments"></class>
+        </classes>
+    </test>
+</suite>

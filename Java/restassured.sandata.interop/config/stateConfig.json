@@ -1,0 +1,253 @@
+{
+  "Indiana": {
+    "QA": {
+      "user": "STX29000",
+      "pass": "TEST_PWD1",
+      "accId": "29631",
+      "ProviderID": "PN811481201",
+      "PayerID": "INFSSA",
+      "ProviderQualifier": "Other",
+      "PayerProgram": "Indiana",
+      "ProcedureCode": "H0034"
+    },
+    "DEV": {
+      "user": "STX29036",
+      "pass": "TEST_PWD2",
+      "accId": "29036",
+      "ProviderID": "PN000203",
+      "ProviderQualifier": "Other",
+      "PayerID": "ODM",
+      "PayerProgram": "SP",
+      "ProcedureCode": "T1000"
+    }
+  },
+  "PA": {
+    "QA": {
+      "user": "kms60138",
+      "pass": "kms60138pass",
+      "accId": "60138",
+      "ProviderID": "999999888",
+      "ProviderQualifier": "MedicaidID",
+      "PayerID": "PAODP",
+      "PayerProgram": "ODP",
+      "ProcedureCode": "W7201",
+      "ClientQualifier": "ClientCustomID",
+      "EmployeeQualifier": "EmployeeCustomID"
+    },
+    "DEV": {
+      "user": "SandataPA@1234",
+      "pass": "SandataPA@1234",
+      "accId": "60138",
+      "ProviderID": "999999888",
+      "ProviderQualifier": "MedicaidID",
+      "PayerID": "PAODP",
+      "PayerProgram": "ODP",
+      "ProcedureCode": "W7201",
+      "ClientQualifier": "ClientCustomID",
+      "EmployeeQualifier": "EmployeeCustomID"
+    }
+  },
+  "Molina": {
+    "QA": {
+      "user": "22hTZZ34",
+      "pass": "ABc334Fgt",
+      "accId": "28007",
+      "ProviderID": "4583335",
+      "ProviderQualifier": "MedicaidID",
+      "PayerID": "MEDHHS",
+      "PayerProgram": "40",
+      "ProcedureCode": "G0152",
+      "ClientQualifier": "ClientOtherID",
+      "entityUser": "",
+      "entityPass": ""
+    },
+    "DEV": {
+      "user": "kjon784FH",
+      "pass": "DG4867Fsu",
+      "accId": "28007",
+      "ProviderID": "903278439",
+      "ProviderQualifier": "MedicaidID",
+      "PayerID": "MEDHHS",
+      "PayerProgram": "40",
+      "ProcedureCode": "G0152",
+      "entityUser": "",
+      "entityPass": ""
+    }
+  },
+  "Connecticut": {
+    "QA": {
+      "user": "Rs6g!qkj",
+      "pass": "Tdsqg77!",
+      "accId": "24420",
+      "ProviderID": "7655406",
+      "PayerID": "CTDSS",
+      "PayerProgram": "CTCDS",
+      "ProcedureCode": "1301Z"
+    },
+    "DEV": {
+      "user": "stuffu3",
+      "pass": "stuffpwd3",
+      "accId": "14420",
+      "ProviderID": "111111",
+      "PayerID": "CTDSS",
+      "PayerProgram": "CTCDS",
+      "ProcedureCode": "1301Z"
+    }
+  },
+  "Ohio": {
+    "QA": {
+      "user": "STX10013",
+      "pass": "TEST_PWD3",
+      "accId": "10013",
+      "ProviderID": "7654321",
+      "ProviderQualifier": "Other",
+      "PayerID": "ODM",
+      "PayerProgram": "SP",
+      "ProcedureCode": "T1001",
+      "claimUser": "admin",
+      "claimPass": "admin",
+      "entityGuid": "f3012070-e156-11e9-9485-005056b90830"
+    },
+    "DEV": {
+      "user": "stx269208",
+      "pass": "Test!234",
+      "accId": "269208",
+      "ProviderID": "9269208",
+      "ProviderQualifier": "Other",
+      "PayerID": "ODM",
+      "PayerProgram": "SP",
+      "ProcedureCode": "T1001",
+      "claimUser": "SAN-OH-ODM",
+      "claimPass": "X$s5netoawyz",
+      "entityGuid": "f3012070-e156-11e9-9485-005056b90830"
+    }
+  },
+  "Hawaii": {
+    "QA": {
+      "user": "",
+      "pass": "",
+      "accId": "",
+      "ProviderID": "",
+      "PayerID": "",
+      "PayerProgram": "",
+      "ProcedureCode": ""
+    },
+    "DEV": {
+      "user": "",
+      "pass": "",
+      "accId": "",
+      "ProviderID": "",
+      "PayerID": "",
+      "PayerProgram": "",
+      "ProcedureCode": ""
+    }
+  },
+  "Arizona": {
+    "QA": {
+      "user": "",
+      "pass": "",
+      "accId": "",
+      "ProviderID": "",
+      "PayerID": "",
+      "PayerProgram": "",
+      "ProcedureCode": ""
+    },
+    "DEV": {
+      "user": "Sandata@123456",
+      "pass": "Sandata@123456",
+      "accId": "80000",
+      "ProviderID": "1233214",
+      "PayerID": "AHCCCS",
+      "PayerProgram": "AHCCCS",
+      "ProcedureCode": ""
+    }
+  },
+  "Colorado": {
+    "QA": {
+      "user": "STX70004",
+      "pass": "STX70004",
+      "accId": "70004",
+      "ProviderID": "98012345",
+      "ProviderQualifier": "MedicaidID",
+      "PayerID": "COHCPF",
+      "PayerProgram": "HCPF",
+      "ProcedureCode": "BHSVC"
+    },
+    "DEV": {
+      "user": "Test@123",
+      "pass": "Test@123",
+      "accId": "70003",
+      "ProviderID": "123456789",
+      "ProviderQualifier": "MedicaidID",
+      "PayerID": "COHCPF",
+      "PayerProgram": "HCPF",
+      "ProcedureCode": "BHSVC"
+    }
+  },
+  "Vermont": {
+    "QA": {
+      "user": "SandataVT@12345",
+      "pass": "SandataVT@12345",
+      "accId": "800011",
+      "ProviderID": "8000811",
+      "ProviderQualifier": "MedicaidID",
+      "PayerID": "DVHA",
+      "PayerProgram": "CFC",
+      "ProcedureCode": "HM95"
+    },
+    "DEV": {
+      "user": "SandataVT@12345",
+      "pass": "SandataVT@12345",
+      "accId": "80008",
+      "ProviderID": "9944562",
+      "ProviderQualifier": "MedicaidID",
+      "PayerID": "DVHA",
+      "PayerProgram": "CFC",
+      "ProcedureCode": "HM95"
+    }
+  },
+  "VermontOpenEVV": {
+    "QA": {
+      "user": "SandataVTCDS@12345",
+      "pass": "SandataVTCDS@12345",
+      "accId": "800022",
+      "ProviderID": "8000822",
+      "ProviderQualifier": "MedicaidID",
+      "PayerID": "DVHA",
+      "PayerProgram": "CFC",
+      "ProcedureCode": "MNS71"
+    },
+    "DEV": {
+      "user": "SandataVTCDS@12345",
+      "pass": "SandataVTCDS@12345",
+      "accId": "80002",
+      "ProviderID": "1110009",
+      "ProviderQualifier": "MedicaidID",
+      "PayerID": "DVHA",
+      "PayerProgram": "CFC",
+      "ProcedureCode": "MNS71"
+    }
+  },
+    "RI": {
+      "QA": {
+        "user": "AbCR59jrb",
+        "pass": "Trq7HGR4",
+        "accId": "16778",
+        "ProviderID": "0016778",
+        "ProviderQualifier": "Other",
+        "PayerID": "RI Medicaid",
+        "PayerProgram": "MB3",
+        "ProcedureCode": "T1000"
+      },
+      "DEV": {
+        "user": "SandataRO@1234",
+        "pass": "SandataRO@1234",
+        "accId": "16782",
+        "ProviderID": "9991119",
+        "ProviderQualifier": "Other",
+        "PayerID": "RI Medicaid",
+        "PayerProgram": "MB3",
+        "ProcedureCode": "T1000"
+      }
+    }
+}

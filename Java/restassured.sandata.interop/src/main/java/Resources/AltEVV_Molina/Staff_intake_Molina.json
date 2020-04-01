@@ -1,0 +1,19 @@
+[
+  {
+    "ProviderIdentification": {
+      "ProviderQualifier": "SandataID",
+      "ProviderID": "243851796"
+    },
+    "EmployeeIdentifier": "1160010",
+    "EmployeeOtherID": "180010",
+    "SequenceID": "199800010",
+    "EmployeeQualifier": "EmployeeSSN",
+    "EmployeeSSN": "136000010",
+    "EmployeeLastName": "Swany",
+    "EmployeeFirstName": "narayan",
+    "EmployeeEmail": "Narayan@yopmail.com",
+    "EmployeeManagerEmail": "swamy@yopmail.com",
+    "EmployeePosition": "RN",
+    "EmployeeAPI": "hoaemployee"
+  }
+]

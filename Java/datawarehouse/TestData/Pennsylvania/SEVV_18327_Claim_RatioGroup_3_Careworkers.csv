@@ -1,0 +1,20 @@
+Client,Employee,Service Start Date,Service End Date,In Time,Out Time,Proc Code,Units Rule,Matching Rule,Overlap Duration,VP,SuceededCount,TC
+ClientThreeAClaim,,2019-11-12,2019-11-12,,,W7069,Add_Time,Exclude_Units,150,10,3,Given a service set up require 3 care workers. And there are only 2 visits overlap; the third one doesnt. When user claim for the service on that date. Then the return is No Visit Found
+ClientThreeAClaim,EmployeeARestClaim,2019-11-12,2019-11-12,10:00:00 AM,03:00:00 PM,W7069,,,,,,
+ClientThreeAClaim,EmployeeBRestClaim,2019-11-12,2019-11-12,02:00:00 PM,05:00:00 PM,W7069,,,,,,
+ClientThreeAClaim,EmployeeCRestClaim,2019-11-12,2019-11-12,03:30:00 PM,05:00:00 PM,W7069,,,,,,
+ClientThreeBClaim,,2019-11-12,2019-11-12,,,W7069,Add_Time,Exclude_Units,180,12,3,Given a service set up require 3 care workers. And there are 3 visits overlap at 12:00 PM – 01:00 PM and 3 visits overlap at 02:00 PM – 04:00 PM. When user claim for the service on that date. Then the claim is successfully
+ClientThreeBClaim,EmployeeARestClaim,2019-11-12,2019-11-12,10:00:00 AM,05:00:00 PM,W7069,,,,,,
+ClientThreeBClaim,EmployeeBRestClaim,2019-11-12,2019-11-12,11:00:00 AM,04:00:00 PM,W7069,,,,,,
+ClientThreeBClaim,EmployeeCRestClaim,2019-11-12,2019-11-12,12:00:00 PM,01:00:00 PM,W7069,,,,,,
+ClientThreeBClaim,EmployeeDRestClaim,2019-11-12,2019-11-12,02:00:00 PM,06:00:00 PM,W7069,,,,,,
+ClientThreeCClaim,,2019-11-12,2019-11-12,,,W7069,Add_Time,Exclude_Units,150,10,3,Given a service set up require 3 care workers. And there are 3 visits overlap at 12:00 PM – 12:30 PM; and 3 visits overlap at 02:00 PM – 04:00 PM; 4 visits overlap from 12:30 PM – 02:00 PM. When user claim for the service on that date. Then the claim is successfully only the overlap visits have 3 workers and exclude the overlap visits have 4 worker
+ClientThreeCClaim,EmployeeARestClaim,2019-11-12,2019-11-12,10:00:00 AM,05:00:00 PM,W7069,,,,,,180
+ClientThreeCClaim,EmployeeBRestClaim,2019-11-12,2019-11-12,11:00:00 AM,04:00:00 PM,W7069,,,,,,
+ClientThreeCClaim,EmployeeCRestClaim,2019-11-12,2019-11-12,12:00:00 PM,01:00:00 PM,W7069,,,,,,
+ClientThreeCClaim,EmployeeDRestClaim,2019-11-12,2019-11-12,12:30:00 PM,06:00:00 PM,W7069,,,,,,
+ClientThreeDClaim,,2019-11-12,2019-11-12,,,W7069,Add_Time,Exclude_Units,0,No visit found,0,Given a service set up require 3 care workers. And there are 4 visits overlap. When user claim for the service on that date. Then the claim returns No Visit Found
+ClientThreeDClaim,EmployeeARestClaim,2019-11-12,2019-11-12,10:00:00 AM,05:00:00 PM,W7069,,,,,,
+ClientThreeDClaim,EmployeeBRestClaim,2019-11-12,2019-11-12,11:00:00 AM,04:00:00 PM,W7069,,,,,,
+ClientThreeDClaim,EmployeeCRestClaim,2019-11-12,2019-11-12,09:00:00 AM,05:00:00 PM,W7069,,,,,,
+ClientThreeDClaim,EmployeeDRestClaim,2019-11-12,2019-11-12,10:00:00 AM,05:00:00 PM,W7069,,,,,,

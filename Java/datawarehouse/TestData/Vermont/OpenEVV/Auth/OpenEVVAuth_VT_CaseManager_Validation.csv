@@ -1,0 +1,13 @@
+Name,isRequired,Type,Description,Precondition,Value,POST Status,Error Message in POST,GET Status,Error Message in GET,IsVerifyExistingDatabase
+$.CaseManagerLastName,,String[0:30],,,,FAILED,,,,
+$.CaseManagerLastName,,null,,,null,SUCCESS,,,,
+$.CaseManagerLastName,,String,,,abc123,FAILED,,,,
+$.CaseManagerLastName,,String,,,abc,SUCCESS,,,,yes
+$.CaseManagerFirstName,,String[0:30],,,,FAILED,,,,
+$.CaseManagerFirstName,,null,,,null,SUCCESS,,,,
+$.CaseManagerFirstName,,String,,,abc123,FAILED,,,,
+$.CaseManagerFirstName,,String,,,abc,SUCCESS,,,,yes
+$.CaseManagerEmail,,String[0:64],,,,FAILED,,,,
+$.CaseManagerEmail,,null,,,null,SUCCESS,,,,
+$.CaseManagerEmail,,String,,,abc123,FAILED,,,,
+$.CaseManagerEmail,,String,,,KMSTEST@mailinator.com,SUCCESS,,,,yes

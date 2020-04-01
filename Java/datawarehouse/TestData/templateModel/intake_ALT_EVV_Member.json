@@ -1,0 +1,34 @@
+[
+  {
+    "Account": "14420",
+    "EmployeePIN": "901234567",
+    "EmployeeID": "70488",
+    "Status":null,
+    "EmployeeEmailAddress": "emptuyen.70488@mailinator.com",
+    "EmployeeSocialSecurity": "244270488",
+    "EmployeeLastName": "Tuyen",
+    "EmployeeFirstName": "import from auto",
+    "EmployeeMiddleInitial": "A",
+    "Department": "ABC",
+    "EmployeeType":null,
+    "Discipline": "Value",
+    "EmployeeAddress1": "1 Road",
+    "EmployeeAddress2": "Apartment Two for Employee add",
+    "EmployeeCity": "New York",
+    "EmployeeState": "NY",
+    "EmployeeZipCode": "11109-9888",
+    "EmployeePhone": "9176547891",
+    "EmployeeAltPhone": "4707611342",
+    "EmployeeAltPhone2": "1002324671",
+    "EmployeeIDCustom1": "654345432100",
+    "EmployeeIDCustom2": "665456543401",
+
+    "PayRate": "23.76",
+    "EmployeeHireDate": "10022016",
+    "EmployeeEndDate": "11262019",
+    "EmployeeBirthDate": "12101985",
+    "EmployeeGender": "M",
+    "EmployeePrimaryLocation": "Location Queens"
+
+  }
+]

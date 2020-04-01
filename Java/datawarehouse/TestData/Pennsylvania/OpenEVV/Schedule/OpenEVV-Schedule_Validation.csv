@@ -1,0 +1,6 @@
+Name,Type,Description,Precondition,Value,POST Status,Error Message in POST,GET Status,Error Message in GET,INBOX Status
+$.PayerProgram,String,PayerProgram is incorrect format,,ODP,SUCCESS,,SUCCESS,,
+$.PayerProgram,String,PayerProgram is incorrect format,,OLTL,SUCCESS,,SUCCESS,,
+$.PayerProgram,String,PayerProgram is incorrect format,,OLTLa,SUCCESS,,SUCCESS,,
+$.PayerProgram,null,PayerProgram is null,,,SUCCESS,,SUCCESS,,
+$.PayerProgram,String,PayerProgram is empty,,,SUCCESS,,SUCCESS,,

@@ -1,0 +1,7 @@
+{
+  "SchedulePopUp_OverrideStaffRAD":{
+    "LocatorType": "id",
+    "LocatorValue": "ctl00_cphContent_chkOverrideStaff",
+    "PageName": "SchedulePopUp"
+  }
+}

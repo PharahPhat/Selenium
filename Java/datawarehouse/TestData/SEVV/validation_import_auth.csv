@@ -1,0 +1,19 @@
+Field,Value,TypeOfTesting,Error Code
+AssessmentDate,20190920,invalid,ERROR: The AssessmentDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='20190920'.
+AssessmentDate,2019/03/30,invalid,ERROR: The AssessmentDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='2019/03/30'.
+AssessmentDate,9202020,invalid,ERROR: The AssessmentDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='9202020'.
+AssessmentDate,09-20-2020,invalid,ERROR: The AssessmentDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='09-20-2020'.
+AssessmentDate,09/20/2020,invalid,ERROR: The AssessmentDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='09/20/2020'.
+AssessmentDate,20-09-2019,invalid,ERROR: The AssessmentDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='20-09-2019'.
+AssessmentDate,20/09/2019,invalid,ERROR: The AssessmentDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='20/09/2019'.
+AssessmentDate,20092019,invalid,ERROR: The AssessmentDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='20092019'.
+AssessmentDate,,invalid,ERROR: The AssessmentDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value=''.
+ServiceAuthorizedDate,20190920,invalid,ERROR: The ServiceAuthorizedDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='20190920'.
+ServiceAuthorizedDate,2019/03/30,invalid,ERROR: The ServiceAuthorizedDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='2019/03/30'.
+ServiceAuthorizedDate,9202020,invalid,ERROR: The ServiceAuthorizedDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='9202020'.
+ServiceAuthorizedDate,09-20-2020,invalid,ERROR: The ServiceAuthorizedDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='09-20-2020'.
+ServiceAuthorizedDate,09/20/2020,invalid,ERROR: The ServiceAuthorizedDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='09/20/2020'.
+ServiceAuthorizedDate,20-09-2019,invalid,ERROR: The ServiceAuthorizedDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='20-09-2019'.
+ServiceAuthorizedDate,20/09/2019,invalid,ERROR: The ServiceAuthorizedDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='20/09/2019'.
+ServiceAuthorizedDate,20092019,invalid,ERROR: The ServiceAuthorizedDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value='20092019'.
+ServiceAuthorizedDate,,invalid,ERROR: The ServiceAuthorizedDate format is incorrect. The record should satisfy this format ['yyyy-MM-dd']. Invalid Value=''.

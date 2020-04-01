@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="allSuites" verbose="1">
+    <parameter name="testType" value="api"></parameter>
+    <test name="All" verbose="1">
+        <classes>
+            <class name="dwh.vermont.Auto_SEVV_TC_0010_Export_Files_Vermont"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38667_EMP_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38668_CLIENT_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38669_PROVIDER_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38670_EMP_DISC_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38671_VISIT_CHANGES_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38672_VISIT_CALLS_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38673_PROVIDER_LOC_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38674_CLIENT_ADDR_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38675_VISIT_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38676_CLIENT_PHONE_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.vermont.Auto_SEVV_TC_38678_VISIT_EXCP_Validate_Data_Exported_As_Expected_Results"></class>
+            <parameter name="testType" value="api"></parameter>
+        </classes>
+    </test>
+</suite>

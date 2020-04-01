@@ -1,0 +1,69 @@
+[
+  {
+  	"ProviderIdentification": {
+      "ProviderID": "1234567",
+      "ProviderQualifier": "SandataID"
+    },
+    "VisitOtherID": "100101",
+    "SequenceID": 11500238,
+    "EmployeeIdentifier": "8000000001",
+    "EmployeeQualifier": "EmployeeRegID",
+    "ClientID": "815110176",
+    "ClientIDQualifier": "ClientSSN",
+    "VisitCancelledIndicator": false,
+    "PayerID": "ODM",
+    "PayerProgram": "SP",
+    "ProcedureCode": "T1000",
+    "VisitTimeZone": "US/Eastern",
+    "ScheduleStartTime": "2019-05-26T16:02:26Z",
+    "ScheduleEndTime": "2019-05-26T16:02:26Z",
+    "AdjInDateTime": "2019-05-26T16:02:26Z",
+    "AdjOutDateTime": "2019-05-26T16:32:26Z",
+    "BillVisit": true,
+    "HoursToBill": 10,
+    "HoursToPay": 10,
+    "Memo": "This is a memo!",
+    "ClientVerifiedTimes": true,
+    "ClientVerifiedTasks": true,
+    "ClientVerifiedService": true,
+    "ClientSignatureAvailable": true,
+    "ClientVoiceRecording": true,
+    "Calls": [
+      {
+        "CallExternalID": "67732221",
+        "CallDateTime": "2019-05-26T16:02:26Z",
+        "CallAssignment": "Time In",
+        "CallType": "OTHER",
+        "ProcedureCode": "T1000",
+        "ClientIdentifierOnCall": "98733222",
+        "MobileLogin": "98733222",
+        "CallLatitude": 40.34455,
+        "CallLongitude": -21.99383,
+        "Location": "123",
+        "TelephonyPIN": 9989999,
+        "OriginatingPhoneNumber": "2125551212",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "VisitExceptionAcknowledgement": [
+      {
+        "ExceptionID": "15",
+        "ExceptionAcknowledged": false
+      }
+    ],
+    "VisitChanges": [
+      {
+        "SequenceID": "889900232",
+        "ChangeMadeBy": "Tu115@mailinator.com",
+        "ChangeDateTime": "2017-07-04T18:45:00Z",
+        "GroupCode": "9223",
+        "ReasonCode": "9223",
+        "ChangeReasonMemo": "Change Reason Memo 9223",
+        "ResolutionCode": "A"
+      }
+    ],
+    "ErrorCode": null,
+    "ErrorMessage": null
+  }
+]

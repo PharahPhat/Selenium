@@ -1,0 +1,35 @@
+Client,Employee,Service Start Date,Service End Date,In Time,Out Time,Proc Code,UnitsRule,Matching Rule,Overlap Duration,VP,SuceededCount,TC
+ClientARestClaim,,2019-12-10,2019-12-10,,,W7068,Add_Units,Exact_Match,240,16,2,TC-21436 Service Require 2 caregiver – Overlap
+ClientARestClaim,,2019-12-10,2019-12-10,,,W7068,Add_Units,Exclude_Units,240,16,2,
+ClientARestClaim,EmployeeARestClaim,2019-12-10,2019-12-10,10:00 AM,03:00 PM,W7068,,,,,,
+ClientARestClaim,EmployeeBRestClaim,2019-12-10,2019-12-10,11:00 AM,04:00 PM,W7068,,,,,,
+ClientARestClaim,EmployeeCRestClaim,2019-12-10,2019-12-10,07:00 PM,08:00 PM,W7068,,,,,,TC-21438 – Visit Not Found For 3rd visit
+ClientBRestClaim,,2019-12-10,2019-12-10,,,W7068,Add_Time,Exclude_Units,240,No Visit Found,,TC-21433 Service Require 2 caregiver ? Visit Not Found
+ClientBRestClaim,EmployeeDRestClaim,2019-12-10,2019-12-10,11:00 AM,03:00 PM,W7068,,,,,,
+ClientCRestClaim,,2019-12-10,2019-12-10,,,W7068,Add_Time,Exclude_Units,60,No Visit Found,,
+ClientCRestClaim,EmployeeARestClaim,2019-12-10,2019-12-10,03:00 AM,04:00 AM,W7068,,,,,,TC-21434- 2 visits but the same care giver ? Visit Not Found
+ClientCRestClaim,EmployeeARestClaim,2019-12-10,2019-12-10,02:00 AM,05:00 AM,W7068,,,,,,
+ClientCRestClaim,EmployeeBRestClaim,2019-12-10,2019-12-10,05:00 AM,06:00 AM,W7068,,,,,,TC-21435- 2 visits but the different care giver – not overlap ? Visit Not Found
+ClientDRestClaim,,2019-12-01,2019-12-02,,,W7068,Add_Time,Exact_Match,240,16,2,TC-21437- Claim on 2 span date
+ClientDRestClaim,,2019-12-01,2019-12-01,,,W7068,Add_Time,Exact_Match,240,16,2,TC-21437- Claim on single day doesn’t work
+ClientDRestClaim,,2019-12-02,2019-12-02,,,W7068,Add_Time,Exact_Match,240,No Visit Found,,TC-21437- Claim on single day doesn’t work
+ClientDRestClaim,EmployeeDRestClaim,2019-12-01,2019-12-02,10:00 PM,03:00 AM,W7068,,,,,,
+ClientDRestClaim,EmployeeBRestClaim,2019-12-01,2019-12-02,11:00 PM,04:00 AM,W7068,,,,,,
+ClientERestClaim,,2019-12-01,2019-12-01,,,W7068,Add_Time,Exact_Match,270,18,3,TC-21439 – 3 vistis – 2 care givers
+ClientERestClaim,EmployeeDRestClaim,2019-12-01,2019-12-01,10:00 AM,03:00 PM,W7068,,,,,,
+ClientERestClaim,EmployeeDRestClaim,2019-12-01,2019-12-01,03:30 PM,08:00 PM,W7068,,,,,,
+ClientERestClaim,EmployeeBRestClaim,2019-12-01,2019-12-01,11:00 AM,04:00 PM,W7068,,,,,,
+ClientFRestClaim,,2019-12-01,2019-12-02,,,W7068,Add_Time,Exact_Match,240,16,3,TC-21440- 3 visits – 2 care givers – span date
+ClientFRestClaim,,2019-12-01,2019-12-01,,,W7068,Add_Time,Exact_Match,240,16,3,TC-21440- 3 visits – 2 care givers – span date
+ClientFRestClaim,EmployeeDRestClaim,2019-12-01,2019-12-01,07:00 PM,10:00 PM,W7068,,,,,,
+ClientFRestClaim,EmployeeDRestClaim,2019-12-01,2019-12-02,11:00 PM,04:00 AM,W7068,,,,,,
+ClientFRestClaim,EmployeeBRestClaim,2019-12-01,2019-12-02,09:00 PM,02:00 AM,W7068,,,,,,
+ClientGRestClaim,,2019-12-10,2019-12-10,,,W7068,Add_Time,Exact_Match,30,2,2,'TC-21441- Given 3 verified visits for a client service only require 2 care workers. In which, 2 visits overlap in 30 mins, 3 visits overlap in another 30 mins  When user claim the service for that client, the overlap visits with 2 careworkers will be returned and claim request successfully'
+ClientGRestClaim,,2019-12-10,2019-12-10,,,W7068,Add_Time,Exclude_Units,30,2,2,'TC-21441- Given 3 verified visits for a client service only require 2 care workers. In which, 2 visits overlap in 30 mins, 3 visits overlap in another 30 mins  When user claim the service for that client, the overlap visits with 2 careworkers will be returned and claim request successfully'
+ClientGRestClaim,EmployeeDRestClaim,2019-12-10,2019-12-10,01:00 AM,04:00 AM,W7068,,,,,,
+ClientGRestClaim,EmployeeBRestClaim,2019-12-10,2019-12-10,02:00 AM,03:00 AM,W7068,,,,,,
+ClientGRestClaim,EmployeeCRestClaim,2019-12-10,2019-12-10,02:30 AM,03:00 AM,W7068,,,,,,
+ClientGRestClaim,,2019-12-31,2019-12-31,,,W7068,Add_Time,Exclude_Units,60,No Visit Found,0,TC-21441- Given 3 overlap verified visits for a client service only require 2 care workers. Then user cannot claim those visits and return much be No Visit Found
+ClientGRestClaim,EmployeeDRestClaim,2019-12-31,2019-12-31,01:00 AM,02:00 AM,W7068,,,,,,
+ClientGRestClaim,EmployeeBRestClaim,2019-12-31,2019-12-31,01:00 AM,02:00 AM,W7068,,,,,,
+ClientGRestClaim,EmployeeCRestClaim,2019-12-31,2019-12-31,01:00 AM,02:00 AM,W7068,,,,,,

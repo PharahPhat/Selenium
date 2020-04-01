@@ -1,0 +1,17 @@
+{
+  "EVV_Request": [{
+	"BusinessEntityMedicaidIdentifier": "7654321",
+	"BatchID": "74229876",
+	"TransactionID": "92200960",
+	"Payer": "ODM",
+	"ICN": "99913431",
+	"DLN": "73",
+	"ProviderQualifier": "MedicaidID",
+	"ProviderID": "7654321",
+	"PatientQualifier": "MedicaidID",
+	"PatientID": "444445555566",
+	"DateofService": "2018-07-20",
+	"ProcedureCode": "G0299",
+	"Units": "3"
+}]
+}

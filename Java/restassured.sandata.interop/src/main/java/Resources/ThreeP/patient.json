@@ -1,0 +1,46 @@
+[
+  {
+    "BusinessEntityID": "10013",
+    "PatientFirstName": "ClientRegThree",
+    "Address": [
+      {
+        "PatientAddressType": "School",
+        "PatientTimezone": "US/Eastern",
+        "PatientAddressLine2": "HQDKVEXOROWHNKCWAENIXMSA",
+        "PatientCity": "FAYMHFKWUTSAXJMYB",
+        "PatientAddressLine1": "TZKDHZDNOCTXRLWNRMLGP",
+        "PatientZip": "99505",
+        "PatientAddressIsPrimary": "true",
+        "PatientState": "FL"
+      },
+       {
+        "PatientAddressType": "School",
+        "PatientTimezone": "US/Eastern",
+        "PatientAddressLine2": "HQDKVEXOROWHNKCWAENIXMSA",
+        "PatientCity": "FAYMHFKWUTSAXJMYB",
+        "PatientAddressLine1": "TZKDHZDNOCTXRLWNRMLGP",
+        "PatientZip": "99505",
+        "PatientAddressIsPrimary": "false",
+        "PatientState": "FL"
+      }
+    ],
+    "Phones": [
+      {
+        "PatientPhoneType": "Home",
+        "PatientPhoneNumber": "4460984290"
+      }
+    ],
+    "PatientTimezone": "US/Eastern",
+    "PatientOtherID": "RegClient01",
+    "PatientLastName": "JN",
+    "ResponsibleParty": [
+      {
+        "PatientResponsiblePartyFirstName": "QOMMHOJYWSDFXRTOBGUKZAOSKMASVE",
+        "PatientResponsiblePartyLastName": "QBWHVMOBXCQVHKSCRFDPGBGFZLEXJR"
+      }
+    ],
+    "PatientMedicaidID": "111518091001",
+    "BusinessEntityMedicaidIdentifier": "0010010",
+    "SequenceID": "608463816461"
+  }
+]

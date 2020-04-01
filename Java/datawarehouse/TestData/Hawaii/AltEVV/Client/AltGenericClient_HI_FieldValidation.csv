@@ -1,0 +1,43 @@
+Name                                      ,Required,Type        ,Description                                 ,Exclude,Value          ,POST Status,Error Message in POST,GET Status,Error Message in GET,INBOX Status
+$.ProviderIdentification.ProviderQualifier,Yes     ,String      ,ProviderIdentification is require           ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ProviderIdentification.ProviderQualifier,        ,String      ,ProviderIdentification just alLow MedicaidID,       ,SandataID      ,FAILED     ,                     ,          ,                    ,
+$.ProviderIdentification.ProviderQualifier,        ,String      ,ProviderIdentification allow specific value ,       ,ABSDS          ,FAILED     ,                     ,          ,                    ,
+$.ProviderIdentification.ProviderID       ,Yes     ,String      ,ProviderID is require                       ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ProviderIdentification.ProviderID       ,        ,String[0:6] ,ProviderID has max length = 6               ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ProviderIdentification.ProviderID       ,        ,String      ,ProviderID is invalid                       ,       ,adfhdd         ,FAILED     ,                     ,          ,                    ,
+$.ClientQualifier                         ,Yes     ,String      ,ClientQualifier is require                  ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ClientQualifier                         ,        ,String      ,ClientQualifier allow ClientCustomID        ,       ,ClientSSN      ,FAILED     ,                     ,          ,                    ,
+$.ClientCustomID                          ,        ,String[0:10],ClientCustomID max length 10                ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ClientCustomID                          ,        ,String      ,ClientCustomID allow value leading zero     ,       ,S012345678     ,FAILED     ,                     ,          ,                    ,
+$.ClientCustomID                          ,Yes     ,String      ,ClientCustomID is required field            ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ClientMedicaidID                        ,        ,String[0:10],ClientMedicaidID max length 10              ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ClientMedicaidID                        ,Yes     ,String[     ,ClientMedicaidID is require field           ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ClientMedicaidID                        ,        ,String      ,ClientMedicaidID allow value leading zero   ,       ,0124345678     ,SUCCESS    ,                     ,          ,                    ,
+$.ClientOtherID                           ,        ,String[0:10],ClientOtherID max length 10                 ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ClientOtherID                           ,        ,String      ,ClientOtherID allow value leading zero      ,       ,S012345678     ,FAILED     ,                     ,          ,                    ,
+$.ClientOtherID                           ,Yes     ,String      ,ClientOtherID is optional                   ,       ,               ,SUCCESS    ,                     ,          ,                    ,Yes
+$.ClientAddress[0].ClientCounty           ,        ,String      ,ClientCounty allow specific value           ,       ,01 Oahu        ,SUCCESS    ,                     ,          ,                    ,Yes
+$.ClientAddress[0].ClientCounty           ,        ,String      ,ClientCounty allow specific value           ,       ,04 Kauai       ,SUCCESS    ,                     ,          ,                    ,Yes
+$.ClientAddress[0].ClientCounty           ,        ,String      ,ClientCounty allow specific value           ,       ,05 Hawaii      ,SUCCESS    ,                     ,          ,                    ,Yes
+$.ClientAddress[0].ClientCounty           ,        ,String      ,ClientCounty allow specific value           ,       ,07 Maui        ,SUCCESS    ,                     ,          ,                    ,Yes
+$.ClientAddress[0].ClientCounty           ,        ,String      ,ClientCounty allow specific value           ,       ,08 Molokai     ,SUCCESS    ,                     ,          ,                    ,Yes
+$.ClientAddress[0].ClientCounty           ,        ,String      ,ClientCounty allow specific value           ,       ,09 Lanai       ,SUCCESS    ,                     ,          ,                    ,Yes
+$.ClientAddress[0].ClientCounty           ,        ,String      ,ClientCounty allow specific value           ,       ,31 Out of State,SUCCESS    ,                     ,          ,                    ,Yes
+$.MissingMedicaidID                       ,        ,boolean     ,MissingMedicaidID is False                  ,PA;VT  ,False          ,SUCCESS    ,                     ,          ,                    ,Yes
+$.MissingMedicaidID                       ,        ,String      ,MissingMedicaidID is different True or False,PA;VT  ,AAA            ,FAILED     ,                     ,          ,                    ,
+$.ClientAddress[0].ClientAddressType      ,        ,String      ,ClientAddressType is Home                   ,       ,Home           ,SUCCESS    ,                     ,          ,                    ,
+$.ClientAddress[0].ClientAddressIsPrimary ,        ,boolean     ,ClientAddressIsPrimary is true or false     ,       ,false          ,SUCCESS    ,                     ,SUCCESS   ,                    ,Yes
+$.ClientTimezone                          ,        ,String      ,ClientTimezone is require field             ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ProviderAssentContPlan                  ,Yes     ,String      ,ProviderAssentContPlan is Require field     ,       ,               ,FAILED     ,                     ,          ,                    ,
+$.ProviderAssentContPlan,,String,ProviderAssentContPlan is allow value YES NO,,Yes,SUCCESS,,SUCCESS,,Yes
+$.ProviderAssentContPlan,,String,ProviderAssentContPlan is Optional field,,DDD,FAILED,,,,
+$.ProviderAssentContPlan                  ,        ,String      ,ProviderAssentContPlan is allow value YES NO,       ,No             ,SUCCESS    ,                     ,SUCCESS   ,                    ,Yes
+$.ClientID ,,null,ClientID is null,Custom,,SUCCESS,,,,
+$.ClientID ,,String,ClientID is empty string,Custom,,SUCCESS,,,,
+$.ProviderIdentification.ProviderID,,null,ProviderID is null,,null,FAILED,,,,
+$.ProviderIdentification.ProviderID,,String,ProviderID is empty string,,,FAILED,,,,
+$.ProviderIdentification.ProviderID,,String,ProviderID is greater than 6 char,Custom,API3278,FAILED,,,,
+$.ProviderIdentification.ProviderID,,String,ProviderID is smaller than 6 char,Custom,AP327,FAILED,,,,
+$.ClientAddress[0].ClientAddressIsPrimary,,String,ClientAddressIsPrimary is Required,,true,SUCCESS,,,,
+$.ClientAddress[0].ClientAddressIsPrimary,,String,ClientAddressIsPrimary is true or false ,,false,SUCCESS,,,,
+$.ClientAddress[0].ClientAddressIsPrimary,,String,ClientAddressIsPrimary is 5 chars,,false,SUCCESS,,,,

@@ -1,0 +1,2 @@
+Payer,Program,HCPCS,Rev Code,Mod1,Mod2,Mod3,Mod4,Description,Status,GetStatus,Error Message
+PAOLTL,OLTL,T1005, , , , , ,CPCS Personal Care,SUCCESS,SUCCESS,0

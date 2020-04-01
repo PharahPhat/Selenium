@@ -1,0 +1,20 @@
+[{
+  "ProviderIdentification": {
+    "ProviderQualifier": "Other",
+    "ProviderID": "0267123"
+  },
+  "EmployeeLocationName": "123",
+  "EmployeeIdentifier": "31625",
+  "EmployeeOtherID": "48825",
+  "SequenceID": 999818845,
+  "EmployeeQualifier": "EmployeeSSN",
+  "EmployeeSSN": "736000628",
+  "EmployeeLastName": "Doe",
+  "EmployeeFirstName": "John",
+  "EmployeeEmail": "hoaemployeetestthree@yopmail.com",
+  "EmployeeManagerEmail": "hoaemployeetestthree@yopmail.com",
+  "EmployeePosition": "RN",
+  "EmployeeAPI": "hoaemployee",
+  "EmployeeHireDate": "2019-01-01",
+  "EmployeeEndDate": "2030-01-01"
+}]

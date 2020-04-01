@@ -1,0 +1,18 @@
+[{
+  "ProviderIdentification": {
+    "MedicaidID": "SandataID",
+    "ProviderID": "123456"
+  },
+  "EmployeeLocationName": "123",
+  "EmployeeIdentifier": "31625",
+  "EmployeeOtherID": "48825",
+  "SequenceID": 999818845,
+  "EmployeeQualifier": "EmployeeCustomID",
+  "EmployeeSSN": "736000628",
+  "EmployeeLastName": "Doe",
+  "EmployeeFirstName": "John",
+  "EmployeeEmail": "hoaemployeetestthree@yopmail.com",
+  "EmployeeManagerEmail": "hoaemployeetestthree@yopmail.com",
+  "EmployeePosition": "RN",
+  "EmployeeAPI": "hoaemployee"
+}]

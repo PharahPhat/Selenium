@@ -1,0 +1,3628 @@
+{
+  "DefaultENVID": "001",
+  "AccountType": "PENNSYLVANIA",
+  "TestData": {
+    "TC_95972": {
+      "ENVID": "001",
+      "Client_intake": "client_intake_v1",
+      "ContainText": "CLIENT_PROG",
+      "LocalDir": "download",
+      "Acc": "Account",
+      "AccId": "14420",
+      "StartDate": "2018-11-10T00:00:00",
+      "EndDate": "2018-11-30T00:00:00",
+      "clientFName": "Tam",
+      "clientLName": "Nguyen",
+      "PayerId": "MEDHHS",
+      "ProviderId": "111111",
+      "ClientId": "37677",
+      "PayerProgram": "19"
+    },
+    "TC_92492": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "ODM"
+    },
+    "TC_96435": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "ODM"
+    },
+    "TC_96464": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "ODM"
+    },
+    "TC_96878": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "Client_intake": "client_intake_v1",
+      "ProviderId": "Prod011",
+      "ContainText": "CLIENT_GENERAL",
+      "LocalDir": "download",
+      "Acc": "Account",
+      "AccId": "28591",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-06T00:00:00Z"
+    },
+    "TC_96879": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96880": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96883": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96884": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96885": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96886": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96887": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96888": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96889": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96890": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96891": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96465": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96892": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_92823": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96439": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_95977": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "yesterday2010",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "2018-12-23",
+      "VisitEndDate": "2018-12-23",
+      "VisitKey": "1903722806"
+    },
+    "TC_95981": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "yesterday2010",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "2018-12-23",
+      "VisitEndDate": "2018-12-25"
+    },
+    "TC_95978": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "AccountId": "28000",
+      "Extension": ".txt",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-10-22T00:00:00Z",
+      "EndDate": "2018-10-23T00:00:00Z",
+      "Provider_id": "('9876543')",
+      "TimeZoneName": "US/Eastern"
+    },
+    "TC_95982": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "yesterday2010",
+      "Employee_FirstName": "Auto",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2019-01-06",
+      "VisitStartDate": "2019-01-06",
+      "VisitEndDate": "2019-12-25"
+    },
+    "TC_00000": {
+      "ENVID": "001",
+      "hostname": "nhdevftp.sandata.com",
+      "port": "22",
+      "username": "talend",
+      "password": "FZ4gd-Qd",
+      "folder1": "/DevOhioInterfaces/DevSwarmExportDataWarehouse",
+      "extension1": "txt",
+      "folder2": "/DevOhioInterfaces/DevSwarmExportDataWarehouse",
+      "extension2": "csv",
+      "folder3": "/DevOhioInterfaces/DevSwarmExportDataWarehouse",
+      "extension3": "dat",
+      "folder4": "/DevOhioInterfaces/DevSwarmExportDataWarehouse",
+      "extension4": "json"
+    },
+    "TC_95976": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "AccountId": "",
+      "Extension": ".txt",
+      "GroupKey": "232",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-10-01T00:00:00Z",
+      "EndDate": "2018-11-06T00:00:00Z",
+      "Beg_date": "01-OCT-18",
+      "End_date": "06-NOV-18",
+      "EmployeeIds": "('000071010','000072910','003100008')"
+    },
+    "TC_96121": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "AccountId": "",
+      "Extension": ".txt",
+      "GroupKey": "232",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-10-01T00:00:00Z",
+      "EndDate": "2018-11-06T00:00:00Z",
+      "Beg_date": "01-OCT-18",
+      "End_date": "06-NOV-18",
+      "Provider_id": "('903278439')"
+    },
+    "TC_97022": {
+      "ENVID": "002",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "AKMSAUTOVNCLIENTL",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEL",
+      "Employee_LastName": "Staff",
+      "AccountId": "28005",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-09T00:00:00Z",
+      "EndDate": "2019-01-13T00:00:00Z",
+      "Memo": "TC97022",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_95973": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Client_FirstName": "BKMSAUTOVNCLIENTE",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "BKMSAUTOVNEMPLOYEEE",
+      "Employee_LastName": "Staff",
+      "AccountId": "14420",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-20T00:00:00Z",
+      "EndDate": "2019-01-22T00:00:00Z",
+      "Memo": "testing",
+      "PayerId": "9990001",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97021": {
+      "ENVID": "002",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "AKMSAUTOVNCLIENTK",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEK",
+      "Employee_LastName": "Staff",
+      "AccountId": "28005",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-09T00:00:00Z",
+      "EndDate": "2019-01-13T00:00:00Z",
+      "Memo": "TC97021"
+    },
+    "TC_96341": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Client_FirstName": "AKMSAUTOVNCLIENTA",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEA",
+      "Employee_LastName": "Staff",
+      "AccountId": "14420",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "Memo": "testing",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_96456": {
+      "ENVID": "002",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "AKMSAUTOVNCLIENTF",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEF",
+      "Employee_LastName": "Staff",
+      "AccountId": "28005",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-09T00:00:00Z",
+      "EndDate": "2019-01-13T00:00:00Z",
+      "Memo": "TC96456",
+      "specVersion": "maine",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_92686": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Client_FirstName": "AKMSAUTOVNCLIENTA",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEA",
+      "Employee_LastName": "Staff",
+      "AccountId": "14420",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "Memo": "testing",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_96433": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "AccountId": "28000",
+      "Extension": ".txt",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-10-22T00:00:00Z",
+      "EndDate": "2018-10-23T00:00:00Z",
+      "Provider_id": "('9876543')",
+      "TimeZoneName": "US/Eastern"
+    },
+    "TC_96356": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "AccountId": "28000",
+      "Extension": ".txt",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-10-22T00:00:00Z",
+      "EndDate": "2018-10-23T00:00:00Z",
+      "Provider_id": "('9876543')",
+      "TimeZoneName": "US/Eastern"
+    },
+    "TC_95968": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "AccountId": "28000",
+      "Extension": ".txt",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-10-22T00:00:00Z",
+      "EndDate": "2018-10-23T00:00:00Z",
+      "Provider_id": "('9876543')",
+      "TimeZoneName": "US/Eastern"
+    },
+    "TC_96761": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "AccountId": "28000",
+      "Extension": ".txt",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-10-22T00:00:00Z",
+      "EndDate": "2018-10-23T00:00:00Z",
+      "Provider_id": "('9876543')",
+      "TimeZoneName": "US/Eastern"
+    },
+    "TC_96753": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "AccountId": "28000",
+      "Extension": ".txt",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-10-22T00:00:00Z",
+      "EndDate": "2018-10-23T00:00:00Z",
+      "Provider_id": "('9876543')",
+      "TimeZoneName": "US/Eastern"
+    },
+    "TC_97018": {
+      "ENVID": "002",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "AKMSAUTOVNCLIENTJ",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEJ",
+      "Employee_LastName": "Staff",
+      "AccountId": "28005",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-09T00:00:00Z",
+      "EndDate": "2019-01-13T00:00:00Z",
+      "Memo": "TC97018",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_95970": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Client_FirstName": "BKMSAUTOVNCLIENTC",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "BKMSAUTOVNEMPLOYEEC",
+      "Employee_LastName": "Staff",
+      "AccountId": "14420",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "TimeZoneName": "US/Eastern",
+      "Memo": "testing",
+      "ClientDesigneeFirstName": "AutoClientDesigneeFirstName",
+      "ClientDesigneeLastName": "ClientDesigneeLastName",
+      "ClientDesigneeEmail": "autotest@test.com",
+      "ClientDesigneeStatus": "02",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_96762": {
+      "ENVID": "002",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "AKMSAUTOVNCLIENTH",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEH",
+      "Employee_LastName": "Staff",
+      "Second_Client_FirstName": "AKMSAUTOVNCLIENTH",
+      "Second_Client_LastName": "Client",
+      "Memo": "TC96762",
+      "Second_Memo": "TC96762",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-09T00:00:00Z",
+      "EndDate": "2019-01-13T00:00:00Z",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_94396": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "AccountId": "",
+      "Extension": ".txt",
+      "GroupKey": "232",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-10-01T00:00:00Z",
+      "EndDate": "2018-11-06T00:00:00Z"
+    },
+    "TC_96360": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "yesterday2010",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "2018-12-23",
+      "VisitEndDate": "2018-12-23",
+      "MemoPrefixUnique": "memo2"
+    },
+    "TC_96763": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Client_FirstName": "AKMSAUTOVNCLIENTA",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEA",
+      "Employee_LastName": "Staff",
+      "Second_Client_FirstName": "AKMSAUTOVNCLIENTA",
+      "Second_Client_LastName": "Client",
+      "Memo": "testing",
+      "Second_Memo": "testing",
+      "GroupKey": "93",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_96757": {
+      "ENVID": "002",
+      "AccountType": "MOLINA",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".txt",
+      "Client_FirstName": "AKMSAUTOVNCLIENTG",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEG",
+      "Employee_LastName": "Staff",
+      "Memo": "TC96757",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-09T00:00:00Z",
+      "EndDate": "2019-01-13T00:00:00Z",
+      "VisitStartDate": "2019/01/11",
+      "VisitEndDate": "2019/01/11",
+      "VisitStatus": "Deleted",
+      "ReasonCode": "65",
+      "ReasonNote": "Update Do Not Bill",
+      "specVersion": "maine",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_96764": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Client_FirstName": "KMSAUTOVNCLIENTB",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "KMSAUTOVNEMPLOYEEB",
+      "Employee_LastName": "Staff",
+      "Memo": "Update DoNotBill",
+      "GroupKey": "93",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "VisitStartDate": "2019/01/10",
+      "VisitEndDate": "2019/01/10",
+      "VisitStatus": "Deleted",
+      "ReasonCode": "65",
+      "ReasonNote": "Update Do Not Bill",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97010": {
+      "ENVID": "002",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "KMSAUTOVNCLIENTI",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "KMSAUTOVNEMPLOYEEI",
+      "Employee_LastName": "Staff",
+      "Memo": "TC97010",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "ChangeReasonMemo": "Update Adjust Time",
+      "ChangeId": "10066",
+      "VisitStartDate": "2019/01/10",
+      "VisitEndDate": "2019/01/10",
+      "ReasonCode": "70",
+      "ReasonNote": "Update Adjust Time",
+      "AdjustedIn": "01/10/2019 10:10 AM",
+      "AdjustedOut": "01/10/2019 11:20 AM",
+      "specVersion": "maine",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97005": {
+      "ENVID": "002",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "KMSAUTOVNCLIENTG",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "KMSAUTOVNEMPLOYEEG",
+      "Employee_LastName": "Staff",
+      "Memo": "TC97005",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "ChangeId": "10025",
+      "VisitStartDate": "2019/01/10",
+      "VisitEndDate": "2019/01/10",
+      "ReasonCode": "70",
+      "ReasonNote": "Add Task",
+      "DeleteReasonNote": "Add Task",
+      "TaskId": "0002",
+      "TaskName": "02 Dressing Undressing",
+      "specVersion": "maine",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_96432": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName_qa": "Janm",
+      "Client_LastName_qa": "Does",
+      "Client_FirstName_dev": "KMSAUTOFirstNameMolina",
+      "Client_LastName_dev": "KMSAUTOFirstNameMolina",
+      "Client_Id_qa": "12285",
+      "Client_Id_dev": "12346",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "2018-12-23",
+      "VisitEndDate": "2018-12-25"
+    },
+    "TC_96113": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "EmployeeFirstNamePrefix": "EmployeeFn",
+      "EmployeeLastNamePrefix": "EmployeeLn",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "12%2F23%2F2018",
+      "VisitEndDate": "12%2F23%2F2018",
+      "MemoPrefixUnique": "memo2"
+    },
+    "TC_97006": {
+      "ENVID": "002",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "KMSAUTOVNCLIENTH",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "KMSAUTOVNEMPLOYEEH",
+      "Employee_LastName": "Staff",
+      "ChangeId": "10029",
+      "ReasonCode": "70",
+      "ReasonNote": "Update Omit status",
+      "Memo": "Update DoNotBill",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "VisitStartDate": "2019/01/10",
+      "VisitEndDate": "2019/01/10",
+      "specVersion": "maine",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97003": {
+      "ENVID": "002",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "KMSAUTOVNCLIENTC",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEC",
+      "Employee_LastName": "Staff",
+      "Second_Client_FirstName": "KMSAUTOVNCLIENTUPDATEA",
+      "Second_Client_LastName": "Client",
+      "ChangeId": "10010",
+      "ReasonCode": "70",
+      "ReasonNote": "Revert Client data",
+      "Memo": "Update Client",
+      "AccountId": "28005",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "VisitStartDate": "2019/01/10",
+      "VisitEndDate": "2019/01/10",
+      "specVersion": "maine",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_00001": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "ProviderID": "Molina28000",
+      "ProviderQualifier": "Other",
+      "ClientFirstName": "KMSAUTOFirstNameOneJan",
+      "ClientLastName": "KMSAUTOFirstNameOneJan",
+      "ClientQualifier": "ClientOtherID",
+      "ClientMedicaidID": "99990001",
+      "ClientIdentifier": "KMS_AUTO_ClientIdentifier_14Jan19_0227",
+      "SequenceID": "99990001",
+      "Account28005": "28005",
+      "Username28005": "ghR48Fg78",
+      "Password28005": "uguif78DB",
+      "Account28000": "28000",
+      "Username28000": "Sandata@1234",
+      "Password28000": "Sandata@1234",
+      "ClientFirstName28000": "KMSAUTOFirstNameMolina",
+      "ClientLastName28000": "KMSAUTOFirstNameMolina",
+      "EmployeeFirstName28000": "KMSAUTOFirstNameMolina",
+      "EmployeeLastName28000": "KMSAUTOFirstNameMolina",
+      "Memo": "Kms auto Memo Molina 18Jan19"
+    },
+    "TC_0002": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "ProviderID": "KMS_Auto_ProviderID_14Jan19_0227",
+      "ProviderQualifier": "Other",
+      "Account28005": "28005",
+      "Username28005": "ghR48Fg78",
+      "Password28005": "uguif78DB"
+    },
+    "TC_0003": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerEmpGeneral": "ProviderID,EmployeeID,EmployeeLastName,EmployeeFirstName,Department,EmployeeType,EmployeeEmail,EmployeeAddress1,EmployeeAddress2,EmployeeCity,EmployeeState,EmployeeZipCode,EmployeePhone,PayRate,EmployeeIDCustom1,EmployeeIDCustom2,SocialSecurity,EmployeeAPI,EmployeeHireDate,EmployeeBirthDate,EmployeeLocationName"
+    },
+    "TC_0006": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "visitMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_39962": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerEmployeeGeneral" : "ProviderID|EmployeeID|EmployeeLastName|EmployeeFirstName|Department|EmployeeType|EmployeeEmail|EmployeeAddress1|EmployeeAddress2|EmployeeCity|EmployeeState|EmployeeZipCode|EmployeePhone|PayRate|EmployeeIDCustom1|EmployeeIDCustom2|SocialSecurity|EmployeeAPI|EmployeeHireDate|EmployeeBirthDate|EmployeeLocationName|EmployeeTermDate",
+      "employeeHireDate": "2019-07-11|2019-10-25",
+      "employeeTermDate": "2019-10-24|2020-01-01"
+    },
+    "TC_0004": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "clientMode": "F"
+    },
+    "TC_0010": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "Extension": ".dsv",
+      "clientMode": "F"
+    },
+    "TC_0011": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "Extension": ".dsv",
+      "clientMode": "D"
+    },
+    "TC_0012": {
+      "ENVID": "001",
+      "AccountType": "HAWAII",
+      "Extension": ".dsv",
+      "clientMode": "D"
+    },
+    "TC_0007": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "Extension": ".csv",
+      "specVersion": "generic"
+    },
+    "TC_19336": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "clientMode": "F",
+      "headerDesignee": "ClientID|ClientDesigneeFirstName|ClientDesigneeLastName|ClientDesigneeEmail|ClientDesigneeStatus|ClientDesigneeStartDate|ClientDesigneeEndDate|ClientDesigneeRelationship",
+      "headerClientGen": "ProviderID|ClientID|ClientFirstName|ClientMiddleInitial|ClientLastName|MissingMedicaidID|ClientSSN|ClientMedicalRecordNum|ClientMedicaidID|ClientCustomID|ClientOtherID|ClientSuffix|Coordinator|ClientCoordinatorEmail|ClientLanguage|ClientGender|ClientMaritalStatus|ClientBirthDate|ClientEmail|ClientPriority|ClientTimeZone|ClientContactType|ClientContactFirstName|ClientContactLastName|ClientContactPhoneType|ClientContactPhone|ClientContactEmailAddress|ClientContactAddressLine1|ClientContactAddressLine2|ClientContactCity|ClientContactState|ClientContactZip"
+    },
+    "TC_40738": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerEmployeeGeneral" : "ProviderID|EmployeeID|EmployeeLastName|EmployeeFirstName|Department|EmployeeType|EmployeeEmail|EmployeeAddress1|EmployeeAddress2|EmployeeCity|EmployeeState|EmployeeZipCode|EmployeePhone|PayRate|EmployeeIDCustom1|EmployeeIDCustom2|SocialSecurity|EmployeeAPI|EmployeeHireDate|EmployeeBirthDate|EmployeeLocationName|EmployeeTermDate"
+    },
+    "TC_40739": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerClientGeneral": "ProviderID|ClientID|ClientFirstName|ClientMiddleInitial|ClientLastName|MissingMedicaidID|ClientSSN|ClientMedicalRecordNum|ClientMedicaidID|ClientCustomID|ClientOtherID|ClientSuffix|Coordinator|ClientCoordinatorEmail|ClientLanguage|ClientGender|ClientMaritalStatus|ClientBirthDate|ClientEmail|ClientPriority|ClientTimeZone|ProviderAssentContPlan|ClientContactType|ClientContactFirstName|ClientContactLastName|ClientContactPhoneType|ClientContactPhone|ClientContactEmailAddress|ClientContactAddressLine1|ClientContactAddressLine2|ClientContactCity|ClientContactState|ClientContactZip"
+    },
+    "TC_40740": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerProviderGeneral" : "ProviderQualifier|ProviderID|ProviderName|ProviderDoingBusinessAs|AddressLine1|AddressLine2|AddressCity|AddressState|AddressZip|County|AgencyPhone|AgencyEmail|PrimaryContactLastName|PrimaryContactFirstName|VendorID|ProviderFax|ProviderNPI|ProviderAPI|ProviderMedicaidID|SSN|TaxID|ProviderTaxonomy|ProviderRequireAuth|ProviderTimeZone|ProviderDateBegin|SuspensionDate|TerminationDate"
+    },
+    "TC_40741": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerEmpDisc" : "ProviderID|EmployeeID|EmployeeDiscipline"
+    },
+    "TC_40742": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerVisitChanges" : "VisitKey|ChangeID|ChangeType|SequenceID|VisitChangeExternalID|ChangeMadeBy|ChangeDateTime|RecordUpdateDateTime|ReasonCode|ChangeReasonMemo|ResolutionCode|VisitChangeLogDetails"
+    },
+    "TC_40743": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerVisitCalls" : "VisitKey|CallKey|CallDateTime|CallAssignment|CallType|ProcedureCode|ClientIdentifierOnCall|ServiceEnteredOnCall|MobileLogin|VisitLocation|VisitNotes|CallLatitude|CallLongitude|TelephonyPIN|CallTimeZone|OriginatingPhoneNumber|RecordUpdatedBy|RecordUpdateDateTime|GroupCode|VisitLocationType"
+    },
+    "TC_40744": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerProviderLoc" : "PayerID|ProviderID|LocationName|LocationIdentifier|LocationAddressLine1|LocationAddressLine2|LocationCity|LocationState|LocationZip|LocationContactLastName|LocationContactFirstName|LocationPhone"
+    },
+    "TC_40745": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerClientAddr" : "AddressID|ProviderID|ClientID|ClientAddressType|ClientAddressLine1|ClientAddressLine2|ClientCounty|ClientCity|ClientState|ClientZip"
+    },
+    "TC_40746": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerVisitGeneral" : "PayerID|ProviderID|ClientID|EmployeeID|VisitKey|VisitOtherID|VisitCancelledIndicator|PayerProgram|ProcedureCode|Timezone|CallInDateTime|CallOutDateTime|ActDuration|AdjBeginningDateTime|AdjEndDateTime|AdjDuration|BillVisit|BillTime|PayTime|Memo|EmpVoiceVerification|ClientVerifiedTimes|ClientVerifiedService|ClientVerifiedTasks|ClientSignatureAvailable|ClientVoiceRecording|ClientVoiceVerification|VisitStatus|GroupCode|Modifier1|Modifier2|Modifier3|Modifier4|CuresRequired"
+
+    },
+    "TC_40747": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerClientPhone" : "ProviderID|ClientID|ClientPhoneType|ClientPhone"
+    },
+    "TC_40748": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerVisitTasks" : "VisitKey|TaskID|TaskReading|TaskRefused|TaskUnit|CallKey|RecordUpdatedBy|RecordUpdateDateTime"
+    },
+    "TC_40749": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerVisitExcp" : "VisitKey|ExceptionID|ExceptionAcknowledged"
+    },
+    "TC_40750": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerVisitClaimst" : "VisitKey|TransactionID|BatchID|ICN|DetailLineNumber|ClientMedicaidID|Service|Modifier1|Modifier2|Modifier3|Modifier4|GroupCode|Units|VisitStartDateTime|VisitEndDateTime|ResponseDateTime"
+    },
+    "TC_40751": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA",
+      "Extension": ".dsv",
+      "headerClientSchedule": "PayerID|ProviderID|ClientID|EmployeeID|ScheduleID|ScheduleStartDate|ScheduleStartTime|ScheduleEndTime|ScheduleDuration|PayRate|BillRate|ClusterCaseFlag|Discipline|PayerProgram|PayerService|VisitType|LiveInCase|ScheduleTimeZone|Modifier1|Modifier2|Modifier3|Modifier4|ContingencyPlan|Reschedule"
+    },
+    "TC_18780": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerEmployeeGeneral" : "ProviderID|EmployeeID|EmployeeLastName|EmployeeFirstName|Department|EmployeeType|EmployeeEmail|EmployeeAddress1|EmployeeAddress2|EmployeeCity|EmployeeState|EmployeeZipCode|EmployeePhone|PayRate|EmployeeIDCustom1|EmployeeIDCustom2|SocialSecurity|EmployeeAPI|EmployeeHireDate|EmployeeBirthDate|EmployeeLocationName|EmployeeTermDate"
+    },
+    "TC_18781": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerClientGeneral" : "ProviderID|ClientID|ClientFirstName|ClientMiddleInitial|ClientLastName|MissingMedicaidID|ClientSSN|ClientMedicalRecordNum|ClientMedicaidID|ClientCustomID|ClientOtherID|ClientSuffix|Coordinator|ClientCoordinatorEmail|ClientLanguage|ClientGender|ClientMaritalStatus|ClientBirthDate|ClientEmail|ClientPriority|ClientTimeZone|ClientContactType|ClientContactFirstName|ClientContactLastName|ClientContactPhoneType|ClientContactPhone|ClientContactEmailAddress|ClientContactAddressLine1|ClientContactAddressLine2|ClientContactCity|ClientContactState|ClientContactZip"
+    },
+    "TC_18782": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerProviderGeneral" : "ProviderQualifier|ProviderID|ProviderName|ProviderDoingBusinessAs|AddressLine1|AddressLine2|AddressCity|AddressState|AddressZip|County|AgencyPhone|AgencyEmail|PrimaryContactLastName|PrimaryContactFirstName|VendorID|ProviderFax|ProviderNPI|ProviderAPI|ProviderMedicaidID|SSN|TaxID|ProviderTaxonomy|ProviderRequireAuth|ProviderTimeZone|ProviderDateBegin|ProviderDateEnd"
+    },
+    "TC_18783": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerEmpDisc" : "ProviderID|EmployeeID|EmployeeDiscipline"
+    },
+    "TC_18784": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerVisitChanges" : "VisitKey|ChangeID|ChangeType|SequenceID|VisitChangeExternalID|ChangeMadeBy|ChangeDateTime|RecordUpdateDateTime|ReasonCode|ChangeReasonMemo|ResolutionCode|VisitChangeLogDetails"
+    },
+    "TC_18785": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerVisitCalls" : "VisitKey|CallKey|CallDateTime|CallAssignment|CallType|ProcedureCode|ClientIdentifierOnCall|ServiceEnteredOnCall|MobileLogin|VisitLocation|VisitNotes|CallLatitude|CallLongitude|TelephonyPIN|CallTimeZone|OriginatingPhoneNumber|RecordUpdatedBy|RecordUpdateDateTime|GroupCode"
+    },
+    "TC_18786": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerProviderLoc" : "PayerID|ProviderID|LocationName|LocationIdentifier|LocationAddressLine1|LocationAddressLine2|LocationCity|LocationState|LocationZip|LocationContactLastName|LocationContactFirstName|LocationPhone"
+    },
+    "TC_18787": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerClientAddr" : "ProviderID|ClientID|ClientAddressType|ClientAddressLine1|ClientAddressLine2|ClientCounty|ClientCity|ClientState|ClientZip"
+    },
+    "TC_18788": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerVisitGeneral" : "PayerID|ProviderID|ClientID|EmployeeID|VisitKey|VisitOtherID|VisitCancelledIndicator|PayerProgram|ProcedureCode|Timezone|CallInDateTime|CallOutDateTime|ActDuration|AdjBeginningDateTime|AdjEndDateTime|AdjDuration|BillVisit|BillTime|PayTime|Memo|EmpVoiceVerification|ClientVerifiedTimes|ClientVerifiedService|ClientVerifiedTasks|ClientSignatureAvailable|ClientVoiceRecording|ClientVoiceVerification|VisitStatus|GroupCode|Modifier1|Modifier2|Modifier3|Modifier4|ClientMedicaidID"
+    },
+    "TC_18789": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerClientPhone" : "ProviderID|ClientID|ClientPhoneType|ClientPhone"
+    },
+    "TC_18789": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerClientPhone" : "ProviderID|ClientID|ClientPhoneType|ClientPhone"
+    },
+    "TC_18790": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerVisitTasks" : "VisitKey|TaskID|TaskReading|TaskRefused|TaskUnit|CallKey|RecordUpdatedBy|RecordUpdateDateTime"
+    },
+    "TC_18791": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerVisitExcp" : "VisitKey|ExceptionID|ExceptionAcknowledged"
+    },
+    "TC_18792": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerVisitClaimst" : "VisitKey|TransactionID|BatchID|ICN|DetailLineNumber|ClientMedicaidID|Service|Modifier1|Modifier2|Modifier3|Modifier4|GroupCode|Units|VisitStartDateTime|VisitEndDateTime|ResponseDateTime"
+    },
+    "TC_18793": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv"
+    },
+    "TC_18794": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv"
+    },
+    "TC_18795": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv"
+    },
+    "TC_18796": {
+      "ENVID": "001",
+      "AccountType": "COLORADO",
+      "Extension": ".dsv",
+      "headerClientSchedule" : "PayerID|ProviderID|ClientID|EmployeeID|ScheduleID|ScheduleStartDate|ScheduleStartTime|ScheduleEndTime|ScheduleDuration|PayRate|BillRate|ClusterCaseFlag|Discipline|PayerProgram|PayerService|VisitType|LiveInCase|ScheduleTimeZone|Modifier1|Modifier2|Modifier3|Modifier4"
+    },
+    "TC_40017": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "Extension": ".dsv",
+      "headerClientSchedule" : "PayerID|ProviderID|ClientID|EmployeeID|ScheduleID|ScheduleStartDate|ScheduleStartTime|ScheduleEndTime|ScheduleDuration|PayRate|BillRate|ClusterCaseFlag|Discipline|PayerProgram|PayerService|VisitType|LiveInCase|ScheduleTimeZone|Modifier1|Modifier2|Modifier3|Modifier4"
+    },
+    "TC_18722": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerEmpGeneral": "ProviderID,EmployeeID,EmployeeLastName,EmployeeFirstName,Department,EmployeeType,EmployeeEmail,EmployeeAddress1,EmployeeAddress2,EmployeeCity,EmployeeState,EmployeeZipCode,EmployeePhone,PayRate,EmployeeIDCustom1,EmployeeIDCustom2,SocialSecurity,EmployeeAPI,EmployeeHireDate,EmployeeBirthDate,EmployeeLocationName,EmployeeTermDate"
+    },
+    "TC_18724": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerClientGeneral" : "ProviderID,ClientID,ClientFirstName,ClientMiddleInitial,ClientLastName,MissingMedicaidID,ClientSSN,ClientMedicalRecordNum,ClientMedicaidID,ClientCustomID,ClientOtherID,ClientSuffix,Coordinator,ClientCoordinatorEmail,ClientLanguage,ClientGender,ClientMaritalStatus,ClientBirthDate,ClientEmail,ClientPriority,ClientTimeZone,ClientDesigneeFirstName,ClientDesigneeLastName,ClientDesigneeEmail,ClientDesigneeStatus,ClientDesigneeStartDate,ClientDesigneeEndDate,ClientContactType,ClientContactFirstName,ClientContactLastName,ClientContactPhoneType,ClientContactPhone,ClientContactEmailAddress,ClientContactAddressLine1,ClientContactAddressLine2,ClientContactCity,ClientContactState,ClientContactZip"
+    },
+    "TC_18725": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerProviderGeneral" : "ProviderQualifier,ProviderID,ProviderName,ProviderDoingBusinessAs,AddressLine1,AddressLine2,AddressCity,AddressState,AddressZip,County,AgencyPhone,AgencyEmail,PrimaryContactLastName,PrimaryContactFirstName,VendorID,ProviderFax,ProviderNPI,ProviderAPI,ProviderMedicaidID,SSN,TaxID,ProviderTaxonomy,ProviderRequireAuth,ProviderTimeZone,ProviderDateBegin,ProviderDateEnd"
+    },
+    "TC_18726": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerEmpDisc" : "ProviderID,EmployeeID,EmployeeDiscipline"
+    },
+    "TC_18727": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerVisitChange" : "VisitKey,ChangeID,ChangeType,SequenceID,VisitChangeExternalID,ChangeMadeBy,ChangeDateTime,RecordUpdateDateTime,ReasonCode,ChangeReasonMemo,ResolutionCode,VisitChangeLogDetails"
+    },
+    "TC_18732": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerVisitCall": "VisitKey,CallKey,CallDateTime,CallAssignment,CallType,ProcedureCode,ClientIdentifierOnCall,ServiceEnteredOnCall,MobileLogin,VisitLocation,VisitNotes,CallLatitude,CallLongitude,TelephonyPIN,CallTimeZone,OriginatingPhoneNumber,RecordUpdatedBy,RecordUpdateDateTime,GroupCode"
+    },
+    "TC_18733": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerProviderLoc": "PayerID,ProviderID,LocationName,LocationIdentifier,LocationAddressLine1,LocationAddressLine2,LocationCity,LocationState,LocationZip,LocationContactLastName,LocationContactFirstName,LocationPhone"
+    },
+    "TC_18734": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerClientAddr": "ProviderID,ClientID,ClientAddressType,ClientAddressLine1,ClientAddressLine2,ClientCounty,ClientCity,ClientState,ClientZip"
+    },
+    "TC_18735": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerVisitGeneral": "PayerID,ProviderID,ClientID,EmployeeID,VisitKey,VisitOtherID,VisitCancelledIndicator,PayerProgram,ProcedureCode,Timezone,CallInDateTime,CallOutDateTime,ActDuration,AdjBeginningDateTime,AdjEndDateTime,AdjDuration,BillVisit,BillTime,PayTime,Memo,EmpVoiceVerification,ClientVerifiedTimes,ClientVerifiedService,ClientVerifiedTasks,ClientSignatureAvailable,ClientVoiceRecording,ClientVoiceVerification,VisitStatus,GroupCode,Modifier1,Modifier2,Modifier3,Modifier4,ClientMedicaidID"
+    },
+    "TC_18736": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerClientPhone": "ProviderID,ClientID,ClientPhoneType,ClientPhone"
+    },
+    "TC_18738": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerVisitTasks": "VisitKey,TaskID,TaskReading,TaskRefused,TaskUnit,CallKey,RecordUpdatedBy,RecordUpdateDateTime"
+    },
+    "TC_18739": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerVisitExcp": "VisitKey,ExceptionID,ExceptionAcknowledged"
+
+    },
+    "TC_18740": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerVisitClaimst": "VisitKey,TransactionID,BatchID,ICN,DetailLineNumber,ClientMedicaidID,Service,Modifier1,Modifier2,Modifier3,Modifier4,GroupCode,Units,VisitStartDateTime,VisitEndDateTime,ResponseDateTime"
+    },
+    "TC_18742": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT"
+    },
+    "TC_18743": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT"
+    },
+    "TC_18744": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT"
+    },
+    "TC_18745": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerClientSchedule": "PayerID,ProviderID,ClientID,EmployeeID,ScheduleID,ScheduleStartDate,ScheduleStartTime,ScheduleEndTime,ScheduleDuration,PayRate,BillRate,ClusterCaseFlag,Discipline,PayerProgram,PayerService,VisitType,LiveInCase,ScheduleTimeZone,Modifier1,Modifier2,Modifier3,Modifier4"
+    },
+    "TC_18746": {
+      "ENVID": "001",
+      "Extension": ".txt",
+      "AccountType": "MOLINA"
+    },
+    "TC_18747": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18748": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18749": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18750": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18751": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18752": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18753": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18754": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18755": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18756": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18757": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18758": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18759": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18760": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18761": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18762": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_18763": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18764": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18765": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18766": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18767": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18768": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18769": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18770": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18771": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18772": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18773": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18774": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18775": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18776": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18777": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18778": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_18779": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_96767": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "clientE181129100000",
+      "Client_LastName": "clientE181129100000",
+      "Memo": "This is a memo 100120!",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "CreateCallDate": "01/09/2019",
+      "CreateCallInTime": "06:00 AM",
+      "CreateCallOutTime": "07:00 AM",
+      "SearchVisitStartDate": "01/09/2019",
+      "SearchVisitEndDate": "01/09/2019",
+      "ClientMedicalId": "06680403E",
+      "EmployeeLastName": "Doe",
+      "ClientFullName": "ClientFOUR, Hoa",
+      "StartDate": "2019-01-01T00:00:00Z",
+      "EndDate": "2019-01-30T00:00:00Z",
+      "VisitStartDate": "2018/11/01",
+      "VisitEndDate": "2018/11/30",
+      "VisitStatus": "Deleted",
+      "ReasonCode": "65",
+      "ReasonNote": "Update Do Not Bill"
+    },
+    "TC_95980": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Client_FirstName": "AKMSAUTOVNCLIENTA",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEA",
+      "Employee_LastName": "Staff",
+      "GroupKey": "93",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "Memo": "testing",
+      "ReasonCode": "26",
+      "TaskId": "0330",
+      "TaskName": "Feeding",
+      "ReasonNote": "TC95980",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_96123": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName": "clientE181129100000",
+      "Client_LastName": "clientE181129100000",
+      "Memo": "This is a memo 100120!",
+      "GroupKey": "231",
+      "AccountId": "28000",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "CreateCallDate": "01/09/2019",
+      "CreateCallInTime": "06:00 AM",
+      "CreateCallOutTime": "07:00 AM",
+      "SearchVisitStartDate": "01/09/2019",
+      "SearchVisitEndDate": "01/09/2019",
+      "ClientMedicalId": "7984962781",
+      "EmployeeLastName": "tuyenpham1",
+      "StartDate": "2019-01-01T00:00:00Z",
+      "EndDate": "2019-01-30T00:00:00Z",
+      "VisitStartDate": "2018/11/01",
+      "VisitEndDate": "2018/11/30",
+      "VisitStatus": "Deleted",
+      "ReasonCode": "65",
+      "ReasonNote": "Update Do Not Bill"
+    },
+    "TC_92707": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Client_FirstName": "Client",
+      "Client_LastName": "KMSAutoPB",
+      "GroupKey": "93",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-09T00:00:00Z",
+      "EndDate": "2019-01-13T00:00:00Z",
+      "Memo": "TC92707",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_92701": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".csv",
+      "Client_FirstName": "Client",
+      "Client_LastName": "KMSAutoPB",
+      "GroupKey": "93",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-09T00:00:00Z",
+      "EndDate": "2019-01-13T00:00:00Z",
+      "Memo": "TC92701",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_96363": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Client_FirstName": "AKMSAUTOVNCLIENTA",
+      "Client_LastName": "Client",
+      "Employee_FirstName": "AKMSAUTOVNEMPLOYEEA",
+      "Employee_LastName": "Staff",
+      "AccountId": "14420",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "Memo": "testing",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "2019-01-10",
+      "VisitEndDate": "2019-01-10",
+      "MemoPrefixUnique": "memo2",
+      "AdjustedIn": "01/01/2019 10:10 AM",
+      "AdjustedOut": "01/01/2019 11:20 AM",
+      "PayHours": "10:00",
+      "ChangeId": "10013",
+      "ReasonNote": "Update Adjust PayHours AKMSAUTOVNCLIENTA",
+      "ReasonCode": "65"
+    },
+    "TC_96364": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "PayHours": "10:00",
+      "ChangeId": "10014",
+      "Employee_LastName": "KMSAUTOFirstNameOneJan",
+      "Employee_FirstName": "KMSAUTOFirstNameOneJan",
+      "ClientFullName": "KMSAUTOFirstNameMolina, KMSAUTOFirstNameMolina",
+      "Client_FirstName": "KMSAUTOFirstNameMolina",
+      "Client_LastName": "KMSAUTOFirstNameMolina",
+      "ClientMedicalId": "01066666101",
+      "Memo": "Kms auto Memo Molina 18Jan19",
+      "VisitStartDate": "2018-10-22",
+      "VisitEndDate": "2018-10-26",
+      "ReasonNote": "Update Adjust Time",
+      "ReasonCode": "7s0",
+      "AdjustedIn": "01/01/2019 10:10 AM",
+      "AdjustedOut": "01/01/2019 11:20 AM",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z"
+    },
+    "TC_97054": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "GroupKey": "231",
+      "AccountId": "28000",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-01T00:00:00Z",
+      "EndDate": "2019-01-30T00:00:00Z",
+      "EmployeeFirstNamePrefix": "EmployeeFn",
+      "EmployeeLastNamePrefix": "EmployeeLn",
+      "Employee_LastName": "KMSAUTOFirstNameMolina",
+      "Employee_FirstName": "KMSAUTOFirstNameMolina",
+      "ClientFullName": "KMSAUTOFirstNameMolina, KMSAUTOFirstNameMolina",
+      "Client_FirstName": "KMSAUTOFirstNameMolina",
+      "Client_LastName": "KMSAUTOFirstNameMolina",
+      "ClientMedicalId": "01066666101",
+      "Memo": "Add Manual Call",
+      "VisitStartDate": "2019-01-22",
+      "VisitEndDate": "2019-01-22",
+      "ReasonNote": "Add Manual Call",
+      "ReasonCode": "70",
+      "AdjustedIn": "01/01/2019 10:10 AM",
+      "AdjustedOut": "01/01/2019 11:20 AM",
+      "GeneralBillHours": "20:00",
+      "ChangeId": "13570",
+      "CallDTime": "01/22/2019 01:00 AM",
+      "CreateCallDate": "01/22/2019",
+      "CreateCallInTime": "01:00 AM"
+    },
+    "TC_97061": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName_qa": "Janm",
+      "Client_LastName_qa": "Does",
+      "Client_FirstName_dev": "KMSAUTOFirstNameMolina",
+      "Client_LastName_dev": "KMSAUTOFirstNameMolina",
+      "Client_Id_qa": "12285",
+      "Client_Id_dev": "12346",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "2018-12-23",
+      "VisitEndDate": "2018-12-25"
+    },
+    "TC_97062": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Client_FirstName_qa": "Janm",
+      "Client_LastName_qa": "Does",
+      "Client_FirstName_dev": "KMSAUTOFirstNameMolina",
+      "Client_LastName_dev": "KMSAUTOFirstNameMolina",
+      "Client_Id_qa": "12285",
+      "Client_Id_dev": "12346",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "2018-12-23",
+      "VisitEndDate": "2018-12-25"
+    },
+    "TC_111111": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_101111": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_101112": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_101115": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_222222": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_222223": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_102179": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102180": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102181": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102124": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102125": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102126": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102127": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102128": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102129": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102130": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102131": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102132": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102134": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102135": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102136": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102137": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102138": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102139": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102140": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102141": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102142": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102143": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102144": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102292": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102133": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102136": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102137": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102138": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102139": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102151": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_103305": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102143": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102141": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102148": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102149": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102150": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_96361": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "EmployeeFirstNamePrefix": "EmployeeFn",
+      "EmployeeLastNamePrefix": "EmployeeLn",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "12%2F23%2F2018",
+      "VisitEndDate": "12%2F23%2F2018",
+      "MemoPrefixUnique": "memo2"
+    },
+    "TC_96320": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "EmployeeFirstNamePrefix": "EmployeeFn",
+      "EmployeeLastNamePrefix": "EmployeeLn",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "12%2F23%2F2018",
+      "VisitEndDate": "12%2F23%2F2018",
+      "MemoPrefixUnique": "memo2"
+    },
+    "TC_96631": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "EmployeeFirstNamePrefix": "EmployeeFn",
+      "EmployeeLastNamePrefix": "EmployeeLn",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "12%2F23%2F2018",
+      "VisitEndDate": "12%2F23%2F2018",
+      "MemoPrefixUnique": "memo2"
+    },
+    "TC_96362": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "GroupKey": "231",
+      "AccountId": "28000",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2019-01-01T00:00:00Z",
+      "EndDate": "2019-01-30T00:00:00Z",
+      "EmployeeFirstNamePrefix": "EmployeeFn",
+      "EmployeeLastNamePrefix": "EmployeeLn",
+      "Memo": "Add Manual Call",
+      "ChangeId": "10012"
+    },
+    "TC_96689": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "EmployeeFirstNamePrefix": "EmployeeFn",
+      "EmployeeLastNamePrefix": "EmployeeLn",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "12%2F23%2F2018",
+      "VisitEndDate": "12%2F23%2F2018",
+      "MemoPrefixUnique": "memo2"
+    },
+    "TC_97014": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "EmployeeFirstNamePrefix": "EmployeeFn",
+      "EmployeeLastNamePrefix": "EmployeeLn",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "12%2F23%2F2018",
+      "VisitEndDate": "12%2F23%2F2018",
+      "MemoPrefixUnique": "memo2"
+    },
+    "TC_97015": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "EmployeeFirstNamePrefix": "EmployeeFn",
+      "EmployeeLastNamePrefix": "EmployeeLn",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "12%2F23%2F2018",
+      "VisitEndDate": "12%2F23%2F2018",
+      "MemoPrefixUnique": "memo2"
+    },
+    "TC_97017": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "EmployeeFirstNamePrefix": "EmployeeFn",
+      "EmployeeLastNamePrefix": "EmployeeLn",
+      "GroupKey": "231",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "StartDate": "2018-12-01T00:00:00Z",
+      "EndDate": "2018-12-31T00:00:00Z",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "TimeZone": "US/Eastern",
+      "CallInDateTime": "2018-12-23",
+      "VisitStartDate": "12%2F23%2F2018",
+      "VisitEndDate": "12%2F23%2F2018",
+      "MemoPrefixUnique": "memo2"
+    },
+    "TC_92877": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC92877",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_96474": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC96474",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_95975": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC95975",
+      "ScheduleContract": "CTDSS",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97311": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC95975",
+      "ScheduleContract": "CTDSS",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97069": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC95975",
+      "ScheduleContract": "CTDSS",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_98976": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_98974": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "Extension": ".txt",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_96752": {
+      "ENVID": "002",
+      "AccountType": "MOLINA",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".txt",
+      "Memo": "TC96752",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "VisitStatus": "Incomplete",
+      "ReasonCode": "65",
+      "ReasonNote": "Update Do Not Bill",
+      "specVersion": "maine",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_967521": {
+      "ENVID": "002",
+      "AccountType": "MOLINA",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".txt",
+      "Memo": "TC96752",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "VisitStatus": "Incomplete",
+      "ReasonCode": "65",
+      "ReasonNote": "Update Do Not Bill",
+      "specVersion": "maine",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97530": {
+      "ENVID": "002",
+      "AccountType": "MOLINA",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".txt",
+      "Memo": "TC97530",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "VisitStatus": "Deleted",
+      "ReasonCode": "65",
+      "ReasonNote": "Update Do Not Bill",
+      "specVersion": "maine",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97531": {
+      "ENVID": "002",
+      "AccountType": "MOLINA",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".txt",
+      "Memo": "TC97531",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "VisitStatus": "Deleted",
+      "ReasonCode": "65",
+      "ReasonNote": "Update Do Not Bill",
+      "specVersion": "maine",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97017": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Memo": "TC97017",
+      "GroupKey": "93",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ChangeId": "10023",
+      "ReasonCode": "26",
+      "ReasonNote": "Add Task",
+      "DeleteReasonNote": "Add Task",
+      "TaskId": "0330",
+      "TaskName": "Feeding"
+    },
+    "TC_97390": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC97390",
+      "ScheduleContract": "CTDSS",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_96684": {
+      "ENVID": "002",
+      "AccountType": "MOLINA",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".txt",
+      "Memo": "TC96684",
+      "GroupKey": "231",
+      "AccountId": "28005",
+      "ProviderId": "000000",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_98749": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_94691": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_97302": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC97302",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97312": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC97312",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V"
+    },
+    "TC_97014": {
+      "ENVID": "001",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Extension": ".csv",
+      "Memo": "TC97014",
+      "GroupKey": "93",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2019-01-08T00:00:00Z",
+      "EndDate": "2019-01-12T00:00:00Z",
+      "ChangeReasonMemo": "Update Service",
+      "ChangeId": "10068",
+      "ReasonCode": "70",
+      "ReasonNote": "Update Service",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V",
+      "ServiceName": "S5125_PP1"
+    },
+    "TC_99605": {
+      "ENVID": "002",
+      "AccountType": "CONNECTICUT",
+      "AccountId": "14420",
+      "Extension": ".csv",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2018-10-22T00:00:00Z",
+      "EndDate": "2018-10-23T00:00:00Z",
+      "Provider_id": "('000000')",
+      "TimeZoneName": "US/Eastern",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "F",
+      "scheduleMode": "F",
+      "employeeMode": "D",
+      "Memo": "TC99605"
+    },
+    "TC_99611": {
+      "ENVID": "002",
+      "AccountType": "CONNECTICUT",
+      "AccountId": "14420",
+      "Extension": ".csv",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2018-10-22T00:00:00Z",
+      "EndDate": "2018-10-23T00:00:00Z",
+      "Provider_id": "('000000')",
+      "TimeZoneName": "US/Eastern",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "D",
+      "scheduleMode": "F",
+      "employeeMode": "F",
+      "Memo": "TC99611"
+    },
+    "TC_99613": {
+      "ENVID": "002",
+      "AccountType": "CONNECTICUT",
+      "AccountId": "14420",
+      "Extension": ".csv",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "Provider_id": "('000000')",
+      "TimeZoneName": "US/Eastern",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "D",
+      "scheduleMode": "F",
+      "employeeMode": "V",
+      "Memo": "TC99613"
+    },
+    "TC_99617": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC99617",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "D",
+      "scheduleMode": "F",
+      "employeeMode": "F"
+    },
+    "TC_99619": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC99619",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "D",
+      "scheduleMode": "V",
+      "employeeMode": "F"
+    },
+    "TC_101117": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_101118": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_101113": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_101508": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_101509": {
+      "ENVID": "001",
+      "AccountType": "MOLINA"
+    },
+    "TC_101510": {
+      "ENVID": "001"
+    },
+    "TC_99620": {
+      "ENVID": "002",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "MolinaAccountId": "28005",
+      "MolinaScheduleContract": "MEDHHS",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC99620",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "D",
+      "scheduleMode": "null",
+      "employeeMode": "F"
+    },
+    "TC_99607": {
+      "ENVID": "002",
+      "AccountType": "CONNECTICUT",
+      "AccountId": "14420",
+      "ProviderQualifier": "SandataID",
+      "MolinaAccountId": "28005",
+      "Extension": ".csv",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2018-10-22T00:00:00Z",
+      "EndDate": "2018-10-23T00:00:00Z",
+      "Provider_id": "('000000')",
+      "TimeZoneName": "US/Eastern",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V",
+      "Memo": "TC99607"
+    },
+    "TC_99624": {
+      "ENVID": "002",
+      "AccountType": "CONNECTICUT",
+      "AccountId": "14420",
+      "MolinaAccountId": "28005",
+      "MolinaScheduleContract": "MEDHHS",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".csv",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "StartDate": "2018-10-22T00:00:00Z",
+      "EndDate": "2018-10-23T00:00:00Z",
+      "Provider_id": "('000000')",
+      "TimeZoneName": "US/Eastern",
+      "specVersion": "generic",
+      "providerMode": "null",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V",
+      "Memo": "TC99624"
+    },
+    "TC_99622": {
+      "ENVID": "002",
+      "AccountType": "CONNECTICUT",
+      "AccountId": "14420",
+      "MolinaAccountId": "28005",
+      "MolinaScheduleContract": "MEDHHS",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".csv",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "Provider_id": "('000000')",
+      "TimeZoneName": "US/Eastern",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "D",
+      "scheduleMode": "F",
+      "employeeMode": "null",
+      "Memo": "TC99622"
+    },
+    "TC_0009": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_41529": {
+      "ENVID": "001",
+      "AccountType": "OHIO_CLAIM",
+      "FilePrefix": "ODM"
+    },
+    "TC_41497": {
+      "ENVID": "001",
+      "AccountType": "OHIO_PROVIDER",
+      "FilePrefix": "ODM"
+    },
+    "TC_38310": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_99998": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_86843": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_86844": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_86845": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_92480": {
+      "ENVID": "001",
+      "AccountType": "MOLINA",
+      "FilePrefix": "ODM"
+    },
+    "TC_99614": {
+      "ENVID": "002",
+      "AccountType": "CONNECTICUT",
+      "AccountId": "14420",
+      "Extension": ".csv",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "Provider_id": "('000000')",
+      "TimeZoneName": "US/Eastern",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "F",
+      "scheduleMode": "F",
+      "employeeMode": "D",
+      "Memo": "TC99614"
+    },
+    "TC_99616": {
+      "ENVID": "002",
+      "AccountType": "CONNECTICUT",
+      "AccountId": "14420",
+      "MolinaAccountId": "28005",
+      "MolinaPayerId": "MEDHHS",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".csv",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ConnecticutPayerId": "CTDSS",
+      "Provider_id": "('000000')",
+      "TimeZoneName": "US/Eastern",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V",
+      "Memo": "TC99616"
+    },
+    "TC_99621": {
+      "ENVID": "002",
+      "AccountType": "CONNECTICUT",
+      "AccountId": "14420",
+      "MolinaAccountId": "28005",
+      "MolinaPayerId": "MEDHHS",
+      "ProviderQualifier": "SandataID",
+      "Extension": ".csv",
+      "GroupKey": "93",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ConnecticutPayerId": "CTDSS",
+      "Provider_id": "('000000')",
+      "TimeZoneName": "US/Eastern",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "null",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V",
+      "Memo": "TC99621"
+    },
+    "TC_100896": {
+      "ENVID": "001"
+    },
+    "TC_100894": {
+      "ENVID": "001"
+    },
+    "TC_99608": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC99608",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "F",
+      "scheduleMode": "F",
+      "employeeMode": "D",
+      "ClientDesigneeFirstName": "AutoClientDesigneeFirstName",
+      "ClientDesigneeLastName": "ClientDesigneeLastName",
+      "ClientDesigneeEmail": "autotest@test.com",
+      "ClientDesigneeStatus": "02"
+    },
+    "TC_99610": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC99610",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "V",
+      "scheduleMode": "F",
+      "employeeMode": "D",
+      "ClientDesigneeFirstName": "AutoClientDesigneeFirstName",
+      "ClientDesigneeLastName": "ClientDesigneeLastName",
+      "ClientDesigneeEmail": "autotest@test.com",
+      "ClientDesigneeStatus": "02"
+    },
+    "TC_99623": {
+      "ENVID": "002",
+      "Extension": ".txt",
+      "AccountId": "28005",
+      "Contract": "_ALL",
+      "FilePrefix": "MEDHHS",
+      "ProviderID": "000000",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "MOLINA",
+      "Memo": "TC99610",
+      "ScheduleContract": "MEDHHS",
+      "specVersion": "maine",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "V",
+      "scheduleMode": "F",
+      "employeeMode": "D",
+      "ClientDesigneeFirstName": "AutoClientDesigneeFirstName",
+      "ClientDesigneeLastName": "ClientDesigneeLastName",
+      "ClientDesigneeEmail": "autotest@test.com",
+      "ClientDesigneeStatus": "02"
+    },
+    "TC_100895": {
+      "ENVID": "001"
+    },
+    "TC_100897": {
+      "ENVID": "001"
+    },
+    "TC_99714": {
+      "ENVID": "001",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC99714",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "F",
+      "scheduleMode": "F",
+      "employeeMode": "F",
+      "ClientDesigneeFirstName": "AutoClientDesigneeFirstName",
+      "ClientDesigneeLastName": "ClientDesigneeLastName",
+      "ClientDesigneeEmail": "autotest@test.com",
+      "ClientDesigneeStatus": "02",
+      "ReasonCode": "26",
+      "TaskId": "0330",
+      "TaskName": "Feeding",
+      "ReasonNote": "TC99714"
+    },
+    "TC_100898": {
+      "ENVID": "001"
+    },
+    "TC_99715": {
+      "ENVID": "002",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC99715",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "V",
+      "payerMode": "V",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V",
+      "ReasonCode": "26",
+      "TaskId": "0330",
+      "TaskName": "Feeding",
+      "ReasonNote": "TC99715",
+      "ConnecticutPayerId": "CTDSS",
+      "MolinaPayerId": "MEDHHS",
+      "MolinaAccountId": "28005",
+      "MolinaScheduleContract": "MEDHHS"
+    },
+    "TC_99874": {
+      "ENVID": "002",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC99874",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V",
+      "ClientDesigneeFirstName": "AutoClientDesigneeFirstName",
+      "ClientDesigneeLastName": "ClientDesigneeLastName",
+      "ClientDesigneeEmail": "autotest@test.com",
+      "ClientDesigneeStatus": "02",
+      "ReasonCode": "26",
+      "TaskId": "0330",
+      "TaskName": "Feeding",
+      "ReasonNote": "TC99874"
+    },
+    "TC_99433": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_97158": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_99436": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "ExceptionId": "28",
+      "ExceptionName": "Visit Verification Exception",
+      "ExceptionKnowledge": "false"
+    },
+    "TC_99435": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "ExceptionId": "39",
+      "ExceptionName": "Client Signature Exception",
+      "ExceptionKnowledge": "false"
+    },
+    "TC_99437": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "ExceptionId": "40",
+      "ExceptionName": "Service Verification Exception",
+      "ExceptionKnowledge": "false"
+    },
+    "TC_99442": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "ExceptionId": "4",
+      "ExceptionName": "Visits Without Out-Calls",
+      "ExceptionKnowledge": "false"
+    },
+    "TC_99434": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "ExceptionId": "23",
+      "ExceptionName": "Missing Service",
+      "ExceptionKnowledge": "false"
+    },
+    "TC_99438": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "ExceptionId": "1",
+      "ExceptionName": "Unknown Employees",
+      "ExceptionKnowledge": "false",
+      "devStartDate": "2019-03-19T00:00:00",
+      "devEndDate": "2019-03-21T23:59:00",
+      "qaStartDate": "2019-03-19T00:00:00",
+      "qaEndDate": "2019-03-21T23:59:00",
+      "Memo": "This is memo for Unknown Employee"
+    },
+    "TC_99439": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "ExceptionId": "0",
+      "ExceptionName": "Unknown Clients",
+      "ExceptionKnowledge": "false",
+      "devStartDate": "2019-02-04T00:00:00",
+      "devEndDate": "2019-02-06T23:59:59",
+      "qaStartDate": "2019-02-17T00:00:00",
+      "qaEndDate": "2019-02-18T23:59:00",
+      "Memo": "This is memo for Unknown Client"
+    },
+    "TC_99440": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "ExceptionId": "15",
+      "ExceptionName": "Unmatched Client ID / Phone",
+      "ExceptionKnowledge": "false",
+      "devStartDate": "2019-02-16T00:00:00",
+      "devEndDate": "2019-02-18T23:59:59",
+      "qaStartDate": "2019-02-26T00:00:00",
+      "qaEndDate": "2019-02-28T23:59:00",
+      "Memo": "This is memo for Unmatched Client ID or Phone"
+    },
+    "TC_99441": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "ExceptionId": "3",
+      "ExceptionName": "Visits Without In-Calls",
+      "ExceptionKnowledge": "false"
+    },
+    "TC_99444": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_99445": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_99875": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_99446": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_99996": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_97170": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_97171": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_97172": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_96331": {
+      "ENVID": "002",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC99874",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V",
+      "ClientDesigneeFirstName": "AutoClientDesigneeFirstName",
+      "ClientDesigneeLastName": "ClientDesigneeLastName",
+      "ClientDesigneeEmail": "autotest@test.com",
+      "ClientDesigneeStatus": "02",
+      "ReasonCode": "26",
+      "TaskId": "0330",
+      "TaskName": "Feeding",
+      "ReasonNote": "TC99874"
+    },
+    "TC_96332": {
+      "ENVID": "002",
+      "Extension": ".csv",
+      "AccountId": "14420",
+      "Contract": "_ALL",
+      "FilePrefix": "CTDSS",
+      "ProviderID": "111111",
+      "ProviderQualifier": "SandataID",
+      "AccountType": "CONNECTICUT",
+      "Memo": "TC99874",
+      "ScheduleContract": "CTDSS",
+      "specVersion": "generic",
+      "providerMode": "F",
+      "payerMode": "F",
+      "clientMode": "V",
+      "scheduleMode": "V",
+      "employeeMode": "V",
+      "ClientDesigneeFirstName": "AutoClientDesigneeFirstName",
+      "ClientDesigneeLastName": "ClientDesigneeLastName",
+      "ClientDesigneeEmail": "autotest@test.com",
+      "ClientDesigneeStatus": "02",
+      "ReasonCode": "26",
+      "TaskId": "0330",
+      "TaskName": "Feeding",
+      "ReasonNote": "TC99874"
+    },
+    "TC_98885": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "contract": "ODM"
+    },
+    "TC_98818": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "RequestType": "Model2"
+    },
+    "TC_86838": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM"
+    },
+    "TC_99535": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_98837": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "PayerProgram": "SP",
+      "ProcedureCode": "T1000"
+    },
+    "TC_99995": {
+      "ENVID": "002",
+      "AccountType": "MOLINA",
+      "FilePrefix": "MEDHHS"
+    },
+    "TC_98817": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "RequestType": "Model1"
+    },
+    "TC_98819": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "RequestType": "Model3"
+    },
+    "TC_98826": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "FilePrefix": "ODM",
+      "RequestType": "Model2"
+    },
+    "TC_95490": {
+      "ENVID": "002",
+      "AccountType": "OHIO",
+      "Group Key": "93"
+    },
+    "TC_97209": {
+      "ENVID": "001",
+      "AccountType": "OHIO",
+      "Group Key": "93"
+    },
+    "TC_102123": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102122": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102126": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102127": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102130": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102131": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102132": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102134": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102135": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102047": {
+    },
+    "TC_102108": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102117": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102119": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102120": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_103327": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102113": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102114": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102115": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102116": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102118": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102048": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102050": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102051": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102052": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_102054": {
+      "ENVID": "001",
+      "AccountType": "INDIANA"
+    },
+    "TC_103411": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103413": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103414": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103443": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5130": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5131": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5132": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5133": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5134": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5135": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5136": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5137": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5138": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5139": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5140": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5141": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5142": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5143": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5144": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_5476": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4782": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4783": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4784": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4785": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4786": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4787": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4795": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4796": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4797": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4798": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4799": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4800": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4824": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4825": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4826": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4827": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4846": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4847": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4848": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4856": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4857": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4858": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4859": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4931": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103410": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103412": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103417": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103418": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103423": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103422": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103421": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103416": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103420": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103415": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_103419": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_55555": {
+      "ENVID": "001"
+    },
+    "TC_66666": {
+      "ENVID": "001"
+    },
+    "TC_22222": {
+      "ENVID": "001"
+    },
+    "TC_33333": {
+      "ENVID": "001"
+    },
+    "TC_8888": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_4619": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_10010": {
+      "ENVID": "001",
+      "AccountType": "PENNSYLVANIA"
+    },
+    "TC_14410": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT"
+    },
+    "TC_10020": {
+      "ENVID": "001",
+      "AccountType": "OHIO"
+    },
+    "TC_38667": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerEmpGeneral": "ProviderID|EmployeeID|EmployeeLastName|EmployeeFirstName|Department|EmployeeType|EmployeeEmail|EmployeeAddress1|EmployeeAddress2|EmployeeCity|EmployeeState|EmployeeZipCode|EmployeePhone|PayRate|EmployeeIDCustom1|EmployeeIDCustom2|SocialSecurity|EmployeeAPI|EmployeeHireDate|EmployeeBirthDate|EmployeeLocationName|EmployeeTermDate"
+    },
+    "TC_40001": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerEmpGeneral": "ProviderID|EmployeeID|EmployeeLastName|EmployeeFirstName|Department|EmployeeType|EmployeeEmail|EmployeeAddress1|EmployeeAddress2|EmployeeCity|EmployeeState|EmployeeZipCode|EmployeePhone|PayRate|EmployeeIDCustom1|EmployeeIDCustom2|SocialSecurity|EmployeeAPI|EmployeeHireDate|EmployeeBirthDate|EmployeeLocationName|EmployeeTermDate"
+    },
+    "TC_50001": {
+      "ENVID": "001",
+      "AccountType": "HAWAII",
+      "headerEmpGeneral": "ProviderID|EmployeeID|EmployeeLastName|EmployeeFirstName|Department|EmployeeType|EmployeeEmail|EmployeeAddress1|EmployeeAddress2|EmployeeCity|EmployeeState|EmployeeZipCode|EmployeePhone|PayRate|EmployeeIDCustom1|EmployeeIDCustom2|SocialSecurity|EmployeeAPI|EmployeeHireDate|EmployeeBirthDate|EmployeeLocationName|EmployeeTermDate"
+    },
+    "TC_41654": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerVisitCall7.x": "VisitKey,CallKey,CallDateTime,CallAssignment,CallType,ProcedureCode,ClientIdentifierOnCall,ServiceEnteredOnCall,MobileLogin,VisitLocation,VisitNotes,CallLatitude,CallLongitude,TelephonyPIN,CallTimeZone,OriginatingPhoneNumber,RecordUpdatedBy,RecordUpdateDateTime,GroupCode,VisitLocationType",
+      "headerVisitCall6.x": "VisitKey,CallKey,CallDateTime,CallAssignment,CallType,ProcedureCode,ClientIdentifierOnCall,ServiceEnteredOnCall,MobileLogin,VisitLocation,VisitNotes,CallLatitude,CallLongitude,TelephonyPIN,CallTimeZone,OriginatingPhoneNumber,RecordUpdatedBy,RecordUpdateDateTime,GroupCode",
+      "headerVisitCall5.x": "VisitKey,CallKey,CallDateTime,CallAssignment,CallType,ProcedureCode,ClientIdentifierOnCall,ServiceEnteredOnCall,MobileLogin,VisitLocation,VisitNotes,CallLatitude,CallLongitude,TelephonyPIN,CallTimeZone,OriginatingPhoneNumber,RecordUpdatedBy,RecordUpdateDateTime"
+    },
+    "TC_41832": {
+      "ENVID": "001",
+      "AccountType": "VERMONT_AUTH",
+      "headerVisitCall6.x": "PayerIDProviderIDClientIDPayerProgramClientPayerIDPayerRegionPayerServiceModifier1Modifier2Modifier3Modifier4ClientEligibilityDateBeginClientEligibilityDateEndClientStartOfCareDateClientEndOfCareDateClientStatusClientStatusDateIsPrimaryDiagnosisCode"
+    },
+    "TC_41655": {
+      "ENVID": "001",
+      "AccountType": "VERMONT"
+    },
+    "TC_41656": {
+      "ENVID": "001",
+      "AccountType": "VERMONT"
+    },
+    "TC_40673": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerEmpGeneral": "ProviderID|EmployeeID|EmployeeLastName|EmployeeFirstName|Department|EmployeeType|EmployeeEmail|EmployeeAddress1|EmployeeAddress2|EmployeeCity|EmployeeState|EmployeeZipCode|EmployeePhone|PayRate|EmployeeIDCustom1|EmployeeIDCustom2|SocialSecurity|EmployeeAPI|EmployeeHireDate|EmployeeBirthDate|EmployeeLocationName"
+    },
+    "TC_38668": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerClientGeneral": "ProviderID|ClientID|ClientFirstName|ClientMiddleInitial|ClientLastName|MissingMedicaidID|ClientSSN|ClientMedicalRecordNum|ClientMedicaidID|ClientCustomID|ClientOtherID|ClientSuffix|Coordinator|ClientCoordinatorEmail|ClientLanguage|ClientGender|ClientMaritalStatus|ClientBirthDate|ClientEmail|ClientPriority|ClientTimeZone|ProviderAssentContPlan|ClientContactType|ClientContactFirstName|ClientContactLastName|ClientContactPhoneType|ClientContactPhone|ClientContactEmailAddress|ClientContactAddressLine1|ClientContactAddressLine2|ClientContactCity|ClientContactState|ClientContactZip"
+    },
+    "TC_40002": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerClientGeneral" : "ProviderID|ClientID|ClientFirstName|ClientMiddleInitial|ClientLastName|MissingMedicaidID|ClientSSN|ClientMedicalRecordNum|ClientMedicaidID|ClientCustomID|ClientOtherID|ClientSuffix|Coordinator|ClientCoordinatorEmail|ClientLanguage|ClientGender|ClientMaritalStatus|ClientBirthDate|ClientEmail|ClientPriority|ClientTimeZone|ProviderAssentContPlan|ClientContactType|ClientContactFirstName|ClientContactLastName|ClientContactPhoneType|ClientContactPhone|ClientContactEmailAddress|ClientContactAddressLine1|ClientContactAddressLine2|ClientContactCity|ClientContactState|ClientContactZip"
+    },
+    "TC_50002": {
+      "ENVID": "001",
+      "AccountType": "HAWAII",
+      "headerClientGeneral": "ProviderID|ClientID|ClientFirstName|ClientMiddleInitial|ClientLastName|MissingMedicaidID|ClientSSN|ClientMedicalRecordNum|ClientMedicaidID|ClientCustomID|ClientOtherID|ClientSuffix|Coordinator|ClientCoordinatorEmail|ClientLanguage|ClientGender|ClientMaritalStatus|ClientBirthDate|ClientEmail|ClientPriority|ClientTimeZone|ProviderAssentContPlan|ClientContactType|ClientContactFirstName|ClientContactLastName|ClientContactPhoneType|ClientContactPhone|ClientContactEmailAddress|ClientContactAddressLine1|ClientContactAddressLine2|ClientContactCity|ClientContactState|ClientContactZip"
+    },
+    "TC_40674": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerClientGeneral": "PayerID|ProviderID|ClientID|ClientPayerID|ClientFirstName|ClientMiddleInitial|ClientLastName|MissingMedicaidID|ClientSSN|ClientMedicalRecordNum|ClientMedicaidID|ClientCustomID|ClientOtherID|ClientSuffix|CaseManager|ClientCaseManagerEmail|Coordinator|ClientCoordinatorEmail|ClientLanguage|ClientGender|ClientMaritalStatus|ClientBirthDate|ClientEmail|ClientPriority|ClientTimeZone|ClientDesigneeFirstName|ClientDesigneeLastName|ClientDesigneeEmail|ClientDesigneeStatus|ClientDesigneeStartDate|ClientDesigneeEndDate|ClientContactType|ClientContactFirstName|ClientContactLastName|ClientContactPhoneType|ClientContactPhone|ClientContactEmailAddress|ClientContactAddressLine1|ClientContactAddressLine2|ClientContactCity|ClientContactState|ClientContactZip"
+    },
+    "TC_38669": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerProviderGeneral" : "ProviderQualifier|ProviderID|ProviderName|ProviderDoingBusinessAs|AddressLine1|AddressLine2|AddressCity|AddressState|AddressZip|County|AgencyPhone|AgencyEmail|PrimaryContactLastName|PrimaryContactFirstName|VendorID|ProviderFax|ProviderNPI|ProviderAPI|ProviderMedicaidID|SSN|TaxID|ProviderTaxonomy|ProviderRequireAuth|ProviderTimeZone|ProviderDateBegin|SuspensionDate|TerminationDate"
+    },
+    "TC_40003": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerProviderGeneral" : "ProviderQualifier|ProviderID|ProviderName|ProviderDoingBusinessAs|AddressLine1|AddressLine2|AddressCity|AddressState|AddressZip|County|AgencyPhone|AgencyEmail|PrimaryContactLastName|PrimaryContactFirstName|VendorID|ProviderFax|ProviderNPI|ProviderAPI|ProviderMedicaidID|SSN|TaxID|ProviderTaxonomy|ProviderRequireAuth|ProviderTimeZone|ProviderDateBegin|SuspensionDate|TerminationDate"
+    },
+    "TC_50003": {
+      "ENVID": "001",
+      "AccountType": "HAWAII",
+      "headerProviderGeneral" : "ProviderQualifier|ProviderID|ProviderName|ProviderDoingBusinessAs|AddressLine1|AddressLine2|AddressCity|AddressState|AddressZip|County|AgencyPhone|AgencyEmail|PrimaryContactLastName|PrimaryContactFirstName|VendorID|ProviderFax|ProviderNPI|ProviderAPI|ProviderMedicaidID|SSN|TaxID|ProviderTaxonomy|ProviderRequireAuth|ProviderTimeZone|ProviderDateBegin|SuspensionDate|TerminationDate"
+    },
+    "TC_40675": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerProviderGeneral": "ProviderQualifier|ProviderID|ProviderName|ProviderDoingBusinessAs|AddressLine1|AddressLine2|AddressCity|AddressState|AddressZip|County|AgencyPhone|AgencyEmail|PrimaryContactLastName|PrimaryContactFirstName|VendorID|ProviderFax|ProviderNPI|ProviderAPI|ProviderMedicaidID|SSN|TaxID|ProviderTaxonomy|ProviderRequireAuth|ProviderTimeZone|ProviderDateBegin|ProviderDateEnd"
+    },
+    "TC_38670": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerEmpDisc" : "ProviderID|EmployeeID|EmployeeDiscipline"
+    },
+    "TC_40004": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerEmpDisc" : "ProviderID|EmployeeID|EmployeeDiscipline"
+    },
+    "TC_50004": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerEmpDisc" : "ProviderID|EmployeeID|EmployeeDiscipline"
+    },
+    "TC_40676": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerEmpDisc": "ProviderID|EmployeeID|EmployeeDiscipline"
+    },
+    "TC_38671": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerVisitChange" : "VisitKey|ChangeID|ChangeType|SequenceID|VisitChangeExternalID|ChangeMadeBy|ChangeDateTime|RecordUpdateDateTime|ReasonCode|ChangeReasonMemo|ResolutionCode|VisitChangeLogDetails"
+    },
+    "TC_40005": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerVisitChange" : "VisitKey|ChangeID|ChangeType|SequenceID|VisitChangeExternalID|ChangeMadeBy|ChangeDateTime|RecordUpdateDateTime|ReasonCode|ChangeReasonMemo|ResolutionCode|VisitChangeLogDetails"
+    },
+    "TC_50005": {
+      "ENVID": "001",
+      "AccountType": "HAWAII",
+      "headerVisitChange" : "VisitKey|ChangeID|ChangeType|SequenceID|VisitChangeExternalID|ChangeMadeBy|ChangeDateTime|RecordUpdateDateTime|ReasonCode|ChangeReasonMemo|ResolutionCode|VisitChangeLogDetails"
+    },
+    "TC_40677": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerVisitChange": "VisitKey|ChangeID|ChangeType|SequenceID|VisitChangeExternalID|ChangeMadeBy|ChangeDateTime|RecordUpdateDateTime|ReasonCode|ChangeReasonMemo|ResolutionCode|VisitChangeLogDetails"
+    },
+    "TC_38672": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerVisitCall": "VisitKey|CallKey|CallDateTime|CallAssignment|CallType|ProcedureCode|ClientIdentifierOnCall|ServiceEnteredOnCall|MobileLogin|VisitLocation|VisitNotes|CallLatitude|CallLongitude|TelephonyPIN|CallTimeZone|OriginatingPhoneNumber|RecordUpdatedBy|RecordUpdateDateTime|GroupCode|VisitLocationType"
+    },
+    "TC_40006": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerVisitCall": "VisitKey|CallKey|CallDateTime|CallAssignment|CallType|ProcedureCode|ClientIdentifierOnCall|ServiceEnteredOnCall|MobileLogin|VisitLocation|VisitNotes|CallLatitude|CallLongitude|TelephonyPIN|CallTimeZone|OriginatingPhoneNumber|RecordUpdatedBy|RecordUpdateDateTime|GroupCode|VisitLocationType"
+    },
+    "TC_50006": {
+      "ENVID": "001",
+      "AccountType": "HAWAII",
+      "headerVisitCall": "VisitKey|CallKey|CallDateTime|CallAssignment|CallType|ProcedureCode|ClientIdentifierOnCall|ServiceEnteredOnCall|MobileLogin|VisitLocation|VisitNotes|CallLatitude|CallLongitude|TelephonyPIN|CallTimeZone|OriginatingPhoneNumber|RecordUpdatedBy|RecordUpdateDateTime|GroupCode|VisitLocationType"
+    },
+    "TC_40678": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerVisitCall": "VisitKey|CallKey|CallDateTime|CallAssignment|CallType|ProcedureCode|ClientIdentifierOnCall|ServiceEnteredOnCall|MobileLogin|VisitLocation|VisitNotes|CallLatitude|CallLongitude|TelephonyPIN|CallTimeZone|OriginatingPhoneNumber|RecordUpdatedBy|RecordUpdateDateTime"
+    },
+    "TC_38673": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerProviderLoc": "PayerID|ProviderID|LocationName|LocationIdentifier|LocationAddressLine1|LocationAddressLine2|LocationCity|LocationState|LocationZip|LocationContactLastName|LocationContactFirstName|LocationPhone"
+    },
+    "TC_40007": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerProviderLoc": "PayerID|ProviderID|LocationName|LocationIdentifier|LocationAddressLine1|LocationAddressLine2|LocationCity|LocationState|LocationZip|LocationContactLastName|LocationContactFirstName|LocationPhone"
+    },
+    "TC_50007": {
+      "ENVID": "001",
+      "AccountType": "HAWAII",
+      "headerProviderLoc": "PayerID|ProviderID|LocationName|LocationIdentifier|LocationAddressLine1|LocationAddressLine2|LocationCity|LocationState|LocationZip|LocationContactLastName|LocationContactFirstName|LocationPhone"
+    },
+    "TC_40679": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerProviderLoc": "PayerID|ProviderID|LocationName|LocationIdentifier|LocationAddressLine1|LocationAddressLine2|LocationCity|LocationState|LocationZip|LocationContactLastName|LocationContactFirstName|LocationPhone"
+    },
+    "TC_38674": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerClientAddr": "AddressID|ProviderID|ClientID|ClientAddressType|ClientAddressLine1|ClientAddressLine2|ClientCounty|ClientCity|ClientState|ClientZip"
+    },
+    "TC_40008": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerClientAddr": "AddressID|ProviderID|ClientID|ClientAddressType|ClientAddressLine1|ClientAddressLine2|ClientCounty|ClientCity|ClientState|ClientZip"
+    },
+    "TC_50008": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerClientAddr": "AddressID|ProviderID|ClientID|ClientAddressType|ClientAddressLine1|ClientAddressLine2|ClientCounty|ClientCity|ClientState|ClientZip"
+    },
+    "TC_40680": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerClientAddr": "PayerID|ProviderID|ClientID|ClientAddressType|ClientAddressLine1|ClientAddressLine2|ClientCounty|ClientCity|ClientState|ClientZip"
+    },
+    "TC_38675": {
+      "ENVID": "001",
+      "AccountType": "CONNECTICUT",
+      "headerVisitGeneral": "PayerID|ProviderID|ClientID|EmployeeID|VisitKey|VisitOtherID|VisitCancelledIndicator|PayerProgram|ProcedureCode|Timezone|CallInDateTime|CallOutDateTime|ActDuration|AdjBeginningDateTime|AdjEndDateTime|AdjDuration|BillVisit|BillTime|PayTime|Memo|EmpVoiceVerification|ClientVerifiedTimes|ClientVerifiedService|ClientVerifiedTasks|ClientSignatureAvailable|ClientVoiceRecording|ClientVoiceVerification|VisitStatus|GroupCode|Modifier1|Modifier2|Modifier3|Modifier4|CuresRequired"
+    },
+    "TC_40009": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerVisitGeneral": "PayerID|ProviderID|ClientID|EmployeeID|VisitKey|VisitOtherID|VisitCancelledIndicator|PayerProgram|ProcedureCode|Timezone|CallInDateTime|CallOutDateTime|ActDuration|AdjBeginningDateTime|AdjEndDateTime|AdjDuration|BillVisit|BillTime|PayTime|Memo|EmpVoiceVerification|ClientVerifiedTimes|ClientVerifiedService|ClientVerifiedTasks|ClientSignatureAvailable|ClientVoiceRecording|ClientVoiceVerification|VisitStatus|GroupCode|Modifier1|Modifier2|Modifier3|Modifier4|CuresRequired"
+    },
+    "TC_50009": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerVisitGeneral": "PayerID|ProviderID|ClientID|EmployeeID|VisitKey|VisitOtherID|VisitCancelledIndicator|PayerProgram|ProcedureCode|Timezone|CallInDateTime|CallOutDateTime|ActDuration|AdjBeginningDateTime|AdjEndDateTime|AdjDuration|BillVisit|BillTime|PayTime|Memo|EmpVoiceVerification|ClientVerifiedTimes|ClientVerifiedService|ClientVerifiedTasks|ClientSignatureAvailable|ClientVoiceRecording|ClientVoiceVerification|VisitStatus|GroupCode|Modifier1|Modifier2|Modifier3|Modifier4|CuresRequired"
+    },
+    "TC_40681": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerVisitGeneral": "PayerID|ProviderID|ClientID|EmployeeID|VisitKey|VisitOtherID|VisitCancelledIndicator|PayerProgram|ProcedureCode|Timezone|CallInDateTime|CallOutDateTime|ActDuration|AdjBeginningDateTime|AdjEndDateTime|AdjDuration|BillVisit|BillTime|PayTime|Memo|EmpVoiceVerification|ClientVerifiedTimes|ClientVerifiedService|ClientVerifiedTasks|ClientSignatureAvailable|ClientVoiceRecording|ClientVoiceVerification|VisitStatus|GroupCode|Modifier1|Modifier2|Modifier3|Modifier4"
+    },
+    "TC_38676": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerClientPhone": "ProviderID|ClientID|ClientPhoneType|ClientPhone"
+    },
+    "TC_40010": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerClientPhone": "ProviderID|ClientID|ClientPhoneType|ClientPhone"
+    },
+    "TC_50010": {
+      "ENVID": "001",
+      "AccountType": "HI",
+      "headerClientPhone": "ProviderID|ClientID|ClientPhoneType|ClientPhone"
+    },
+    "TC_40682": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerClientPhone": "PayerID|ProviderID|ClientID|ClientPhoneType|ClientPhone"
+    },
+    "TC_38677": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerVisitTasks": "VisitKey,TaskID,TaskReading,TaskRefused,TaskUnit,CallKey,RecordUpdatedBy,RecordUpdateDateTime"
+    },
+    "TC_40011": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerVisitTasks": "VisitKey,TaskID,TaskReading,TaskRefused,TaskUnit,CallKey,RecordUpdatedBy,RecordUpdateDateTime"
+    },
+    "TC_50011": {
+      "ENVID": "001",
+      "AccountType": "HI",
+      "headerVisitTasks": "VisitKey,TaskID,TaskReading,TaskRefused,TaskUnit,CallKey,RecordUpdatedBy,RecordUpdateDateTime"
+    },
+    "TC_40683": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerVisitTasks": "VisitKey,TaskID,TaskReading,TaskRefused,TaskUnit,CallKey,RecordUpdatedBy,RecordUpdateDateTime"
+    },
+    "TC_38678": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerVisitExcp": "VisitKey|ExceptionID|ExceptionAcknowledged"
+    },
+    "TC_40012": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerVisitExcp": "VisitKey|ExceptionID|ExceptionAcknowledged"
+    },
+    "TC_50012": {
+      "ENVID": "001",
+      "AccountType": "HI",
+      "headerVisitExcp": "VisitKey|ExceptionID|ExceptionAcknowledged"
+    },
+    "TC_40684": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerVisitExcp": "VisitKey|ExceptionID|ExceptionAcknowledged"
+    },
+    "TC_38679": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerVisitClaimst": "VisitKey,TransactionID,BatchID,ICN,DetailLineNumber,ClientMedicaidID,Service,Modifiers,GroupCode,Units,VisitStartDateTime,VisitEndDateTime,ResponseDateTime"	   
+    },
+    "TC_40013": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerVisitClaimst": "VisitKey,TransactionID,BatchID,ICN,DetailLineNumber,ClientMedicaidID,Service,Modifier1,Modifier2,Modifier3,Modifier4,GroupCode,Units,VisitStartDateTime,VisitEndDateTime,ResponseDateTime"
+    },
+    "TC_50013": {
+      "ENVID": "001",
+      "AccountType": "HI",
+      "headerVisitClaimst": "VisitKey,TransactionID,BatchID,ICN,DetailLineNumber,ClientMedicaidID,Service,Modifier1,Modifier2,Modifier3,Modifier4,GroupCode,Units,VisitStartDateTime,VisitEndDateTime,ResponseDateTime"
+    },
+    "TC_40685": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerVisitClaimst": "VisitKey,TransactionID,BatchID,ICN,DetailLineNumber,ClientMedicaidID,Service,Modifiers,GroupCode,Units,VisitStartDateTime,VisitEndDateTime,ResponseDateTime"
+    },
+    "TC_38680": {
+      "ENVID": "001",
+      "AccountType": "VERMONT"
+    },    
+    "TC_38681": {
+      "ENVID": "001",
+      "AccountType": "VERMONT"
+    },
+    "TC_38682": {
+      "ENVID": "001",
+      "AccountType": "VERMONT"
+    },
+    "TC_38684": {
+      "ENVID": "001",
+      "AccountType": "VERMONT",
+      "headerClientSchedule": "PayerID,ProviderID,ClientID,EmployeeID,ScheduleID,ScheduleStartDate,ScheduleStartTime,ScheduleEndTime,ScheduleDuration,PayRate,BillRate,ClusterCaseFlag,Discipline,PayerProgram,PayerService,VisitType,LiveInCase,ScheduleTimeZone,ProcCodeQualifier,Modifier1,Modifier2,Modifier3,Modifier4"
+    },
+    "TC_40686": {
+      "ENVID": "001",
+      "AccountType": "INDIANA",
+      "headerClientSchedule": "PayerID,ProviderID,ClientID,EmployeeID,ScheduleID,ScheduleStartDate,ScheduleStartTime,ScheduleEndTime,ScheduleDuration,PayRate,BillRate,ClusterCaseFlag,Discipline,PayerProgram,PayerService,VisitType,LiveInCase,ScheduleTimeZone,ProcCodeQualifier,Modifier1,Modifier2,Modifier3,Modifier4"
+    },
+	"TC_40014": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerClientAuth": "AuthID|PayerID|ProviderID|ClientID|PayerProgram|ClientPayerID|PayerRegion|PayerService|Modifier1|Modifier2|Modifier3|Modifier4|ClientEligibilityDateBegin|ClientEligibilityDateEnd|ClientStartOfCareDate|ClientEndOfCareDate|ClientStatus|ClientStatusDate|IsPrimary|DiagnosisCode|CaseManagerEmail|CaseManagerFirstName|CaseManagerLastName"
+    },
+    "TC_50014": {
+      "ENVID": "001",
+      "AccountType": "HI",
+      "headerClientAuth": "AuthID|PayerID|ProviderID|ClientID|PayerProgram|ClientPayerID|PayerRegion|PayerService|Modifier1|Modifier2|Modifier3|Modifier4|ClientEligibilityDateBegin|ClientEligibilityDateEnd|ClientStartOfCareDate|ClientEndOfCareDate|ClientStatus|ClientStatusDate|IsPrimary|DiagnosisCode|CaseManagerEmail|CaseManagerFirstName|CaseManagerLastName"
+    },
+	"TC_40015": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerClientDesignee": "ClientID|ClientDesigneeFirstName|ClientDesigneeLastName|ClientDesigneeEmail|ClientDesigneeStatus|ClientDesigneeStartDate|ClientDesigneeEndDate|ClientDesigneeRelationship"
+    },
+    "TC_50015": {
+      "ENVID": "001",
+      "AccountType": "HI",
+      "headerClientDesignee": "ClientID|ClientDesigneeFirstName|ClientDesigneeLastName|ClientDesigneeEmail|ClientDesigneeStatus|ClientDesigneeStartDate|ClientDesigneeEndDate|ClientDesigneeRelationship"
+    },
+	"TC_40016": {
+      "ENVID": "001",
+      "AccountType": "ARIZONA",
+      "headerClientSchedule": "PayerID|ProviderID|ClientID|EmployeeID|ScheduleID|ScheduleStartDate|ScheduleStartTime|ScheduleEndTime|ScheduleDuration|PayRate|BillRate|ClusterCaseFlag|Discipline|PayerProgram|PayerService|VisitType|LiveInCase|ScheduleTimeZone|Modifier1|Modifier2|Modifier3|Modifier4|ContingencyPlan|Reschedule"
+    },
+    "TC_50016": {
+      "ENVID": "001",
+      "AccountType": "HI",
+      "headerClientSchedule": "PayerID|ProviderID|ClientID|EmployeeID|ScheduleID|ScheduleStartDate|ScheduleStartTime|ScheduleEndTime|ScheduleDuration|PayRate|BillRate|ClusterCaseFlag|Discipline|PayerProgram|PayerService|VisitType|LiveInCase|ScheduleTimeZone|Modifier1|Modifier2|Modifier3|Modifier4|ContingencyPlan|Reschedule"
+    },
+    "TC_41964": {
+      "ENVID": "PA_68611"
+    }
+  }
+}

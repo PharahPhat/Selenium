@@ -1,0 +1,32 @@
+[  
+   {  
+    "Account":"14420",
+"EmployeePIN":"989898987",
+"EmployeeLastName":"Mittal",
+"EmployeeFirstName":"Mayank",
+"EmployeeMiddleInitial":null,
+"Department":null,
+"EmployeeType":null,
+"Discipline":null,
+"EmployeeEmailAddress":"mayank.mittal@sandata.com",
+"EmployeeAddress1":null,
+"EmployeeAddress2":null,
+"EmployeeCity":null,
+"EmployeeState":null,
+"EmployeeZipCode":null,
+"EmployeePhone":null,
+"EmployeeAltPhone":null,
+"EmployeeAltPhone2":null,
+"EmployeeID":null,
+"EmployeeIDCustom1":null,
+"EmployeeIDCustom2":null,
+"EmployeeSocialSecurity":"989978967",
+"PayRate":null,
+"EmployeeHireDate":"01232018",
+"EmployeeEndDate":null,
+"EmployeeBirthDate":null,
+"EmployeeGender":null,
+"EmployeePrimaryLocation":null,
+"Status":null
+   }
+]

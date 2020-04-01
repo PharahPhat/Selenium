@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="allSuites" verbose="1">
+    <parameter name="testType" value="api"></parameter>
+    <test name="All" verbose="1">
+        <classes>
+            <class name="dwh.hawaii.Auto_SEVV_TC_0012_Export_Files_Hawaii"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50001_EMP_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50002_CLIENT_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50003_PROVIDER_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50004_EMP_DISC_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50005_VISIT_CHANGES_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50006_VISIT_CALLS_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50007_PROVIDER_LOC_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50008_CLIENT_ADDR_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50009_VISIT_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50010_CLIENT_PHONE_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50011_VISIT_TASKS_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50012_VISIT_EXCP_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50013_VISIT_CLAIMST_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50014_CLIENT_AUTH_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50015_CLIENT_DESIGNEE_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.hawaii.Auto_SEVV_TC_50016_CLIENT_SCHEDULE_Validate_Data_Exported_As_Expected_Results"></class>
+            <parameter name="testType" value="api"></parameter>
+        </classes>
+    </test>
+</suite>

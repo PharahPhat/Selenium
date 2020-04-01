@@ -1,0 +1,123 @@
+Name,Required,Type,Description,Precondition,Value,POST Status,Error Message in POST,GET Status,Error Message in GET,INBOX Status
+$.Account,Yes,String,Return FAILED when Account sets empty OR NULL,,,FAILED,,,,
+$.Account,,int,Account is different Sandata account number,,2563,FAILED,,,,
+$.Account,,String[0:4],Acount is not number,,,FAILED,,,,
+$.EmployeePIN,Yes,String,Return FAILED when EmployeePIN sets empty OR NULL,,,FAILED,,,,
+$.EmployeePIN,,int[1:8],EmployeePIN is in range from 4 to 9 digits,,,SUCCESS,,,,yes
+$.EmployeePIN,,int[1:9],EmployeePIN is greater than 9 digits,,,FAILED,,,,
+$.EmployeePIN,,int[1:2],EmployeePIN is less than 4 digits,,,FAILED,,,,
+$.EmployeePIN,,String[0:8],EmployeePIN is full 9 letters,,,FAILED,,,,
+$.EmployeePIN,,String,EmployeePIN 9 chars with digits and letters ,,8729380ab,FAILED,,,,
+$.EmployeePIN,,String[0:8],EmployeePIN full 9 chars with letters ,,,FAILED,,,,
+$.EmployeeLastName,Yes,String,Return FAILED when EmployeeLastName sets empty OR NULL,,,FAILED,,,,
+$.EmployeeLastName,,String[0:29],EmployeeLastName is in range 30 chars,,,SUCCESS,,,,yes
+$.EmployeeLastName,,String[0:30],EmployeeLastName is greater than 30 chars,,,FAILED,,,,
+$.EmployeeLastName,,String,EmployeeLastName has numeric,,Lastname34201,FAILED,,,,
+$.EmployeeFirstName,Yes,String,Return FAILED when EmployeeFirstName sets empty OR NULL,,,FAILED,,,,
+$.EmployeeFirstName,,String[0:29],EmployeeFirstName is in range 30 chars,,,SUCCESS,,,,yes
+$.EmployeeFirstName,,String[0:30],EmployeeFirstName is greater than 30 chars,,,FAILED,,,,
+$.EmployeeFirstName,,String,EmployeeFirstName has numeric,,Firstname34201,FAILED,,,,
+$.EmployeeMiddleInitial,Yes,String,Return SUCCESS when EmployeeMiddleInitial sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeMiddleInitial,,String,EmployeeMiddleInitial is 1 char,,M,SUCCESS,,,,yes
+$.EmployeeMiddleInitial,,String[0:1],EmployeeMiddleInitial is greater than 1 char,,,FAILED,,,,
+$.Department,Yes,String,Return SUCCESS when Department sets empty OR NULL,,,SUCCESS,,,,yes
+$.Department,,String[0:3],Department is greater than 3 chars,,,FAILED,,,,
+$.Department,,String,Department 3 chars with digit and letters ,,12c,SUCCESS,,,,
+$.Department,,int[1:2],Department is full 3 digits ,,,SUCCESS,,,,
+$.Department,,String[0:2],Department is full 3 letters ,,,SUCCESS,,,,
+$.EmployeeAPI,Yes,String,Return SUCCESS when EmployeeAPI sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeAPI,,int[1:25],EmployeeAPI is greater than 25 digits,,,FAILED,,,,
+$.EmployeeAPI,,int[1:23],EmployeeAPI is in range 25 digits,,,SUCCESS,,,,
+$.EmployeeAPI,,String[0:10],EmployeeAPI is full letters,,,FAILED,,,,
+$.EmployeeType,Yes,String,Return SUCCESS when EmployeeType sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeType,,String,EmployeeType is 1 char,,M,SUCCESS,,,,
+$.EmployeeType,,String[0:1],EmployeeType is greater than 1 char,,,FAILED,,,,
+$.Discipline,Yes,String,Return SUCCESS when Discipline sets empty OR NULL,,,SUCCESS,,,,yes
+$.Discipline,,String[0:16],Discipline is in range 17 chars,,,SUCCESS,,,,
+$.Discipline,,String[0:17],Discipline is greater than 17 chars,,,FAILED,,,,
+$.EmployeeEmailAddress,Yes,String,Return SUCCESS when EmployeeEmailAddress sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeEmailAddress,,String,EmployeeEmailAddress is incorrect format,,EmailIncorrect@com,FAILED,,,,
+$.EmployeeEmailAddress,,String,EmployeeEmailAddress is incorrect format,,Employee@Email@com,FAILED,,,,
+$.EmployeeEmailAddress,,String,EmployeeEmailAddress is incorrect format,,Client email@mail.com,FAILED,,,,
+$.EmployeeEmailAddress,,String[0:50],EmployeeEmailAddress is greater than 50 chars,,Disciplineautomawdsagufhdsughfsodfisjglds@gmail.com,FAILED,,,,
+$.EmployeeAddress1,Yes,String,Return SUCCESS when EmployeeAddressLine1 sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeAddress1,,String[0:30],EmployeeAddressLine1 is greater than 30 letters,,,FAILED,,,,
+$.EmployeeAddress1,,String[0:29],EmployeeAddressLine1 is in range 30 letters,,,SUCCESS,,,,yes
+$.EmployeeAddress2,Yes,String,Return SUCCESS when EmployeeAddressLine2 sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeAddress2,,String[0:30],EmployeeAddressLine2 is greater than 30 letters,,,FAILED,,,,
+$.EmployeeAddress2,,String[0:29],EmployeeAddressLine2 is in range 30 letters,,,SUCCESS,,,,
+$.EmployeeCity,Yes,String,Return SUCCESS when EmployeeCity sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeCity,,String[0:30],EmployeeCity is greater than 30 letters,,,FAILED,,,,
+$.EmployeeCity,,String[0:29],EmployeeCity is in range 30 letters,,,SUCCESS,,,,
+$.EmployeeState,Yes,String,Return SUCCESS when EmployeeState sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeState,,String[0:2],EmployeeState is greater than 2 letters,,,FAILED,,,,
+$.EmployeeZipCode,Yes,String,Return SUCCESS when EmployeeZipCode sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeZipCode,,String,EmployeeZipCode is 9 digits,,12345-6789,SUCCESS,,,,yes
+$.EmployeeZipCode,,int[1:9],EmployeeZipCode is greater than 9 digits,,,FAILED,,,,
+$.EmployeeZipCode,,int[1:5],EmployeeZipCode is less than 9 digits,,,FAILED,,,,
+$.EmployeeZipCode,,String[0:8],EmployeeZipCode is full 9 letters,,,FAILED,,,,
+$.EmployeeZipCode,,String,EmployeeZipCode is both digits and letters,,ABCD12345,FAILED,,,,
+$.EmployeePhone,Yes,String,Return SUCCESS when EmployeePhone sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeePhone,,int[1:9],EmployeePhone is in range 10 digits,,,SUCCESS,,,,yes
+$.EmployeePhone,,int[1:10],EmployeePhone is greater than 10 digits,,,FAILED,,,,
+$.EmployeePhone,,String[0:9],EmployeePhone is in range 10 letters ,,,FAILED,,,,
+$.EmployeeAltPhone,Yes,String,Return SUCCESS when EmployeeAltPhone sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeAltPhone,,int[1:9],EmployeeAltPhone is in range 10 digits,,,SUCCESS,,,,yes
+$.EmployeeAltPhone,,int[1:10],EmployeeAltPhone is greater than 10 digits,,,FAILED,,,,
+$.EmployeeAltPhone,,String[0:9],EmployeeAltPhone is in range 10 letters ,,,FAILED,,,,
+$.EmployeeAltPhone2,Yes,String,Return SUCCESS when EmployeeAltPhone2 sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeAltPhone2,,int[1:9],EmployeeAltPhone2 is in range 10 digits,,,SUCCESS,,,,yes
+$.EmployeeAltPhone2,,int[1:10],EmployeeAltPhone2 is greater than 10 digits,,,FAILED,,,,
+$.EmployeeAltPhone2,,String[0:9],EmployeeAltPhone2 is in range 10 letters ,,,FAILED,,,,
+$.EmployeeID,Yes,String,Return SUCCESS when EmployeeID sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeID,,int[1:8],EmployeeID is in range 10 digits,,,SUCCESS,,,,yes
+$.EmployeeID,,int[1:10],EmployeeID is greater than 10 digits,,,FAILED,,,,
+$.EmployeeID,,String[0:10],EmployeeID is full 10 chars,,,FAILED,,,,
+$.EmployeeID,,String,EmployeeID sets with letters and digits,,ABC4567890,FAILED,,,,
+$.EmployeeIDCustom1,Yes,String,Return SUCCESS when EmployeeIDCustom1 sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeIDCustom1,,String[0:50],EmployeeIDCustom1 is in range 64 chars,,,SUCCESS,,,,yes
+$.EmployeeIDCustom1,,String[0:64],EmployeeIDCustom2 is greater than 64 chars,,,FAILED,,,,
+$.EmployeeIDCustom2,Yes,String,Return SUCCESS when EmployeeIDCustom2 sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeIDCustom2,,String[0:50],EmployeeIDCustom2 is in range 64 chars,,,SUCCESS,,,,yes
+$.EmployeeIDCustom2,,String[0:64],EmployeeIDCustom2 is greater than 64 chars,,,FAILED,,,,
+$.EmployeeSocialSecurity,Yes,String,Return SUCCESS when EmployeeSSN sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeSocialSecurity,,int[1:8],EmployeeSSN is full 9 digits,,,SUCCESS,,,,
+$.EmployeeSocialSecurity,,int[1:9],EmployeeSSN sets more than 9 digit,,,FAILED,,,,
+$.EmployeeSocialSecurity,,int[1:7],EmployeeSSN sets less than 9 digits,,,SUCCESS,,,,
+$.EmployeeSocialSecurity,,String,EmployeeSSN sets 9 chars with digit and letters,,123456ung,FAILED,,,,
+$.EmployeeSocialSecurity,,String[0:8],EmployeeSSN is full 9 letters,,,FAILED,,,,
+$.PayRate,,String,PayRate sets 5 chars with 4 digits and decimal point,,5.043,SUCCESS,,,,yes
+$.PayRate,,String,PayRate sets 5 chars with 4 letters and decimal point,,a.bcd,FAILED,,,,
+$.PayRate,,String,PayRate sets 5 chars with letters/digits and decimal point,,a.11d,FAILED,,,,
+$.PayRate,,int[1:5],PayRate is greater than 5 digits,,,FAILED,,,,
+$.EmployeeHireDate,Yes,String,Return SUCCESS when EmployeeHireDate sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeHireDate,,String,EmployeeHireDate is correct format (yyyy-MM-dd),,2019-12-12,SUCCESS,,,,yes
+$.EmployeeHireDate,,String,EmployeeHireDate is incorrect format,,1/31/2019,FAILED,,,,
+$.EmployeeHireDate,,String,EmployeeHireDate is incorrect format,,20190131,FAILED,,,,
+$.EmployeeHireDate,,String,EmployeeHireDate is incorrect format,,1/31/2001,FAILED,,,,
+$.EmployeeEndDate,Yes,String,Return SUCCESS when EmployeeEndDate sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeEndDate,,String,EmployeeEndDate is correct format (yyyy-MM-dd),,2020-12-25,SUCCESS,,,,yes
+$.EmployeeEndDate,,String,EmployeeEndDate is incorrect format,,1/31/2019,FAILED,,,,
+$.EmployeeEndDate,,String,EmployeeEndDate is incorrect format,,20190131,FAILED,,,,
+$.EmployeeEndDate,,String,EmployeeEndDate is incorrect format,,1/31/2001,FAILED,,,,
+$.EmployeeBirthDate,Yes,String,Return SUCCESS when EmployeeBirthDate sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeBirthDate,,String,EmployeeBirthDate is correct format (yyyy-MM-dd),,1996-12-25,SUCCESS,,,,yes
+$.EmployeeBirthDate,,String,EmployeeBirthDate is incorrect format,,1/31/2019,FAILED,,,,
+$.EmployeeBirthDate,,String,EmployeeBirthDate is incorrect format,,20190131,FAILED,,,,
+$.EmployeeBirthDate,,String,EmployeeBirthDate is incorrect format,,1/31/2001,FAILED,,,,
+$.EmployeeGender,Yes,String,Return SUCCESS when EmployeeGender sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeeGender,,String[0:1],EmployeeGender is greater than 1 char,,,FAILED,,,,
+$.EmployeeGender,,String,EmployeeGender is O,,O,SUCCESS,,,,yes
+$.EmployeeGender,,String,EmployeeGender is M,,M,SUCCESS,,,,
+$.EmployeeGender,,String,EmployeeGender is F,,F,SUCCESS,,,,
+$.EmployeeGender,,String,EmployeeGender is o,,o,FAILED,,,,
+$.EmployeeGender,,String,EmployeeGender is 1,,1,FAILED,,,,
+$.EmployeeGender,,String,EmployeeGender is OM,,OM,FAILED,,,,
+$.EmployeePrimaryLocation,Yes,String,Return SUCCESS when EmployeePrimaryLocation sets empty OR NULL,,,SUCCESS,,,,yes
+$.EmployeePrimaryLocation,,String[0:14],EmployeePrimaryLocation in range 15 letters,,,SUCCESS,,,,
+$.EmployeePrimaryLocation,,String[0:15],EmployeePrimaryLocation is greater than 15 letters,,,FAILED,,,,
+$.Status,Yes,String,Return SUCCESS when Status sets empty OR NULL,,,SUCCESS,,,,yes
+$.Status,,String,Status sets D,,D,SUCCESS,,,,yes
+$.Status,,String[0:1],Status is greater than 1 char,,,FAILED,,,,
+$.Status,,String,Status set different D,,A,FAILED,,,,
+$.Status,,String,Status set F,,F,FAILED,,,,

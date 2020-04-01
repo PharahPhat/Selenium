@@ -1,0 +1,52 @@
+[
+    {
+        "accountInterfaceConfigurationSK": null,
+        "account": "29000",
+        "interfaceId": null,
+        "interfaceDirectionQualifier": "EXPORT",
+        "accountInterfaceName": "EVV_FILE_TRANSFER",
+        "accountInterfaceConfigurationSchedule": "0+43+10+?+*+*",
+        "messageQueueTypeCode": "RabbitMQ",
+        "messageQueueInformation": {
+            "queueName": "EVV_file_transfer-Queue",
+            "exchangeName": "evv-file-transfer-exchange",
+            "routingKey": "",
+            "requestTimeout": "60000",
+            "maxPendingCycle": "3"
+        },
+        "interfaceDataExchangeFormat": "CSV",
+        "interfaceDataExchangeInformation": {
+            "payerId": "INFSSA",
+            "fileExtension": ".csv",
+            "pgpPublicKeyPath": "/run/secrets/intf_indiana_publickey.asc"
+        },
+        "interfaceDataExchangeType": "SFTP",
+        "accountInterfaceEndpointInformation": {
+            "port": "22",
+            "host": "nhdevftp.sandata.com",
+            "username": "H4mAD4DM",
+            "password": "ckgz4zcU",
+            "sftpPrivateKeyPath": null,
+            "folder": ""
+        },
+        "accountInterfaceParamInformation": {
+            "clientNamePrefix": "INFSSA",
+            "sftpDownloadPort": "22",
+            "sftpDownloadHost": "prodtechft.sandata.com",
+            "sftpDownloadUsername": "bYfjpuczm6",
+            "sftpDownloadPassword": "rJ25ZmUD7H",
+            "sftpDownloadRemoteDirectory": "/IndianaInterface/Download_Folder",
+            "sftpUploadHost": "nhdevftp.sandata.com",
+            "sftpUploadPort": "22",
+            "sftpUploadUsername": "talend",
+            "sftpUploadPassword": "FZ4gd-Qd",
+            "sftpUploadRemoteDirectory": "/IndianaInterface/Upload_Folder"
+        },
+        "recordCreateTimestamp": "2019-04-30 00:00:00",
+        "recordUpdateTimestamp": "2019-04-30 00:00:00",
+        "recordCreatedBy": "Administrator",
+        "recordUpdatedBy": "Administrator",
+        "accountInterfaceActiveFlag": true,
+        "accountInterfaceDirectory": "target/evv-file-transfer/"
+    }
+]

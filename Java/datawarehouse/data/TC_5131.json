@@ -1,0 +1,58 @@
+[
+  {
+	"id": "1",
+  	"data_type": "userInput",
+  	"maxLength": 0,
+  	"input": "ODP",
+  	"expected": true
+  },
+  {
+	"id": "2",
+  	"data_type": "userInput",
+  	"maxLength": 0,
+  	"input": "OLTL",
+  	"expected": true
+  },
+  {
+	"id": "3",
+  	"data_type": "userInput",
+  	"maxLength": 0,
+  	"input": "PADHS",
+  	"expected": false
+  },
+  {
+	"id": "4",
+  	"data_type": "alphabetic",
+  	"maxLength": 9,
+  	"input": "",
+  	"expected": false
+  },
+  {
+	"id": "5",
+  	"data_type": "alphaNumeric",
+  	"maxLength": 9,
+  	"input": "",
+  	"expected": false
+  },
+  {
+	"id": "6",
+  	"data_type": "randomString",
+  	"maxLength": 28,
+  	"input": "",
+  	"expected": false
+  },
+  {
+	"id": "7",
+  	"data_type": "userInput",
+  	"maxLength": 0,
+  	"input": " ",
+  	"expected": false
+  },
+  {
+	"id": "8",
+  	"data_type": "NULL",
+  	"maxLength": 0,
+  	"input": "",
+  	"expected": false
+  }
+]

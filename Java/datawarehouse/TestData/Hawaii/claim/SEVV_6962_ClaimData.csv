@@ -1,0 +1,7 @@
+Client FirstName,Employee FirstName,Service Start Date,Service End Date,In Time,Out Time,Proc Code,UnitsRule,Matching Rule,Duration,VP,SuceededCount,Program,Payer,TC
+AltClientCompleteVisitAB,,2020-03-15,2020-03-15,,,G0151,Add_Units,Exact_Match,240,16,2,AGYI,HI_AC,
+AltClientCompleteVisitAB,AltEmployeeAZCA,2020-03-15,2020-03-15,03:00 AM,05:00 AM,G0151,,,,8,,AGYI,HI_AC,
+AltClientCompleteVisitAB,AltEmployeeAZCA,2020-03-15,2020-03-15,01:00 AM,03:00 AM,G0151,,,,8,,AGYI,HI_AC,
+AltClientCompleteVisitAB,,2020-03-16,2020-03-16,,,G0151,Add_Units,Exact_Match,240,16,2,AGYI,HI_AC,
+AltClientCompleteVisitAB,AltEmployeeAZCA,2020-03-16,2020-03-16,03:00 AM,05:00 AM,G0151,,,,8,,AGYI,HI_AC,
+AltClientCompleteVisitAB,AltEmployeeAZCA,2020-03-16,2020-03-16,03:00 AM,05:00 AM,G0151,,,,8,,AGYI,HI_AC,

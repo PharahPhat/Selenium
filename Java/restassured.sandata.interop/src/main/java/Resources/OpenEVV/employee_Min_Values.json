@@ -1,0 +1,33 @@
+[  
+   {  
+    "Account":"14420",
+"EmployeePIN":"98989",
+"EmployeeLastName":"M",
+"EmployeeFirstName":"M",
+"EmployeeMiddleInitial":"M",
+"Department":"D",
+"EmployeeType":"W",
+"Discipline":"T",
+"EmployeeEmailAddress":"m@sandata.com",
+"EmployeeAddress1":"a",
+"EmployeeAddress2":"b",
+"EmployeeCity":"c",
+"EmployeeState":"CA",
+"EmployeeZipCode":"04444",
+"EmployeePhone":"9712981298",
+"EmployeeAltPhone":"9712981298",
+"EmployeeAltPhone2":"9712981298",
+"EmployeeID":"12345",
+"EmployeeAPI":"1",
+"EmployeeIDCustom1":"d",
+"EmployeeIDCustom2":"e",
+"EmployeeSocialSecurity":"989978967",
+"PayRate":"1",
+"EmployeeHireDate":"01232018",
+"EmployeeEndDate":"12292019",
+"EmployeeBirthDate":"12292017",
+"EmployeeGender":"M",
+"EmployeePrimaryLocation":"e",
+"Status":null
+   }
+]

@@ -1,0 +1,2 @@
+"BusinessEntityMedicaidIdentifier"|"RequestType"|"BatchID"|"TransactionID"|"Payer"|"ICN"|"DLN"|"ProviderQualifier"|"ProviderID"|"PatientQualifier"|"PatientID"|"ServiceStartDate"|"ServiceEndDate"|"ProcedureCode"|"Units"|"UnitsRule"|"Modifier1"|"Modifier2"|"Modifier3"|"Modifier4"|"MatchingRule"
+"9021099"|"Model1"|"6284362766"|"631265362"|"ODM"|"4877466515355"|"25"|"MedicaidID"|"9021099"|"MedicaidID"|"526152565262"|"2019-01-02"|"2019-01-02"|"G0300"|"7"|"ExactMatch"|"HQ"|"HQ"|"HQ"|"HQ"|"ExcludeUnits"

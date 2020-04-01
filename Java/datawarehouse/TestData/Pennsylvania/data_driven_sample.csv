@@ -1,0 +1,5 @@
+Name	,Type,Value,Type Of Testing,Error Message, Description
+ClientID	,int,1234,,Invalid Format, ClientID must be number
+ClientID,boolean,true,,Invalid Format, Client ID cannot be boolean
+ClientID,String,abceasdfadsf,valid,"Valid case", Client ID must be string
+ClientID	,String,false,,Invalid Format, Clietn ID can be false string

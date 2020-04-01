@@ -1,0 +1,20 @@
+[{
+  "ProviderIdentification": {
+    "ProviderQualifier": "MedicaidID",
+    "ProviderID": "456789112"
+  },
+  "EmployeeLocationName": "123",
+  "EmployeeIdentifier": "000032",
+  "EmployeeOtherID": "4800825",
+  "SequenceID": 20190920140,
+  "EmployeeQualifier": "EmployeeCustomID",
+  "EmployeeSSN": "000045123",
+  "EmployeeLastName": "Tuyen",
+  "EmployeeFirstName": "John",
+  "EmployeeEmail": "tuyen.123@yopmail.com",
+  "EmployeeManagerEmail": "hoaemployeetestthree@yopmail.com",
+  "EmployeePosition": "RN",
+  "EmployeeAPI": "hoaemployee",
+  "EmployeeHireDate": "20190112",
+  "EmployeeEndDate": "20190112"
+}]

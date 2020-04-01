@@ -1,0 +1,6 @@
+Client,Employee,Service Start Date,Service End Date,In Time,Out Time,Proc Code,UnitsRule,Matching Rule,Overlap Duration,VP
+1122335678,316226,2019-12-07,2019-12-07,01:00 AM,01:15 AM,W7069,AddUnits,ExactMatch,90,6
+1122335678,316226,2019-12-07,2019-12-07,01:00 AM,01:15 AM,W7069,AddUnits,ExactMatch,105,Unmatched Units
+1122335678,316226,2019-12-07,2019-12-07,01:00 AM,01:15 AM,W7069,AddUnits,ExcludeUnits,105,6
+
+

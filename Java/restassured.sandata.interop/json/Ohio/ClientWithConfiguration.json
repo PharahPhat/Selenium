@@ -1,0 +1,59 @@
+[
+    {
+        "Address": [
+            {
+                "PatientAddressIsPrimary": false,
+                "PatientAddressLine1": "201 Harbour Drive Rd",
+                "PatientAddressLine2": "2nd Floor",
+                "PatientAddressType": "School",
+                "PatientCity": "Port Washington",
+                "PatientLatitude": 88.1155122001,
+                "PatientLongitude": 85.1155122001,
+                "PatientState": "NY",
+                "PatientTimezone": "US/Eastern",
+                "PatientZip": "55556"
+            },
+            {
+                "PatientAddressIsPrimary": true,
+                "PatientAddressLine1": "36-20 Main Street",
+                "PatientAddressLine2": "1st Floor",
+                "PatientAddressType": "Home",
+                "PatientCity": "Flushing",
+                "PatientLatitude": 88.1155122001,
+                "PatientLongitude": 85.1155122001,
+                "PatientState": "NY",
+                "PatientTimezone": "US/Eastern",
+                "PatientZip": "55556"
+            }
+        ],
+        "BusinessEntityID": "10010",
+        "BusinessEntityMedicaidIdentifier": "0010010",
+        "IndividualPayerInformation": [
+            {
+                "Payer": "DODD",
+                "PayerProgram": "SPHH",
+                "ProcedureCode": "DD257"
+            }
+        ],
+        "IsPatientNewborn": false,
+        "PatientAlternateID": "1114314",
+        "PatientFirstName": "LiemC",
+        "PatientLastName": "Chau",
+        "PatientMedicaidID": "122456789314",
+        "PatientOtherID": "815831314",
+        "PatientTimezone": "US/Eastern",
+        "Phones": [
+            {
+                "PatientPhoneNumber": "9431650001",
+                "PatientPhoneType": "Home"
+            }
+        ],
+        "ResponsibleParty": [
+            {
+                "PatientResponsiblePartyFirstName": "JStevee",
+                "PatientResponsiblePartyLastName": "KJobss"
+            }
+        ],
+        "SequenceID": "811900314"
+    }
+]

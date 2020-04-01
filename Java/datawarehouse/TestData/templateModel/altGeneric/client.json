@@ -1,0 +1,76 @@
+ {
+    "ClientPayerInformation": [
+      {
+        "PayerProgram": "Indiana",
+        "PayerID": "INFSSA",
+        "ClientPayerID": "TC95821ClientPayerID",
+        "ClientStatus": "02",
+        "ProcedureCode": "G029999",
+        "ClientEligibilityDateBegin": "2018-12-09",
+        "ClientEligibilityDateEnd": "2020-12-10"
+
+      }
+    ],
+    "ClientCustomID": "459001",
+    "ClientIdentifier": "486442312",
+    "ClientFirstName": "Autoglmpffqsjf",
+    "ClientAddress": [
+      {
+        "ClientState": "NY",
+        "ClientCounty": "Kings",
+        "ClientAddressLatitude": 40.7431032,
+        "ClientAddressLongitude": -73.4228741,
+        "ClientZip": "332142836",
+        "ClientAddressLine2": "10th Floor",
+        "ClientAddressLine1": "xasoolgry",
+        "ClientAddressType": "Home",
+        "ClientCity": "Manhattan",
+        "ErrorCode": null,
+        "ClientAddressIsPrimary": true,
+        "ErrorMessage": null
+      }
+    ],
+    "PayerName": "ODM",
+    "ProviderIdentification": {
+      "ProviderID": "PN811481201",
+      "ProviderQualifier": "Other"
+    },
+    "ClientSSN": "745244246",
+    "ClientTimezone": "US/Eastern",
+    "ClientQualifier": "ClientCustomID",
+    "ClientMedicaidID": "2557568434",
+   "MissingMedicaidID":false,
+    "ClientPhone": [
+      {
+        "ClientPhone": "2125551212",
+        "ClientPhoneType": "Home",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "ClientID": "3451834684",
+    "ClientMiddleInitial": "T",
+    "ClientLastName": "Autotwyoudwwiz",
+    "ClientOtherID": "2019092603584470",
+    "ErrorCode": null,
+    "ErrorMessage": null,
+    "ClientEmailAddress": "Autolwghyxncvc@mailinator.com",
+    "SequenceID": "2019092603584463",
+    "ClientResponsibleParty": [
+      {
+        "ClientContactState": "NY",
+        "ClientContactZip": "127175372",
+        "ClientContactType": "Friend",
+        "ClientContactEmailAddress": "tamvnguyen01@sandata.com",
+        "ClientContactFirstName": "David",
+        "ClientContactLastName": "Rutgos",
+        "ClientContactAddressLine1": "2727 East 29th Street",
+        "ClientContactAddressLine2": "Apt 8I",
+        "ClientContactPhoneType": "Mobile",
+        "ClientContactCity": "Brooklyn",
+        "ErrorCode": null,
+        "ErrorMessage": null,
+        "ClientContactPhone": "3478788467"
+      }
+    ]
+  }

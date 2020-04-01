@@ -1,0 +1,4 @@
+Name,Require,Type,Description,Precondition,Value,POST Status,Error Message in POST,GET Status,Error Message in GET,INBOX Status
+$.PayerProgram,,String,Only accept value in this list,,ODP,SUCCESS,,SUCCESS,,yes
+$.PayerProgram,,String,Only accept value in this list,,,SUCCESS,,SUCCESS,,
+$.PayerProgram,,null,Only accept value in this list,,null,SUCCESS,,SUCCESS,,

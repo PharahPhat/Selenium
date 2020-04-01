@@ -1,0 +1,10 @@
+FieldName&Data,Type Of Testing,Expectation Message
+"Tasks.TaskID=0069
+Tasks.TaskReading=1299
+Tasks.Refused=false",valid,
+"Tasks.TaskID=Null
+Tasks.TaskReading=1299
+Tasks.Refused=false",Invalid,TaskID can not Null
+TaskReading=Null,valid,
+TaskRefused=Null,valid,
+TaskRefused=False,valid,

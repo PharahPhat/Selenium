@@ -1,0 +1,17 @@
+Account,Payer,Program,HCPCS,Rev Code,Mod1,Mod2,Mod3,Mod4,Description,Status,GetStatus,ErrorMessage,isCheckedDatabase
+,DVHA,CFC,T1020,,,,,,Invalid Service for CFC program,SUCCESS,FAILED,-553,
+,DVHA,CFC,T12017,,,,,,Invalid Service for CFC program,SUCCESS,FAILED,-553,
+,DVHA,TBI,GDAC89,,,,,,Invalid service for TBI program,SUCCESS,FAILED,-553,
+,DVHA,CPCS,T1020,,,,,,CPCS Personal Care,SUCCESS,SUCCESS,,yes
+,DVHA,TBI,S9125,,,,,,TBI Respite Care ,SUCCESS,SUCCESS,,
+,DVHA,ASP,S5125,,,,,,Attendant Services PDAC,SUCCESS,SUCCESS,,
+,DVHA,TBI,T1020,,HI,U8,,,Life Skills Aide Services,SUCCESS,SUCCESS,,
+,DVHA,CFC,FCS71,71,,,,,Flexible Choices ,SUCCESS,SUCCESS,,
+,DVHA,CFC,MNS71,71,,,,,Moderate Needs,SUCCESS,SUCCESS,,
+,DVHA,ASP,GFAS,,,,,,Attendant Services ,SUCCESS,SUCCESS,,
+,DVHA,CFC,PCS81,81,,,,,Personal Care - Surrogate,SUCCESS,SUCCESS,,
+,DVHA,CFC,RCC75,75,,,,,Respite Care - Consumer,SUCCESS,SUCCESS,,
+,DVHA,CFC,RCS80,80,,,,,Respite Care - Surrogate,SUCCESS,SUCCESS,,
+,DVHA,CFC,CCC75,75,,,,,Companion Care - Consumer,SUCCESS,SUCCESS,,
+,DVHA,CFC,CCS80,80,,,,,Companion Care - Surrogate,SUCCESS,SUCCESS,,
+,DVHA,CFC,PCC77,77,,,,,Personal Care Consumer,SUCCESS,SUCCESS,,

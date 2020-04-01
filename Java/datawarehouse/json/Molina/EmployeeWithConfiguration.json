@@ -1,0 +1,17 @@
+[{
+  "ProviderIdentification": {
+    "ProviderQualifier": "Other",
+    "ProviderID": "Molina28000"
+  },
+  "EmployeeIdentifier": "162456868",
+  "EmployeeOtherID": "480025",
+  "SequenceID": 2,
+  "EmployeeQualifier": "EmployeeSSN",
+  "EmployeeSSN": "162456868",
+  "EmployeeLastName": "KMSAUTOFirstNameOneJan",
+  "EmployeeFirstName": "KMSAUTOLastNameOneJan",
+  "EmployeeEmail": "kmsauto@gmail.com",
+  "EmployeeManagerEmail": "kmsauto@gmail.com",
+  "EmployeePosition": "RN",
+  "EmployeeAPI": "kmsEmployee"
+}]

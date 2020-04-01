@@ -1,0 +1,29 @@
+{
+	   "EVV_Request": [
+	       {
+	           "BusinessEntityMedicaidIdentifier": "0010010",
+	           "RequestType": "Model3",
+	           "BatchID": "4588194599",
+	           "TransactionID": "128299203686788768",
+	           "Payer": "DODD",
+	           "ICN": "1234545676766",
+	           "DLN": "13",
+	           "ProviderQualifier": "MedicaidID",
+	           "ProviderID": "0010010",
+	           "PatientQualifier": "MedicaidID",
+	           "PatientID": "454333333333",
+	           "ServiceStartDate": "2019-02-13",
+	           "ServiceEndDate": "2019-02-13",
+	           "ProcedureCode": "DD252",
+	           "Units": "9",
+	           "UnitsRule": "AddUnits",
+	           "Modifier1": "HQ",
+	           "Modifier2": null,
+	           "Modifier3": null,
+	           "Modifier4": null,
+	           "MatchingRule": "ExcludeUnits"
+	       }
+	   ]
+	}
+
+

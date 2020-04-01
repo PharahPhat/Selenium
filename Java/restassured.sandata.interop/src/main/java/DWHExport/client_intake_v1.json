@@ -1,0 +1,90 @@
+[
+  {
+    "ProviderIdentification": {
+      "ProviderID": "Prod010",
+      "ProviderQualifier": "Other"
+    },
+    "ClientID": "12345",
+    "ClientFirstName": "Jane",
+    "ClientMiddleInitial": "T",
+    "ClientLastName": "Doe",
+    "PayerName": "MEDHHS",
+    "ClientQualifier": "ClientCustomID",
+    "ClientMedicaidID": "9990023451",
+    "ClientIdentifier": "777459001",
+    "SequenceID": "99999002",
+    "ClientCustomID": "459001",
+    "ClientOtherID": "67834",
+    "ClientSSN": "123456789",
+    "ClientTimezone": "US/Eastern",
+    "ClientAddress": [
+      {
+        "ClientAddressType": "Home",
+        "ClientAddressIsPrimary": "true",
+        "ClientAddressLine1": "36 West 5th Street",
+        "ClientAddressLine2": "10th Floor",
+        "ClientCounty": "Kings",
+        "ClientCity": "Manhattan",
+        "ClientState": "NY",
+        "ClientZip": "10017",
+        "ClientAddressLongitude": "-73.4228741",
+        "ClientAddressLatitude": "40.7431032"
+      },
+      {
+        "ClientAddressType": "Home",
+        "ClientAddressIsPrimary": "true",
+        "ClientAddressLine1": "36 West 5th Street",
+        "ClientAddressLine2": "10th Floor",
+        "ClientCounty": "Kings",
+        "ClientCity": "Manhattan",
+        "ClientState": "NY",
+        "ClientZip": "10017",
+        "ClientAddressLongitude": "-73.4228741",
+        "ClientAddressLatitude": "40.7431032"
+      }
+    ],
+    "ClientPhone": [
+      {
+        "ClientPhoneType": "Home",
+        "ClientPhone": "2125551212"
+      },
+      {
+        "ClientPhoneType": "Home",
+        "ClientPhone": "2125551212"
+      }
+    ],
+    "ClientPayerInformation": [{
+      "PayerID": "1254556",
+      "PayerProgram": "12345",
+      "ProcedureCode": "12345"
+    }],
+    "ClientResponsibleParty": [
+      {
+        "ClientContactType": "Family",
+        "ClientContractFirstName": "David",
+        "ClientContactLastName": "Rutgos",
+        "ClientContactPhoneType": "Mobile",
+        "ClientContactPhone": "3478788467",
+        "ClientContactEmailAddress": "drutgos@sandata.com",
+        "ClientContactAddressLine1": "2727 East 29th Street",
+        "ClientContactAddressLine2": "Apt 8I",
+        "ClientContactCity": "Brooklyn",
+        "ClientContactState": "NY",
+        "ClientContactZip": "11229"
+      },
+      {
+        "ClientContactType": "Family",
+        "ClientContractFirstName": "David",
+        "ClientContactLastName": "Rutgos",
+        "ClientContactPhoneType": "Mobile",
+        "ClientContactPhone": "3478788467",
+        "ClientContactEmailAddress": "drutgos@sandata.com",
+        "ClientContactAddressLine1": "2727 East 29th Street",
+        "ClientContactAddressLine2": "Apt 8I",
+        "ClientContactCity": "Brooklyn",
+        "ClientContactState": "NY",
+        "ClientContactZip": "11229"
+      }
+    ]
+  }
+]

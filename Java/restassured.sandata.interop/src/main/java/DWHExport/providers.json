@@ -1,0 +1,26 @@
+[
+  {
+    "ProviderQualifier": "Other",
+    "ProviderID": "Prod4567890123456789012345678901234567890123456780",
+    "ProviderName": "1",
+    "PayerID": "ODM",
+    "ProviderDoingBusinessAs": "",
+    "AddressLine1": "1",
+    "AddressLine2": "",
+    "AddressCity": "1",
+    "AddressState": "AL",
+    "AddressZip": "23413",
+    "County": "1",
+    "AgencyPhone": "0434343434",
+    "AgencyEmail": "1234@egmail.com",
+    "PrimaryContactLastName": "1",
+    "PrimaryContactFirstName": "1",
+    "ProviderFax": "1333333333",
+    "ProviderNPI": "1",
+    "ProviderAPI": "1",
+    "TaxID": "123233333",
+    "ProviderRequireAuth": "0",
+    "SuspensionDate": "",
+    "TerminationDate": ""
+  }
+]

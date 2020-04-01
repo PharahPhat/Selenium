@@ -1,0 +1,5 @@
+Client,Employee,Service Start Date,Service End Date,In Time,Out Time,Proc Code,UnitsRule,Matching Rule,Duration,VP,SuceededCount,Program,PayerID,TC
+ClientLRestClaim,EmployeeARestClaim,2019-12-10,2019-12-10,13:00:00,13:07:49,S5150,,,,,,2A,PAACP,
+ClientLRestClaim,EmployeeBRestClaim,2019-12-10,2019-12-10,1:00:00,2:07:49,T1005,,,,,,2A,PAACP,
+ClientLRestClaim,EmployeeCRestClaim,2019-12-10,2019-12-10,1:00:00,2:00:00,W1792,,,,,,2A,PAACP,
+ClientLRestClaim,EmployeeDRestClaim,2019-12-10,2019-12-10,1:00:00,2:00:00,W1793,,,,,,2A,PAACP,

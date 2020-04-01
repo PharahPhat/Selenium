@@ -1,0 +1,60 @@
+[
+    {
+        "Address": [
+            {
+                "PatientAddressIsPrimary": false,
+                "PatientAddressLine1": "201 Harbour Drive Rd",
+                "PatientAddressLine2": "2nd Floor",
+                "PatientAddressType": "School",
+                "PatientCity": "Port Washington",
+                "PatientLatitude": 88.1155122001,
+                "PatientLongitude": 85.1155122001,
+                "PatientState": "NY",
+                "PatientTimezone": "US/Eastern",
+                "PatientZip": "55558"
+            },
+            {
+                "PatientAddressIsPrimary": false,
+                "PatientAddressLine1": "36-20 Main Street",
+                "PatientAddressLine2": "1st Floor",
+                "PatientAddressType": "Home",
+                "PatientCity": "Flushing",
+                "PatientLatitude": 88.1155122001,
+                "PatientLongitude": 85.1155122001,
+                "PatientState": "NY",
+                "PatientTimezone": "US/Eastern",
+                "PatientZip": "55558"
+            }
+        ],
+        "BusinessEntityID": "10013",
+        "BusinessEntityMedicaidIdentifier": "7654321",
+        "IndividualPayerInformation": [
+            {
+                "Payer": "ODM",
+                "PayerProgram": "OHC",
+                "ProcedureCode": "T1001",
+                "PayerClientIdentifier": "T1234"
+            }
+        ],
+        "IsPatientNewborn": false,
+        "PatientAlternateID": "1114895",
+        "PatientFirstName": "rajaaaaaaa",
+        "PatientLastName": "Khaiiiiiii",
+        "PatientMedicaidID": "100456789095",
+        "PatientOtherID": "811801095",
+        "PatientTimezone": "US/Eastern",
+        "Phones": [
+            {
+                "PatientPhoneNumber": "9431650095",
+                "PatientPhoneType": "Home"
+            }
+        ],
+        "ResponsibleParty": [
+            {
+                "PatientResponsiblePartyFirstName": "JStevee",
+                "PatientResponsiblePartyLastName": "KJobss"
+            }
+        ],
+	        "SequenceID": "811900099"
+    }
+]

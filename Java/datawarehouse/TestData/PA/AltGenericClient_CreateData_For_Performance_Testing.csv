@@ -1,0 +1,2 @@
+Name,Required,Type,Description,Precondition,Value,POST Status,Error Message in POST,GET Status,Error Message in GET,INBOX Status
+$.ProviderIdentification.ProviderQualifier,,String,ProviderQualifier is MedicaidID,,MedicaidID,SUCCESS,,,,

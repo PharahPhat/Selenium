@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="allSuites" verbose="1">
+    <parameter name="testType" value="api"></parameter>
+    <test name="All" verbose="1">
+        <classes>
+            <class name="dwh.pennsylvania.Auto_SEVV_DWH_TC_0006_Export_Files_Pennsylvania"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40738_EMP_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40739_CLIENT_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40740_PROVIDER_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40741_EMP_DISC_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40742_VISIT_CHANGES_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40743_VISIT_CALLS_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40744_PROVIDER_LOC_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40745_CLIENT_ADDR_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40746_VISIT_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40747_CLIENT_PHONE_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40748_VISIT_TASKS_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40749_VISIT_EXCP_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40750_VISIT_CLAIMST_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.pennsylvania.Auto_SEVV_TC_40751_CLIENT_SCHEDULE_Validate_Data_Exported_As_Expected_Results"></class>
+            <parameter name="testType" value="api"></parameter>
+        </classes>
+    </test>
+</suite>

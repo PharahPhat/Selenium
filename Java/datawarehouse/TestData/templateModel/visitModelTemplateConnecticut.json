@@ -1,0 +1,75 @@
+[
+  {
+    "ProviderIdentification": {
+      "ProviderID": "1234567",
+      "ProviderQualifier": "SandataID"
+    },
+    "VisitOtherID": "104",
+    "SequenceID": 882382,
+    "Tasks": [
+      {
+        "TaskID": "0033",
+        "TaskReading": "30",
+        "TaskRefused": false
+      }
+    ],
+    "EmployeeIdentifier": "000031625",
+    "EmployeeQualifier": "EmployeeRegID",
+    "ClientID": "183456041",
+    "ClientIDQualifier": "ClientSSN",
+    "VisitCancelledIndicator": false,
+    "PayerID": "COHCPF",
+    "PayerProgram": "HCPF",
+    "ProcedureCode": "HSPIP",
+    "VisitTimeZone": "US/Eastern",
+    "ScheduleStartTime": "2019-05-04T16:02:26Z",
+    "ScheduleEndTime": "2019-05-04T16:05:26Z",
+    "AdjOutDateTime": "2019-05-04T16:05:26Z",
+    "BillVisit": true,
+    "HoursToBill": 10,
+    "HoursToPay": 10,
+    "Memo": "This is a memo!",
+    "ClientVerifiedTimes": true,
+    "ClientVerifiedTasks": true,
+    "ClientVerifiedService": true,
+    "ClientSignatureAvailable": true,
+    "ClientVoiceRecording": true,
+    "Calls": [
+      {
+        "CallExternalID": "67732221",
+        "CallDateTime": "2019-05-04T16:02:26Z",
+        "CallAssignment": "Time In",
+        "CallType": "Other",
+        "ProcedureCode": "HSPIP",
+        "ClientIdentifierOnCall": "98733222",
+        "MobileLogin": "98733222",
+        "CallLatitude": 40.34455,
+        "CallLongitude": -21.99383,
+        "Location": "123",
+        "TelephonyPIN": 9989999,
+        "OriginatingPhoneNumber": "2125551212",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "VisitExceptionAcknowledgement": [
+      {
+        "ExceptionID": "15",
+        "ExceptionAcknowledged": false
+      }
+    ],
+    "VisitChanges": [
+      {
+        "SequenceID": "889900232",
+        "ChangeMadeBy": "svam223@test.com",
+        "ChangeDateTime": "2019-05-04T18:45:00Z",
+        "GroupCode": "9223",
+        "ReasonCode": "9223",
+        "ChangeReasonMemo": "Change Reason Memo 9223",
+        "ResolutionCode": "A"
+      }
+    ],
+    "ErrorCode": null,
+    "ErrorMessage": null
+  }
+]

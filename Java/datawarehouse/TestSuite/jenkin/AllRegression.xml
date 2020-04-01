@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="All" verbose="1">
+    <groups>
+        <run>
+            <exclude name="onlyDev"/>
+            <exclude name="skipped"/>
+            <exclude name="ignore"/>
+            <exclude name="non-regression"/>
+        </run>
+    </groups>
+    <test name="AltEvvClient-Molina"/>
+    <test name="AltEvvClient-CO"/>
+    <test name="AltEvvClient-IN"/>
+    <test name="AltEvvClient-PA"/>
+    <test name="AltEvvClient-VT">
+        <classes>
+            <class name="altevv.generic.client.Auto_SEVV_6463_TC_20593_AltEVV_IntakeClient_PayerProgramServiceCombination"/>
+            <class name="altevv.generic.client.Auto_SEVV_TC_20218_AltClientValidateFields"/>
+            <class name="altevv.generic.client.Auto_SEVV_6445_TC_23326_AltEVVClient_Send_multi_value_segments"/>
+        </classes>
+    </test>
+    <test name="AltEvvClient-RI">
+        <classes>
+            <class name="altevv.generic.client.Auto_SEVV_6463_TC_20593_AltEVV_IntakeClient_PayerProgramServiceCombination"/>
+            <class name="altevv.generic.client.Auto_SEVV_TC_20218_AltClientValidateFields"></class>
+            <class name="altevv.generic.client.Auto_SEVV_6445_TC_23326_AltEVVClient_Send_multi_value_segments"></class>
+        </classes>
+    </test>
+    <test name="AltEvvClient-AZ">
+        <classes>
+            <class name="altevv.generic.client.Auto_SEVV_6463_TC_20593_AltEVV_IntakeClient_PayerProgramServiceCombination"/>
+            <class name="altevv.generic.client.Auto_SEVV_TC_20218_AltClientValidateFields"></class>
+        </classes>
+    </test>
+    <test name="AltEvvClient-HI">
+        <classes>
+            <class name="altevv.generic.client.Auto_SEVV_6445_TC_23326_AltEVVClient_Send_multi_value_segments"/>
+            <class name="altevv.generic.client.Auto_SEVV_TC_20218_AltClientValidateFields"/>
+            <class name="altevv.generic.client.Auto_SEVV_6463_TC_20593_AltEVV_IntakeClient_PayerProgramServiceCombination"/>
+            <class name="altevv.hawaii.client.Auto_SEVV_6958_TC_22654_Duplicate_MedicaidID"></class>
+        </classes>
+    </test>
+    <test name="AltEvvClient-Ohio"/>
+    <test name="AltEvvClient">
+        <packages>
+            <package name="altevv.generic.client"/>
+        </packages>
+    </test>
+
+    <test name="AltEvvEmployee-Molina"/>
+    <test name="AltEvvEmployee-CO"/>
+    <test name="AltEvvEmployee-IN"/>
+    <test name="AltEvvEmployee-PA"/>
+    <test name="AltEvvEmployee-VT"/>
+    <test name="AltEvvEmployee-RI">
+        <packages>
+            <package name="altevv.generic.employee"/>
+        </packages>
+    </test>
+    <test name="AltEvvEmployee-AZ">
+        <packages>
+            <package name="altevv.generic.employee"/>
+        </packages>
+    </test>
+    <test name="AltEvvEmployee-HI">
+        <packages>
+            <package name="altevv.generic.employee"/>
+        </packages>
+    </test>
+    <test name="AltEvvEmployee-Ohio"/>
+    <test name="AltEvvEmployee">
+        <packages>
+            <package name="altevv.generic.employee"/>
+        </packages>
+    </test>
+    <test name="AltEvvVisit-Molina"/>
+    <test name="AltEvvVisit-CO"/>
+    <test name="AltEvvVisit-IN"/>
+    <test name="AltEvvVisit-PA">
+        <classes>
+            <class name="altevv.generic.visit.Auto_SEVV_TC_40300_AltEVV_IntakeVisit_ValidationFields"></class>
+            <class name="altevv.generic.visit.Auto_SEVV_TC_20741_AltEVV_Visit_new_flow"></class>
+        </classes>
+    </test>
+    <test name="AltEvvVisit-VT">
+        <classes>
+            <class name="altevv.generic.visit.Auto_SEVV_TC_40300_AltEVV_IntakeVisit_ValidationFields"></class>
+            <class name="altevv.generic.visit.Auto_SEVV_TC_20741_AltEVV_Visit_new_flow"></class>
+        </classes>
+    </test>
+    <test name="AltEvvVisit-RI">
+        <classes>
+            <class name="altevv.generic.visit.Auto_SEVV_TC_40300_AltEVV_IntakeVisit_ValidationFields"></class>
+            <class name="altevv.generic.visit.Auto_SEVV_TC_20741_AltEVV_Visit_new_flow"></class>
+        </classes>
+    </test>
+    <test name="AltEvvVisit-AZ">
+        <classes>
+            <class name="altevv.generic.visit.Auto_SEVV_TC_40300_AltEVV_IntakeVisit_ValidationFields"></class>
+            <class name="altevv.generic.visit.Auto_SEVV_TC_20741_AltEVV_Visit_new_flow"></class>
+        </classes>
+    </test>
+    <test name="AltEvvVisit-HI">
+        <classes>
+            <class name="altevv.generic.visit.Auto_SEVV_TC_40300_AltEVV_IntakeVisit_ValidationFields"></class>
+            <class name="altevv.generic.visit.Auto_SEVV_TC_20741_AltEVV_Visit_new_flow"></class>
+        </classes>
+    </test>
+    <test name="AltEvvVisit-Ohio"/>
+    <test name="AltEvvVisit">
+        <packages>
+            <package name="altevv.generic.visit"/>
+        </packages>
+    </test>
+
+
+    <test name="RestClaim"/>
+    <test name="RestClaim-OHIO">
+        <packages>
+            <package name="claim.rest.ohio"/>
+        </packages>
+    </test>
+    <test name="RestClaim-Molina"/>
+    <test name="RestClaim-CO"/>
+    <test name="RestClaim-IN"/>
+    <test name="RestClaim-PA">
+        <packages>
+            <package name="claim.rest.pennsylvania"/>
+        </packages>
+    </test>
+    <test name="RestClaim-VT"/>
+    <test name="RestClaim-RI"/>
+    <test name="RestClaim-AZ"/>
+    <test name="RestClaim-HI"/>
+
+    <test name="OpenEvvSchedule-Molina"/>
+    <test name="OpenEvvSchedule-CO"/>
+    <test name="OpenEvvSchedule-IN"/>
+    <test name="OpenEvvSchedule-PAOpenEVV">
+        <packages>
+            <package name="openevv.generic.schedule"/>
+        </packages>
+    </test>
+    <test name="OpenEvvSchedule-VT"/>
+    <test name="OpenEvvSchedule-RI"/>
+    <test name="OpenEvvSchedule-AZ">
+        <packages>
+            <package name="openevv.generic.schedule"/>
+        </packages>
+    </test>
+    <test name="OpenEvvSchedule-HI">
+        <packages>
+            <package name="openevv.generic.schedule"/>
+        </packages>
+    </test>
+    <test name="OpenEvvSchedule">
+        <packages>
+            <package name="openevv.generic.schedule"/>
+        </packages>
+    </test>
+
+    <test name="OpenEvvEmployee-Molina"/>
+    <test name="OpenEvvEmployee-CO"/>
+    <test name="OpenEvvEmployee-IN"/>
+    <test name="OpenEvvEmployee-PA">
+        <packages>
+            <package name="openevv.generic.employee"/>
+        </packages>
+    </test>
+    <test name="OpenEvvEmployee-VT">
+        <packages>
+            <package name="openevv.generic.employee"/>
+        </packages>
+    </test>
+    <test name="OpenEvvEmployee-RI"/>
+    <test name="OpenEvvEmployee-AZ">
+        <packages>
+            <package name="openevv.generic.employee"/>
+        </packages>
+    </test>
+    <test name="OpenEvvEmployee-HI">
+        <packages>
+            <package name="openevv.generic.employee"/>
+        </packages>
+    </test>
+    <test name="OpenEvvEmployee">
+        <packages>
+            <package name="openevv.generic.employee"/>
+        </packages>
+    </test>
+    <test name="OpenEvvClient-Molina"/>
+    <test name="OpenEvvClient-CO"/>
+    <test name="OpenEvvClient-IN"/>
+    <test name="OpenEvvClient-PA"/>
+    <test name="OpenEvvClient-VT">
+        <packages>
+            <package name="openevv.generic.client"/>
+        </packages>
+    </test>
+    <test name="OpenEvvClient-RI"/>
+    <test name="OpenEvvClient-AZ">
+        <packages>
+            <package name="openevv.generic.client"/>
+        </packages>
+    </test>
+    <test name="OpenEvvClient-HI">
+        <packages>
+            <package name="openevv.generic.client"/>
+            <package name="openevv.hawaii.client"/>
+        </packages>
+    </test>
+    <test name="OpenEvvClient">
+        <packages>
+            <package name="openevv.generic.client"/>
+        </packages>
+    </test>
+
+    <test name="OpenEvvAuth-Molina"/>
+    <test name="OpenEvvAuth-CO"/>
+    <test name="OpenEvvAuth-IN"/>
+    <test name="OpenEvvAuth-PA"/>
+    <test name="OpenEvvAuth-VT"/>
+    <packages>
+        <package name="openevv.generic.auth"></package>
+    </packages>
+    <test name="OpenEvvAuth-RI"/>
+    <test name="OpenEvvAuth-AZ">
+        <packages>
+            <package name="openevv.generic.auth"/>
+            <package name="openevv.generic.authstaging"></package>
+        </packages>
+    </test>
+    <test name="OpenEvvAuth-HI">
+        <packages>
+            <package name="openevv.generic.auth"/>
+            <package name="openevv.generic.authstaging"></package>
+        </packages>
+    </test>
+    <test name="OpenEvvAuth"/>
+    <test name="OpenEvvMember-Molina"/>
+    <test name="OpenEvvMember-CO"/>
+    <test name="OpenEvvMember-IN"/>
+    <test name="OpenEvvMember-PA"/>
+    <test name="OpenEvvMember-VT">
+        <packages>
+            <package name="openevv.generic.member"/>
+        </packages>
+    </test>
+    <test name="OpenEvvMember-RI"/>
+    <test name="OpenEvvMember-AZ">
+        <packages>
+            <package name="openevv.generic.member"/>
+        </packages>
+    </test>
+    <test name="OpenEvvMember-HI">
+        <packages>
+            <package name="openevv.generic.member"/>
+        </packages>
+    </test>
+    <test name="OpenEvvMember"/>
+    <test name="OpenEvvXref-Molina"/>
+    <test name="OpenEvvXref-CO"/>
+    <test name="OpenEvvXref-IN"/>
+    <test name="OpenEvvXref-PA"/>
+    <test name="OpenEvvXref-VT">
+        <packages>
+            <package name="openevv.generic.xref"/>
+        </packages>
+    </test>
+    <test name="OpenEvvXref-RI"/>
+    <test name="OpenEvvXref-AZ">
+        <packages>
+            <package name="openevv.generic.xref"/>
+        </packages>
+    </test>
+    <test name="OpenEvvXref-HI">
+        <packages>
+            <package name="openevv.generic.xref"/>
+        </packages>
+    </test>
+    <test name="OpenEvvXref"/>
+    <test name="OpenEvvCompleteVisit-Molina"/>
+    <test name="OpenEvvCompleteVisit-CO"/>
+    <test name="OpenEvvCompleteVisit-IN"/>
+    <test name="OpenEvvCompleteVisit-PAOpenEVV">
+        <packages>
+            <package name="openevv.generic.completevisit"/>
+        </packages>
+    </test>
+    <test name="OpenEvvCompleteVisit-VTOpenEVV">
+        <packages>
+            <package name="openevv.generic.completevisit"/>
+        </packages>
+    </test>
+    <test name="OpenEvvCompleteVisit-RI"/>
+    <test name="OpenEvvCompleteVisit-AZ"/>
+    <test name="OpenEvvCompleteVisit-HI"/>
+    <test name="OpenEvvCompleteVisit">
+        <packages>
+            <package name="openevv.generic.completevisit"/>
+        </packages>
+    </test>
+    <test name="ImportProvider-Molina"/>
+    <test name="ImportProvider-CO"/>
+    <test name="ImportProvider-IN"/>
+    <test name="ImportProvider-PA">
+        <packages>
+            <package name="openevvbatch.provider.pennsylvania"/>
+            <package name="openevvbatch.provider.pennsylvania.e2eflows"/>
+        </packages>
+    </test>
+    <test name="ImportProvider-VT"/>
+    <test name="ImportProvider-RI"/>
+    <test name="ImportProvider-AZ">
+        <packages>
+            <package name="openevvbatch.provider.arizona"/>
+        </packages>
+    </test>
+    <test name="ImportProvider-HI">
+        <packages>
+            <package name="openevvbatch.provider.hawaii"/>
+        </packages>
+    </test>
+    <test name="ImportAuth"/>
+
+    <test name="ImportMember-Molina">
+        <packages>
+            <package name="openevvbatch.member.molina"/>
+        </packages>
+    </test>
+    <test name="ImportMember-CO"/>
+    <test name="ImportMember-IN"/>
+    <test name="ImportMember-PA">
+        <packages>
+            <package name="openevvbatch.member.pensylvania"/>
+        </packages>
+    </test>
+    <test name="ImportMember-VT"/>
+    <test name="ImportMember-RI"/>
+    <test name="ImportMember-AZ">
+        <packages>
+            <package name="openevvbatch.member.arizona"/>
+        </packages>
+    </test>
+    <test name="ImportMember-HI">
+        <packages>
+            <package name="openevvbatch.member.hawaii"/>
+        </packages>
+    </test>
+    <test name="ImportMember"/>
+
+    <test name="ImportAuth-Molina"/>
+    <test name="ImportAuth-CO"/>
+    <test name="ImportAuth-IN"/>
+    <test name="ImportAuth-PA">
+        <packages>
+            <package name="openevvbatch.auth.pennsylvania"/>
+        </packages>
+    </test>
+    <test name="ImportAuth-VT"/>
+    <test name="ImportAuth-RI"/>
+    <test name="ImportAuth-AZ">
+        <classes>
+            <class name="openevvbatch.auth.Auto_SEVV_14449_TC_20397_Field_Validation_Import_Base_OpenEVV_Auth">
+                <methods >
+                    <include name="TC_Validate_Arizona"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="ImportAuth-HI">
+        <classes>
+            <class name="openevvbatch.auth.Auto_SEVV_14449_TC_20397_Field_Validation_Import_Base_OpenEVV_Auth">
+                <methods>
+                    <include name="TC_Validate_Hawaii"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="BatchClaim-OHIO">
+        <packages>
+            <package name="claim.batch.ohio"/>
+        </packages>
+    </test>
+    <test name="BatchClaim-PA">
+        <!-- PA doesn't use Batch Claim validation -->
+    </test>
+    <test name="BatchClaim-AZ">
+        <packages>
+            <package name="claim.batch.arizona"/>
+        </packages>
+    </test>
+
+</suite>

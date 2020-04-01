@@ -1,0 +1,13 @@
+Name                  ,Required,Type        ,Description                                  ,Exclude,Value      ,POST Status,Error Message in POST,GET Status,Error Message in GET,INBOX Status
+$.EmployeeLastName,,String[0:29],Created a valid Employee,,,SUCCESS,,,,yes
+$.EmployeeOtherID,,String,EmployeeOtherID is different format 00000####,,D00000342,FAILED,,,,
+$.EmployeeOtherID,,String,EmployeeOtherID is missing “00000” chars,,456123,FAILED,,,,
+$.EmployeeOtherID,,Integer,EmployeeOtherID has less than 9 numeric,,1236,FAILED,,,,
+$.EmployeeIdentifier,,Integer[0:9],Return FAILED when EmployeeIdentifier has greater than 9 digits,,,FAILED,,,,
+$.EmployeeIdentifier,,Integer[0:7],Return FAILED when EmployeeIdentifier has less than 9 digits,,,FAILED,,,,
+$.EmployeeIdentifier,,String[0:8],Return FAILED when EmployeeIdentifier is not numeric,,,FAILED,,,,
+$.EmployeeIdentifier,,String,EmployeeIdentifier is less than 9 digits,,00000123,FAILED,,,,
+$.EmployeeSSN,Yes,String,Return Failed when EmployeeSSN is Null or Empty,,,FAILED,,,,
+$.EmployeeSSN,,Integer[0:9],Return Failed when EmployeeSSN is greater than 9 digits,,,FAILED,,,,
+$.EmployeeSSN,,Integer[0:7],Return Failed when EmployeeSSN is less than 9 digits,,,FAILED,,,,
+$.EmployeeSSN,,String[0:8],Return FAILED when EmployeeSSN is not numeric,,,FAILED,,,,

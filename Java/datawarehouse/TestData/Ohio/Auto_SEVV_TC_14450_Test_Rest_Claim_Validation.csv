@@ -1,0 +1,12 @@
+Client FirstName,Employee FirstName,Service Start Date,Service End Date,In Time,Out Time,Proc Code,UnitsRule,Matching Rule,Duration,VP,SuceededCount,Program,Payer,TC
+OhioClaimClientClaimOhioA,                      ,2019-11-01        ,2019-11-01      ,        ,        ,G0156    ,Add_Units,Exact_Match          ,240     ,16             ,2            ,SP     ,ODM  ,
+OhioClaimClientClaimOhioA,OhioEmployeeClaimOhioA,2019-11-01        ,2019-11-01      ,03:00 AM,05:00 AM,G0156    ,         ,                     ,        ,8              ,             ,SP     ,ODM  ,
+OhioClaimClientClaimOhioA,OhioEmployeeClaimOhioA,2019-11-01        ,2019-11-01      ,01:00 AM,03:00 AM,G0156    ,         ,                     ,        ,8              ,             ,SP     ,ODM  ,
+OhioClaimClientClaimOhioA,                      ,2019-11-01        ,2019-11-01      ,        ,        ,G0156    ,Add_Units,Exclude_Units        ,240     ,16             ,2            ,SP     ,ODM  ,
+OhioClaimClientClaimOhioA,                      ,2019-11-01        ,2019-11-01      ,        ,        ,G0156    ,Add_Units,Exact_Match          ,150     ,Unmatched Units,0            ,SP     ,ODM  ,
+OhioClaimClientClaimOhioA,                      ,2019-11-01        ,2019-11-01      ,        ,        ,G0156    ,Add_Units,Equal_Or_Greater_Than,240     ,16             ,2            ,SP     ,ODM  ,
+OhioClaimClientClaimOhioA,OhioEmployeeClaimOhioA,2019-12-01        ,2019-12-01      ,01:00 AM,03:00 AM,G0156    ,         ,                     ,        ,8              ,             ,SP     ,ODM  ,
+OhioClaimClientClaimOhioA,OhioEmployeeClaimOhioA,2019-12-01        ,2019-12-01      ,01:00 AM,03:00 AM,G0156    ,         ,                     ,        ,8              ,             ,SP     ,ODM  ,
+OhioClaimClientClaimOhioA,                      ,2019-12-01        ,2019-12-01      ,        ,        ,G0156    ,Add_Units,Exclude_Units        ,120     ,No visit found ,0            ,SP     ,ODM  ,
+OhioClaimClientClaimOhioA,OhioEmployeeClaimOhioA,2019-10-01        ,2019-10-01      ,01:00 AM,03:00 AM,T1001    ,         ,                     ,        ,8              ,             ,SP     ,ODM  ,
+OhioClaimClientClaimOhioA,                      ,2019-10-01        ,2019-10-01      ,01:00 AM,03:00 AM,T1001    ,Add_Units,Exclude_Units        ,15      ,8              ,1            ,SP     ,ODM  ,

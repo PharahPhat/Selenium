@@ -1,0 +1,43 @@
+[
+  {
+  	"PayerID": "qwertyuioplkjhgfdsazxcvbnm654323587606567890QWERTYUIOASDFGHJKLM",
+  	"PayerProgram": "viettjhgf",
+   	"PayerRegion": "NA",
+  	 "ClientQualifier": "ClientCustomID",
+    "ClientIdentifier": "123456789",
+  	"ProviderQualifier": "MedicaidID",
+  	"ProviderID": "120987654321qweryuioplkjhgfdsazxcvbnm1234567890qwe",
+  	"AuthorizationReferenceNumber": "097654321qwertyuiopasdfgh",
+  	"AuthorizationServiceID": "01fgh",
+  	"AuthorizationBillingType": "1234567890qwert",
+  	"Modifier1": "1A",
+  	"Modifier2": "2B",
+  	"Modifier3": "3C",
+  	"Modifier4": "4D",
+  	"AuthorizationAmountType": "U",
+  	"AuthorizationMaximum": "9999",
+  	"AuthorizationStartDate": "01/10/2018",
+  	"AuthorizationEndDate": "01/12/2018",
+  	"AuthorizationShared": "Y",
+  	"AuthorizationComments": "097654321qwertyuiopasdfgh1234567890qwertyuiopasdfghjklzxcvbnm@#$&*1234567890oiuytremnbvcx1234567890qwertyuioplkjhgfdszxc v bnm 1234567890qwertyuiookjhgfdszxcvbnm	qwertyuioplkjhgfdszxcvb 25 qwertyuiolk",
+  	"AuthorizationLimitType": "S",
+  	"AuthorizationStatus": "A",
+  	  	"AuthorizationLimit": [
+{
+  		"AuthorizationLimit": "9999",
+  		"AuthorizationWeekStart": "Sat",
+  		"AuthorizationLimitDayOfWeek": "Mon",
+  		"AuthorizationLimitStartTime": "1200",
+  		"AuthorizationLimitEndTime": "2300"
+  	}
+    ],
+    "DiagnosisCode": [
+      {
+        "ClientDiagnosisCodeIsPrimary": "Y",
+        "ClientDiagnosisCode": "E10.45",
+        "ClientDiagnosisCodeBeginDate": "01/01/2018",
+        "ClientDiagnosisCodeEndDate": "01/01/2018"
+      }
+    ]
+  }
+]

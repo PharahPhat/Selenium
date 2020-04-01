@@ -1,0 +1,17 @@
+[{
+  "ProviderIdentification": {
+    "ProviderQualifier": "SandataID",
+    "ProviderID": "123456"
+  },
+  "EmployeeIdentifier": "3160025",
+  "EmployeeOtherID": "480025",
+  "SequenceID": "999810043",
+  "EmployeeQualifier": "EmployeeSSN",
+  "EmployeeSSN": "736000628",
+  "EmployeeLastName": "Doe",
+  "EmployeeFirstName": "John",
+  "EmployeeEmail": "hoaemployeetestthree@yopmail.com",
+  "EmployeeManagerEmail": "hoaemployeetestthree@yopmail.com",
+  "EmployeePosition": "RN",
+  "EmployeeAPI": "hoaemployee"
+}]

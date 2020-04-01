@@ -1,0 +1,2 @@
+Name,Required,Type,Description,Precondition,Value,POST Status,Error Message in POST,GET Status,Error Message in GET,INBOX Status
+$.MemberEnrollmentDate,,String,,,2019-01-01,SUCCESS,,,,yes

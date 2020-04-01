@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="allSuites" verbose="1">
+    <parameter name="testType" value="api"></parameter>
+    <test name="All" verbose="1">
+        <classes>
+            <class name="dwh.colorado.Auto_SEVV_TC_0004_Export_Files_Colorado"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18780_EMP_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18781_CLIENT_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18782_PROVIDER_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18783_EMP_DISC_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18784_VISIT_CHANGES_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18785_VISIT_CALLS_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18786_PROVIDER_LOC_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18787_CLIENT_ADDR_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18788_VISIT_GENERAL_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18789_CLIENT_PHONE_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18790_VISIT_TASKS_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18791_VISIT_EXCP_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18792_VISIT_CLAIMST_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_TC_18796_CLIENT_SCHEDULE_Validate_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.colorado.Auto_SEVV_14952_TC_19336_Bug_Client_Designee_Segment_Contains_Records_That_Are_Not_Designees"></class>
+            <parameter name="testType" value="api"></parameter>
+        </classes>
+    </test>
+</suite>

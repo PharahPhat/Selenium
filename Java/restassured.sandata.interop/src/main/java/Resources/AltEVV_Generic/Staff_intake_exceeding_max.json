@@ -1,0 +1,17 @@
+[
+  {
+   	 "EmployeeQualifier": "EmployeeSSNEmployeeSN",
+   	 "EmployeeIdentifier": "1234567890",
+   	 "EmployeeOtherID": "EmployeeOtherID12345EmployeeOtherID12345EmployeeOtherID1234512345",
+   	 "SequenceID": "345678901",
+   	 "EmployeeSSN": "1234189671",
+   	 "EmployeeLastName": "MittalMittalMittalMittalMittalM",
+     	"EmployeeFirstName": "MayankMayankMayankMayankMayankM",
+     	"EmployeeEmail": "abcdefghijklmnopqrstuvqxyabcdefghijklmnopqrstuvqxy@mailinator.com",
+     	"EmployeeManagerEmail": "qwertyuioplkjhgfdsazxcvbnqwertyuioplkjhgfdsazxcvbn@mailinator.com",
+     	"EmployeeAPI" : "98765432109876543210123456",
+     	"EmployeePosition": "HHAM",
+     	"ProviderQualifier": "SandataIDSandataIDIDD",
+     	"ProviderID": "8459327845932788459327845932788459327845932780987654"
+  }
+]

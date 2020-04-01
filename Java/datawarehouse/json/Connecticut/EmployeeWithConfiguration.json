@@ -1,0 +1,32 @@
+[
+  {
+    "Account": "14420",
+    "EmployeePIN": "233234325",
+    "EmployeeLastName": "afsfsdfo",
+    "EmployeeFirstName": "sf",
+    "EmployeeMiddleInitial": "T",
+    "Department": "NCP",
+    "EmployeeType": "N",
+    "Discipline": "HHA",
+    "EmployeeEmailAddress": "skyttest3@test.com",
+    "EmployeeAddress1": "abcdefghijabcdefghijabcdefghij",
+    "EmployeeAddress2": "cbcdefghijabcdefghijabcdefghij",
+    "EmployeeCity": "New York",
+    "EmployeeState": "CA",
+    "EmployeeZipCode": "21442",
+    "EmployeePhone": "1909521672",
+    "EmployeeAltPhone": "1990871012",
+    "EmployeeAltPhone2": "7787561012",
+    "EmployeeID": "13313",
+    "EmployeeIDCustom1": "MHBUY162",
+    "EmployeeIDCustom2": "ACQWW882",
+    "EmployeeSocialSecurity": "821712414",
+    "PayRate": "5.043",
+    "EmployeeHireDate": "08012011",
+    "EmployeeEndDate": null,
+    "EmployeeBirthDate": "08221991",
+    "EmployeeGender": "M",
+    "EmployeePrimaryLocation": "Location Queen",
+    "Status":""
+  }
+]

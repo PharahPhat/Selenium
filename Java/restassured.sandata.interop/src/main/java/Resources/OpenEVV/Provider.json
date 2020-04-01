@@ -1,0 +1,24 @@
+[
+  {
+    "ProviderQualifier": "Other",
+    "ProviderID": "FMP000002264329",
+    "ProviderName": "LIVING INNOVATIONS SUPPORT SER",
+    "PayerID": "MEDHHS",
+    "ProviderDoingBusinessAs": "Provider",
+    "AddressLine1": "PO BOX 781",
+    "AddressLine2": "PO BOX 890 TEXAS",
+    "AddressCity": "GREENLAND",
+    "AddressState": "NH",
+    "AddressZip": "03820",
+    "County": "STRAFFORD",
+    "AgencyPhone": "6034227308",
+    "AgencyEmail": "cpufahl@live.com",
+    "PrimaryContactLastName": "LIVING INNOVATIONS SUPPORT SER",
+    "PrimaryContactFirstName": "LIVING INNOVATIONS SUPPORT SER",
+    "ProviderFax": "6034307682",
+    "ProviderNPI": "1073633376",
+    "ProviderAPI": "2345",
+    "TaxID": "020505172",
+    "ProviderRequireAuth": "0"
+  }
+]

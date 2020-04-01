@@ -1,0 +1,5 @@
+Name              ,Required,Type        ,Description                          ,Precondition,Value                                                            ,POST Status,Error Message in POST,GET Status,Error Message in GET,INBOX Status
+$.ClientMedicaidID,        ,String[1:64],ClientMedicaidID is out of max length,            ,KjkjsakjakjdakjdkhadkjhaskdKjkjsakjakjdakjdkhadkjhaskdKjkjsakjak5,FAILED     ,                     ,          ,                    ,
+$.ClientMedicaidID,        ,String      ,ClientMedicaidID is 64 chars         ,            ,KjkjsakjakjdakjdkhadkjhaskdKjkjsakjakjdakjdkhadkjhaskdKjkjsakjak ,SUCCESS    ,                     ,          ,                    ,yes
+$.ClientMedicaidID,        ,NULL        ,ClientMedicaidID is required         ,            ,                                                                 ,SUCCESS    ,                     ,          ,                    ,yes
+$.ClientMedicaidID,        ,String      ,ClientMedicaidID is required         ,            ,                                                                 ,SUCCESS    ,                     ,          ,                    ,yes

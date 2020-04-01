@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="allSuites" verbose="1">
+    <parameter name="testType" value="api"></parameter>
+    <test name="All" verbose="1">
+        <classes>
+            <class name="dwh.ohio.Auto_SEVV_TC_0009_Export_Files_Ohio"></class>
+            <class name="dwh.ohio.Auto_SEVV_TC_18763_EMP_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.ohio.Auto_SEVV_TC_18764_CLIENT_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.ohio.Auto_SEVV_TC_18765_PROVIDER_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.ohio.Auto_SEVV_TC_18771_VISIT_GENERAL_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.ohio.Auto_SEVV_TC_18768_VISIT_CALLS_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.ohio.Auto_SEVV_TC_18774_VISIT_EXCP_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.ohio.Auto_SEVV_TC_18772_CLIENT_PHONE_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.ohio.Auto_SEVV_TC_18770_CLIENT_ADDR_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.ohio.Auto_SEVV_TC_18767_VISIT_CHANGES_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <class name="dwh.ohio.Auto_SEVV_TC_18775_VISIT_CLAIMST_Validate_Provider_Data_Exported_As_Expected_Results"></class>
+            <parameter name="testType" value="api"></parameter>
+        </classes>
+    </test>
+</suite>

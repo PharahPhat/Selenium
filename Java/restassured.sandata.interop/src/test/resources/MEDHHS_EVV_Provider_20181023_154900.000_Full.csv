@@ -1,0 +1,3 @@
+"ProviderID"|"ProviderQualifier"|"ProviderName"|"PayerID"|"ProviderDoingBusinessAs"|"AddressLine1"|"AddressLine2"|"AddressCity"|"AddressState"|"AddressZip"|"County"|"AgencyPhone"|"AgencyEmail"|"PrimaryContactLastName"|"PrimaryContactFirstName"|"ProviderFax"|"ProviderNPI"|"ProviderAPI"|"ProviderMedicaidID"|"SSN"|"TaxID"|"ProviderTaxonomy"|"ProviderRequireAuth"|"ProviderDateBegin"|"ProviderDateEnd"
+
+"SVAM00002218087"|"Other"|"Test svam proivider NAme Two"|"MEDHHS"|" "|"westcoastnumbiongtrewsd"|"westcoastnrewrtyuiongtrewsd"|"SOUTHtyuiongewqsdfghy"|"ME"|"041068907"|"tyuiortedfrtyuityrdef"|"2077753366"|"TestProvider102202@svam.com"|"HC WATSONINTERIM HEALTHCA"|"HC WATSONINTERIM HEALTHCA"|"1022186299"|"1022180876"|" "|" "|" "|"102218042"|""|" "|"2008-01-01"|"2078-12-31"

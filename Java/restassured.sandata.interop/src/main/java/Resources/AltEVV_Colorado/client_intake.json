@@ -1,0 +1,98 @@
+[
+  {
+    "ProviderIdentification" : {
+      "ProviderID": "12345691",
+      "ProviderQualifier": "MedicaidID"
+    },
+    "ClientID": "15677",
+    "ClientFirstName": "Tam",
+    "ClientMiddleInitial": "T",
+    "ClientLastName": "Nguyen",
+    "PayerName": "ODM",
+    "ClientQualifier": "ClientMedicaidID",
+    "ClientMedicaidID": "9990023411",
+    "ClientIdentifier": "777459001",
+    "ClientIDQualifier": "ClientOtherID",
+    "SequenceID": "99999002",
+    "ClientCustomID": "459001",
+    "ClientOtherID": "67834",
+    "ClientSSN": "123456789",
+    "ClientTimezone": "US/Mountain",
+    "ClientAddress": [
+      {
+        "ClientAddressType": "Home",
+        "ClientAddressIsPrimary": true,
+        "ClientAddressLine1": "36 West 5th Street",
+        "ClientAddressLine2": "10th Floor",
+        "ClientCounty": "Kings",
+        "ClientCity": "Manhattan",
+        "ClientState": "NY",
+        "ClientZip": "10017",
+        "ClientAddressLongitude": -73.4228741,
+        "ClientAddressLatitude": 40.7431032,
+        "ErrorCode": null,
+        "ErrorMessage": null
+      },
+      {
+        "ClientAddressType": "Home",
+        "ClientAddressIsPrimary": true,
+        "ClientAddressLine1": "36 West 5th Street",
+        "ClientAddressLine2": "10th Floor",
+        "ClientCounty": "Kings",
+        "ClientCity": "Manhattan",
+        "ClientState": "NY",
+        "ClientZip": "10017",
+        "ClientAddressLongitude": -73.4228741,
+        "ClientAddressLatitude": 40.7431032,
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "ClientPhone": [
+      {
+        "ClientPhoneType": "Home",
+        "ClientPhone": "2125551212",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "ClientResponsibleParty": [
+      {
+        "ClientContactType": "Friend",
+        "ClientContractFirstName": "David",
+        "ClientContactLastName": "Rutgos",
+        "ClientContactPhoneType": "Mobile",
+        "ClientContactPhone": "3478788467",
+        "ClientContactEmailAddress": "tamvnguyen01@sandata.com",
+        "ClientContactAddressLine1": "2727 East 29th Street",
+        "ClientContactAddressLine2": "Apt 8I",
+        "ClientContactCity": "Brooklyn",
+        "ClientContactState": "NY",
+        "ClientContactZip": "11229",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "ClientPayerInformation": [{
+      "PayerID": "COHCPF",
+      "PayerProgram": "HCPF",
+      "ProcedureCode": "BHSVC",
+      "ClientPayerID": "TC95821ClientPayerID",
+      "ClientEligibilityDateBegin": null,
+      "ClientEligibilityDateEnd": "2018-12-10",
+      "ClientStatus": "01"
+    },
+      {
+        "PayerID": "COHCPF",
+        "PayerProgram": "HCPF",
+        "ProcedureCode": "BHSVC",
+        "ClientPayerID": "TC95821ClientPayerID",
+        "ClientEligibilityDateBegin": null,
+        "ClientEligibilityDateEnd": "2018-12-10",
+        "ClientStatus": "01"
+      }
+    ],
+    "ErrorCode": null,
+    "ErrorMessage": null
+  }
+]

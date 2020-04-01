@@ -1,0 +1,83 @@
+[
+  {
+    "ProviderIdentification": {
+      "ProviderID": "0267123",
+      "ProviderQualifier": "Other"
+    },
+    "VisitOtherID": "10098",
+    "SequenceID": 998000000238,
+    "EmployeeIdentifier": "316250",
+    "EmployeeQualifier": "EmployeeCustomID",
+    "ClientID": "15000",
+    "ClientIDQualifier": "ClientOtherID",
+    "VisitCancelledIndicator": false,
+    "PayerID": "ODM",
+    "PayerProgram": "OHC",
+    "ProcedureCode": "T1002",
+    "VisitTimeZone": "US/Mountain",
+    "ScheduleStartTime": "2019-03-11T16:02:26Z",
+    "ScheduleEndTime": "2019-03-11T20:02:26Z",
+    "BillVisit": true,
+    "HoursToBill": 10,
+    "HoursToPay": 10,
+    "Memo": "This is a memo!",
+    "ClientVerifiedTimes": true,
+    "ClientVerifiedTasks": true,
+    "ClientVerifiedService": true,
+    "ClientSignatureAvailable": true,
+    "ClientVoiceRecording": true,
+    "Calls": [
+      {
+        "CallExternalID": "67732221",
+        "CallDateTime": "2019-04-13T16:02:26Z",
+        "CallAssignment": "Time In",
+        "CallType": "Other",
+        "ProcedureCode": "T1002",
+        "ClientIdentifierOnCall": "98733222",
+        "MobileLogin": "98733222",
+        "CallLatitude": 40.34455,
+        "CallLongitude": -21.99383,
+        "Location": "123",
+        "TelephonyPIN": 9989999,
+        "OriginatingPhoneNumber": "2125551212",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      },
+      {
+        "CallExternalID": "67732221",
+        "CallDateTime": "2019-04-13T20:02:26Z",
+        "CallAssignment": "Time Out",
+        "CallType": "Other",
+        "ProcedureCode": "T1002",
+        "ClientIdentifierOnCall": "98733222",
+        "MobileLogin": "98733222",
+        "CallLatitude": 40.34455,
+        "CallLongitude": -21.99383,
+        "Location": "123",
+        "TelephonyPIN": 9989999,
+        "OriginatingPhoneNumber": "2125551212",
+        "ErrorCode": null,
+        "ErrorMessage": null
+      }
+    ],
+    "VisitExceptionAcknowledgement": [
+      {
+        "ExceptionID": "01",
+        "ExceptionAcknowledged": false
+      }
+    ],
+    "VisitChanges": [
+      {
+        "SequenceID": "998009900888",
+        "ChangeMadeBy": "svam2230@test.com",
+        "ChangeDateTime": "2018-10-14T20:02:26Z",
+        "GroupCode": "94567",
+        "ReasonCode": "07",
+        "ChangeReasonMemo": "Change Reason Memo 9223",
+        "ResolutionCode": "A"
+      }
+    ],
+    "ErrorCode": null,
+    "ErrorMessage": null
+  }
+]

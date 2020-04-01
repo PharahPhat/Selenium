@@ -1,0 +1,2 @@
+Field,Value,TypeOfTesting,Error Code
+MemberEnrollmentDate,1012019,invalid,ERROR: The MemberEnrollmentDate format is incorrect. The record should satisfy the date format ['yyyy-MM-dd'].
